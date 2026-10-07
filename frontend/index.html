@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VestaEst</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={theme:{extend:{colors:{paper:'#fbfaf6',ink:'#1b2350',mute:'#6b7090',line:'#e6e4dc',olive:'#6b6a2c',sun:'#f2b61f',rose:'#ec6fa8',sky:'#2aa3d8',brick:'#c2573c'},fontFamily:{display:['Fraunces','Georgia','serif'],sans:['Inter','system-ui','sans-serif']}}}}</script>
+<style>
+.lbl{font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;color:#6b7090}
+.seg{display:inline-flex;background:#f1efe8;border-radius:10px;padding:3px}
+.seg input{position:absolute;opacity:0}
+.seg span{display:block;padding:6px 16px;border-radius:8px;font-size:13px;font-weight:600;color:#6b7090;cursor:pointer}
+.seg input:checked+span{background:#fff;color:#1b2350;box-shadow:0 1px 3px rgba(27,35,80,.18)}
+.seg input:focus-visible+span{outline:2px solid #2aa3d8}
+.tool{width:40px;height:40px;display:grid;place-items:center;border-radius:8px;color:#1b2350;transition:.12s}
+.tool:hover{background:#f1efe8} .tool.on{background:#1b2350;color:#fff}
+.tool svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.chip{padding:4px 12px;border:1px solid #e6e4dc;border-radius:99px;font-size:12px;font-weight:500;color:#1b2350;background:#fff}
+.chip:hover{border-color:#1b2350}
+.chip[aria-pressed=true]{background:#1b2350;color:#fff;border-color:#1b2350}
+.field{height:44px;padding:0 12px;border:1px solid #e6e4dc;border-radius:8px;width:100%;font-size:14px}
+.field:focus{outline:none;border-color:#2aa3d8;box-shadow:0 0 0 3px rgba(42,163,216,.25)}
+.pin{width:20px;height:20px;border-radius:50%;background:#ec6fa8;border:3px solid #1b2350}
+.leaflet-popup-content-wrapper{border-radius:10px;font-family:Inter,sans-serif}
+.leaflet-control-layers{border:1px solid #e6e4dc!important;border-radius:10px!important;box-shadow:0 2px 10px rgba(27,35,80,.12)!important;font-family:Inter,sans-serif}
+table.t{width:100%;font-size:13px;border-collapse:collapse}
+table.t th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#6b7090;font-weight:600;text-align:left;padding:8px 6px;border-bottom:1px solid #e6e4dc}
+table.t td{padding:10px 6px;border-bottom:1px solid #f0eee7}
+#splash{position:fixed;inset:0;z-index:3000;background:#fbfaf6;display:flex;align-items:center;justify-content:center;transition:opacity .7s ease,visibility .7s;cursor:pointer}
+#splash.hide{opacity:0;visibility:hidden}
+#splash img{position:absolute;left:0;bottom:0;width:100%;height:50%;object-fit:cover;object-position:50% 35%;-webkit-mask-image:linear-gradient(to bottom,transparent,#000 50%);mask-image:linear-gradient(to bottom,transparent,#000 50%)}
+.rise{opacity:0;transform:translateY(14px);animation:rise .9s ease forwards}
+@keyframes rise{to{opacity:1;transform:none}}
+.bar{width:140px;height:2px;background:#e6e4dc;overflow:hidden;border-radius:2px}
+.bar i{display:block;height:100%;width:0;background:#6b6a2c;animation:load 2.3s ease .3s forwards}
+@keyframes load{to{width:100%}}
+</style>
+</head>
+<body class="bg-paper text-ink font-sans h-screen overflow-hidden flex flex-col antialiased">
+
+<div id="splash" title="Click to skip">
+  <img src="assets/avenue_splash.png" alt="">
+  <div class="relative text-center -mt-24 px-6">
+    <svg class="rise mx-auto mb-6" width="56" height="56" viewBox="0 0 48 48" fill="none" stroke="#1b2350" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 23 24 7l18 16M11 20v21h26V20"/><path d="M24 36c-4 0-6-2.7-5-6 .8-2.5 3-3.6 3.4-6.6 3.4 2 7.6 5.2 6.6 9.4-.5 2-2.3 3.2-5 3.2z" fill="#f2b61f" stroke="#1b2350"/></svg>
+    <h1 class="app-name rise font-display text-6xl md:text-7xl font-semibold tracking-tight" style="animation-delay:.2s"></h1>
+    <p class="tagline rise font-display italic text-xl md:text-2xl text-olive mt-4" style="animation-delay:.7s"></p>
+    <div class="bar rise mx-auto mt-10" style="animation-delay:1s"><i></i></div>
+  </div>
+</div>
+
+<nav class="h-16 shrink-0 bg-white border-b border-line px-6 flex items-center justify-between">
+  <div class="flex items-center gap-3">
+    <svg width="28" height="28" viewBox="0 0 48 48" fill="none" stroke="#1b2350" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 23 24 7l18 16M11 20v21h26V20"/><path d="M24 36c-4 0-6-2.7-5-6 .8-2.5 3-3.6 3.4-6.6 3.4 2 7.6 5.2 6.6 9.4-.5 2-2.3 3.2-5 3.2z" fill="#f2b61f"/></svg>
+    <span class="app-name font-display text-2xl font-semibold"></span>
+    <span class="hidden md:block w-px h-5 bg-line mx-1"></span>
+    <span class="tagline hidden md:block text-sm text-mute"></span>
+  </div>
+  <div class="flex items-center gap-2 text-sm text-mute border border-line rounded-full px-3 py-1.5">
+    <i id="dot" class="w-2 h-2 rounded-full bg-sun"></i><span id="statusText">Connecting…</span>
+  </div>
+</nav>
+
+<div class="flex flex-1 min-h-0 flex-col md:flex-row">
+  <aside class="md:w-[420px] shrink-0 bg-white md:border-r border-line flex flex-col min-h-0 max-h-[60vh] md:max-h-none">
+    <div class="flex-1 overflow-y-auto">
+      <div class="p-6">
+        <img src="assets/riverside.png" alt="Hand-drawn riverside city" class="w-full h-32 object-cover rounded-xl" style="object-position:50% 22%">
+        <h2 class="font-display text-2xl font-semibold mt-5">Find homes by area</h2>
+        <p class="text-sm text-mute mt-1">Mark a neighbourhood in Hyderabad, tell us what you need, and compare listed prices with the model. All prices in ₹.</p>
+      </div>
+
+      <section class="px-6 py-6 border-t border-line">
+        <p class="lbl">01 · Area</p>
+        <p class="text-sm text-mute mt-2">Use the toolbar on the map to draw an area, a box, or drop a pin.</p>
+        <div class="grid grid-cols-2 gap-3 mt-4">
+          <div class="rounded-lg bg-paper border border-line px-3 py-2"><p class="lbl">North</p><p id="bN" class="font-mono text-sm">–</p></div>
+          <div class="rounded-lg bg-paper border border-line px-3 py-2"><p class="lbl">East</p><p id="bE" class="font-mono text-sm">–</p></div>
+          <div class="rounded-lg bg-paper border border-line px-3 py-2"><p class="lbl">South</p><p id="bS" class="font-mono text-sm">–</p></div>
+          <div class="rounded-lg bg-paper border border-line px-3 py-2"><p class="lbl">West</p><p id="bW" class="font-mono text-sm">–</p></div>
+        </div>
+        <div class="flex items-center justify-between mt-5 text-sm"><label for="radius" class="font-medium">Pin radius</label><b id="rOut" class="font-semibold">2.0 km</b></div>
+        <input id="radius" type="range" min="0.5" max="10" step="0.5" value="2" disabled class="w-full mt-2 accent-ink disabled:opacity-40">
+      </section>
+
+      <section class="px-6 py-6 border-t border-line">
+        <div class="flex items-center justify-between"><p class="lbl">02 · Requirements</p><button id="resetFilters" class="text-xs font-semibold text-mute hover:text-ink underline">Reset</button></div>
+        <p class="text-sm font-medium mt-4">Property type</p><div id="g-ptype" class="flex flex-wrap gap-2 mt-2"></div>
+        <p class="text-sm font-medium mt-5">Bedrooms</p><div id="g-bhk" class="flex flex-wrap gap-2 mt-2"></div>
+        <p class="text-sm font-medium mt-5">Built-up area (sq ft)</p>
+        <div class="grid grid-cols-2 gap-3 mt-2"><input id="minArea" type="number" min="0" placeholder="Min" class="field"><input id="maxArea" type="number" min="0" placeholder="Max" class="field"></div>
+        <p class="text-sm font-medium mt-5">Possession</p><div id="g-poss" class="flex flex-wrap gap-2 mt-2"></div>
+        <p class="text-sm font-medium mt-5">Amenities</p><div id="g-amen" class="flex flex-wrap gap-2 mt-2"></div>
+      </section>
+
+      <section class="px-6 py-6 border-t border-line">
+        <p class="lbl">03 · Budget</p>
+        <div class="relative mt-3">
+          <span class="absolute left-4 top-1/2 -translate-y-1/2 text-mute font-semibold">₹</span>
+          <input id="budget" type="number" value="10000000" min="100000" step="100000" class="w-full h-12 pl-9 pr-4 rounded-lg border border-line text-lg font-semibold focus:outline-none focus:border-sky focus:ring-2 focus:ring-sky/30">
+        </div>
+        <p id="budgetWords" class="text-sm text-mute mt-2"></p>
+        <div class="flex flex-wrap gap-2 mt-3">
+          <button class="chip" data-b="4000000">₹40 L</button><button class="chip" data-b="7000000">₹70 L</button>
+          <button class="chip" data-b="10000000">₹1 Cr</button><button class="chip" data-b="20000000">₹2 Cr</button><button class="chip" data-b="30000000">₹3 Cr</button>
+        </div>
+        <div class="flex items-center justify-between mt-5"><span class="text-sm font-medium">Model</span>
+          <div class="seg"><label><input type="radio" name="model" value="ridge" checked><span>Ridge</span></label><label><input type="radio" name="model" value="lasso"><span>Lasso</span></label></div>
+        </div>
+      </section>
+
+      <section class="px-6 py-6 border-t border-line">
+        <p class="lbl">04 · Results</p>
+        <div id="empty" class="mt-4 text-center">
+          <img src="assets/avenue.png" alt="" class="w-full h-32 object-cover rounded-xl" style="object-position:50% 40%">
+          <p class="text-sm text-mute mt-4">Results for your selected area will appear here.</p>
+        </div>
+        <div id="results" class="mt-4"></div>
+      </section>
+    </div>
+    <div class="p-4 border-t border-line bg-white">
+      <button id="searchBtn" disabled class="w-full h-12 rounded-lg bg-ink text-white font-semibold hover:bg-ink/90 disabled:opacity-40 disabled:cursor-not-allowed transition">Search this region</button>
+    </div>
+  </aside>
+
+  <main class="flex-1 relative min-h-[420px]">
+    <div id="map" class="absolute inset-0"></div>
+    <div class="absolute top-4 left-4 z-[1000] flex gap-1 bg-white rounded-xl border border-line shadow-lg p-1">
+      <button class="tool" data-tool="polygon" title="Draw area"><svg viewBox="0 0 24 24"><path d="M12 3l8 6-3 11H7L4 9z"/></svg></button>
+      <button class="tool" data-tool="rectangle" title="Draw box"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="12" rx="1"/></svg></button>
+      <button class="tool" data-tool="marker" title="Drop pin"><svg viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-11a7 7 0 10-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></button>
+      <span class="w-px bg-line mx-1 my-1"></span>
+      <button class="tool" id="clearBtn" title="Clear selection"><svg viewBox="0 0 24 24"><path d="M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13"/></svg></button>
+    </div>
+    <div id="legend" class="absolute left-4 bottom-6 z-[1000] bg-white border border-line shadow-lg rounded-xl px-4 py-3 text-xs"></div>
+  </main>
+</div>
+<script>
+(() => {
+const APP_NAME = "VestaEst", TAGLINE = "The hearth of home valuation"; // app name + tagline live here
+document.title = APP_NAME + " · " + TAGLINE;
+document.querySelectorAll(".app-name").forEach(e => e.textContent = APP_NAME);
+document.querySelectorAll(".tagline").forEach(e => e.textContent = TAGLINE);
+const splash = document.getElementById("splash");
+function closeSplash() {
+  if (!splash || splash.classList.contains("hide")) return;
+  splash.classList.add("hide");
+  setTimeout(() => { splash.remove(); window.dispatchEvent(new Event("splash-done")); }, 800);
+}
+setTimeout(closeSplash, 2800);
+splash.addEventListener("click", closeSplash);
+addEventListener("keydown", closeSplash);
+})();
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

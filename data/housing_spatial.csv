@@ -1,0 +1,1501 @@
+locality,property_type,bhk,bathrooms,area_sqft,age_years,possession,parking,lift,gated_community,swimming_pool,gas_pipeline,amenity_score,distance_to_hub_km,price_per_sqft,price_inr,latitude,longitude
+Uppal,Independent House,5,5,3231,16.4,Ready to Move,1,0,0,0,0,1,20.78,4407,14240000.0,17.40679,78.56923
+Miyapur,Builder Floor,2,3,1377,0.0,After 3 Years,1,1,1,0,0,3,6.36,5673,7810000.0,17.49967,78.366
+Kothapet,Apartment,2,2,1143,6.9,Ready to Move,1,1,0,1,0,3,18.65,5528,6320000.0,17.37091,78.53565
+Ameerpet,Villa,3,3,2199,9.9,Ready to Move,1,0,1,1,1,4,8.09,9112,20040000.0,17.43811,78.45323
+Madhapur,Apartment,2,2,1128,0.0,After 3 Years,1,1,0,0,0,2,1.37,10082,11370000.0,17.44619,78.3898
+Hayathnagar,Apartment,1,1,461,8.7,Ready to Move,1,1,0,1,1,4,25.13,3448,1590000.0,17.33474,78.58481
+Uppal,Builder Floor,3,4,1816,6.1,Ready to Move,1,0,1,0,1,3,18.2,4608,8370000.0,17.40936,78.545
+Uppal,Apartment,3,4,1526,4.3,Ready to Move,1,1,0,1,0,3,19.16,4975,7590000.0,17.39548,78.55064
+Kondapur,Builder Floor,2,3,1196,5.8,Ready to Move,1,0,1,0,1,3,1.91,6804,8140000.0,17.46026,78.37326
+Miyapur,Apartment,2,2,1173,8.5,Ready to Move,1,1,1,1,1,5,5.59,6123,7180000.0,17.48422,78.34631
+Manikonda,Independent House,5,5,3795,18.5,Ready to Move,1,0,0,1,0,2,6.16,6273,23810000.0,17.3882,78.38019
+Tolichowki,Villa,5,5,3949,6.2,Ready to Move,1,0,0,0,1,2,8.02,6669,26340000.0,17.38401,78.41992
+Jubilee Hills,Apartment,3,4,1801,18.4,Ready to Move,1,0,1,1,0,3,3.4,15071,27140000.0,17.42162,78.39962
+Dilsukhnagar,Villa,5,5,3263,17.7,Ready to Move,1,0,0,0,1,2,16.16,5722,18670000.0,17.37464,78.51127
+Miyapur,Independent House,4,4,2446,0.0,In 2 Years,1,0,0,0,0,1,4.62,5428,13280000.0,17.4826,78.3625
+Financial District,Builder Floor,4,5,2170,0.0,In 1 Year,1,0,1,0,0,2,5.05,8401,18230000.0,17.41954,78.33671
+Bachupally,Builder Floor,3,4,1739,0.0,In 2 Years,1,1,0,0,1,3,9.87,5233,9100000.0,17.53049,78.35877
+Gachibowli,Apartment,2,2,1029,8.5,Ready to Move,0,1,0,1,0,2,4.29,8922,9180000.0,17.43531,78.33766
+Dilsukhnagar,Villa,3,3,1502,19.2,Ready to Move,1,0,1,0,0,2,18.15,6006,9020000.0,17.36472,78.52704
+Jubilee Hills,Villa,3,4,2043,19.5,Ready to Move,1,0,1,1,1,4,1.84,15973,32640000.0,17.44203,78.39452
+Uppal,Builder Floor,1,2,627,0.0,In 3 Years,1,0,0,0,0,1,18.46,4639,2910000.0,17.40387,78.54612
+Manikonda,Apartment,2,2,992,3.9,Ready to Move,1,0,1,0,0,2,5.38,6503,6450000.0,17.39581,78.38582
+Hayathnagar,Apartment,3,4,1527,11.8,Ready to Move,1,1,0,0,0,2,25.89,3267,4990000.0,17.32863,78.58941
+Mehdipatnam,Apartment,2,3,1081,5.2,Ready to Move,1,1,1,0,0,3,7.23,7586,8200000.0,17.39565,78.42334
+Uppal,Independent House,5,6,3018,12.4,Ready to Move,1,1,0,0,0,2,20.75,5069,15300000.0,17.41199,78.57002
+HITEC City,Apartment,2,2,881,9.2,Ready to Move,1,1,1,0,1,4,0.7,9409,8290000.0,17.43843,78.37321
+Kukatpally,Apartment,3,3,1569,0.0,In 2 Years,1,0,1,0,0,2,3.78,6552,10280000.0,17.47722,78.38184
+Gachibowli,Apartment,3,3,1782,0.0,After 3 Years,1,1,0,0,1,3,3.85,9677,17240000.0,17.4459,78.34098
+Kondapur,Apartment,4,5,2237,0.0,In 3 Years,1,1,1,0,0,3,2.26,8372,18730000.0,17.46079,78.36598
+Begumpet,Apartment,2,3,1101,17.2,Ready to Move,1,1,0,0,1,3,8.94,8625,9500000.0,17.44995,78.46123
+Secunderabad,Apartment,1,2,655,0.0,In 1 Year,1,0,1,0,1,3,14.27,8621,5650000.0,17.43014,78.51101
+Hayathnagar,Apartment,2,3,1190,3.9,Ready to Move,1,1,0,0,0,2,28.42,4270,5080000.0,17.31154,78.60657
+Narsingi,Apartment,2,3,1196,14.5,Ready to Move,1,1,0,0,0,2,7.47,7193,8600000.0,17.37795,78.36189
+Manikonda,Independent House,3,3,1597,9.6,Ready to Move,1,0,0,0,1,2,4.15,6611,10560000.0,17.40643,78.38183
+Kukatpally,Builder Floor,1,2,631,0.0,After 3 Years,0,0,1,1,0,2,6.92,5848,3690000.0,17.50551,78.37217
+HITEC City,Apartment,3,4,1433,0.0,In 2 Years,1,1,1,0,0,3,1.31,10346,14830000.0,17.43434,78.385
+Kondapur,Apartment,2,2,986,0.0,In 2 Years,1,0,1,0,1,3,2.81,8580,8460000.0,17.45279,78.35253
+Kukatpally,Builder Floor,2,3,862,0.0,In 1 Year,1,1,1,0,1,4,4.3,6380,5500000.0,17.47881,78.39371
+Financial District,Villa,3,3,1624,0.0,In 1 Year,1,0,1,1,1,4,4.86,10427,16930000.0,17.41039,78.34737
+Banjara Hills,Apartment,2,2,1069,1.6,Ready to Move,1,1,0,1,1,4,6.74,17411,18610000.0,17.42978,78.4391
+Miyapur,Villa,3,4,1840,0.0,In 1 Year,1,0,1,0,1,3,6.46,7195,13240000.0,17.50022,78.36391
+Dilsukhnagar,Villa,3,4,1967,0.0,In 1 Year,1,0,1,0,0,2,16.42,7190,14140000.0,17.37107,78.51206
+Ameerpet,Apartment,2,3,1257,10.1,Ready to Move,0,1,1,1,0,3,7.53,7176,9020000.0,17.43893,78.44805
+Narsingi,Builder Floor,2,2,996,10.6,Ready to Move,1,1,1,0,1,4,6.27,6608,6580000.0,17.3877,78.36877
+Dilsukhnagar,Apartment,1,1,628,13.9,Ready to Move,1,1,1,0,1,4,16.23,4964,3120000.0,17.38605,78.51783
+LB Nagar,Independent House,3,4,1670,1.7,Ready to Move,1,0,1,0,1,3,20.82,4520,7550000.0,17.35095,78.54776
+Tellapur,Independent House,4,5,2066,4.1,Ready to Move,1,0,1,0,1,3,10.24,6065,12530000.0,17.46478,78.28324
+Kokapet,Apartment,2,2,1107,8.2,Ready to Move,1,1,1,1,1,5,8.22,10068,11150000.0,17.38462,78.33043
+Begumpet,Builder Floor,2,2,1038,15.7,Ready to Move,1,0,0,0,0,1,10.39,7532,7820000.0,17.45106,78.47484
+Kondapur,Builder Floor,3,3,1311,0.0,In 1 Year,1,0,0,0,0,1,1.58,8088,10600000.0,17.45282,78.3659
+HITEC City,Apartment,2,2,1126,9.1,Ready to Move,1,1,0,0,1,3,0.77,9359,10540000.0,17.4439,78.36992
+Gachibowli,Apartment,2,3,1031,16.7,Ready to Move,1,0,0,0,0,1,2.86,8255,8510000.0,17.43694,78.35114
+LB Nagar,Villa,4,4,2842,0.0,After 3 Years,1,0,1,1,0,3,20.75,5668,16110000.0,17.35413,78.54892
+Banjara Hills,Independent House,3,3,1437,0.0,In 3 Years,1,0,0,0,0,1,6.34,17613,25310000.0,17.41091,78.4262
+Ameerpet,Apartment,4,4,2874,18.7,Ready to Move,0,1,1,0,1,3,8.09,6823,19610000.0,17.42655,78.45132
+Uppal,Apartment,1,2,592,13.5,Ready to Move,1,0,0,0,1,2,21.72,4812,2850000.0,17.40158,78.5772
+Kukatpally,Apartment,1,1,546,8.3,Ready to Move,1,1,0,0,1,3,5.62,6268,3420000.0,17.48994,78.39801
+Bachupally,Builder Floor,2,3,1040,0.0,In 2 Years,1,1,0,0,0,2,13.08,5357,5570000.0,17.56,78.3602
+Kondapur,Villa,4,4,2651,0.0,In 3 Years,1,0,1,0,0,2,2.42,9804,25990000.0,17.46211,78.36536
+Madhapur,Independent House,3,4,1437,14.4,Ready to Move,1,1,0,0,1,3,2.7,8882,12760000.0,17.44556,78.40256
+Banjara Hills,Independent House,3,3,1747,14.8,Ready to Move,1,1,0,0,0,2,4.53,15560,27190000.0,17.42168,78.41327
+Kukatpally,Independent House,3,3,1865,0.0,In 3 Years,0,1,0,0,1,2,7.14,6333,11810000.0,17.5019,78.40508
+Bachupally,Apartment,4,4,2625,8.7,Ready to Move,1,1,0,1,1,4,11.01,6015,15790000.0,17.53908,78.35014
+Uppal,Villa,3,3,2002,0.0,In 1 Year,1,0,1,1,1,4,20.67,5754,11520000.0,17.41607,78.56992
+Jubilee Hills,Villa,2,3,1656,0.0,In 3 Years,1,1,1,0,1,4,3.89,19269,31900000.0,17.42869,78.41042
+Bachupally,Independent House,5,5,3713,0.0,In 3 Years,1,0,0,0,0,1,10.9,6494,24110000.0,17.54141,78.37164
+Bachupally,Independent House,3,3,1899,5.8,Ready to Move,1,0,0,0,1,2,12.31,4960,9420000.0,17.553,78.35988
+Narsingi,Apartment,1,1,626,0.0,After 3 Years,1,1,1,0,0,3,8.12,8063,5050000.0,17.37351,78.3553
+Gachibowli,Builder Floor,2,3,1009,11.5,Ready to Move,1,0,0,0,0,1,3.84,8030,8100000.0,17.42042,78.35025
+Miyapur,Builder Floor,3,3,1452,11.2,Ready to Move,1,1,1,0,1,4,7.34,5543,8050000.0,17.5038,78.34909
+HITEC City,Villa,2,3,1211,0.0,In 2 Years,1,0,1,0,0,2,1.66,10469,12680000.0,17.45061,78.3634
+Miyapur,Builder Floor,3,4,1782,15.4,Ready to Move,0,1,1,0,0,2,5.3,5150,9180000.0,17.48626,78.35502
+Kothapet,Independent House,4,5,2366,0.0,In 2 Years,1,0,0,0,0,1,20.78,5135,12150000.0,17.35317,78.54862
+Financial District,Independent House,2,3,1308,14.9,Ready to Move,1,0,0,0,0,1,7.55,7615,9960000.0,17.39606,78.32625
+Gachibowli,Apartment,1,2,628,8.1,Ready to Move,0,1,1,1,1,4,3.22,8813,5530000.0,17.43094,78.34982
+Kokapet,Apartment,3,4,1455,2.0,Ready to Move,0,0,1,0,1,2,5.27,9345,13600000.0,17.40237,78.35243
+Kokapet,Independent House,5,6,3954,2.0,Ready to Move,1,0,0,0,0,1,9.12,8263,32670000.0,17.38956,78.31242
+Banjara Hills,Villa,3,3,1627,5.1,Ready to Move,1,0,1,0,0,2,7.32,18822,30620000.0,17.4117,78.43765
+Bachupally,Villa,4,4,2174,0.0,In 1 Year,1,1,0,0,0,2,11.19,6260,13610000.0,17.54368,78.3671
+Uppal,Apartment,2,3,1100,0.0,After 3 Years,1,1,1,0,0,3,17.74,5020,5520000.0,17.4047,78.53937
+Banjara Hills,Independent House,2,2,1133,1.6,Ready to Move,1,0,0,0,0,1,6.49,18573,21040000.0,17.41284,78.42929
+Tellapur,Builder Floor,1,2,576,0.0,In 2 Years,1,1,0,0,0,2,11.61,6645,3830000.0,17.45808,78.2688
+LB Nagar,Apartment,1,1,592,4.2,Ready to Move,1,1,0,0,0,2,20.28,4406,2610000.0,17.35511,78.54441
+Kondapur,Builder Floor,4,4,2622,0.0,In 1 Year,1,0,1,1,0,3,0.93,7204,18890000.0,17.44439,78.3685
+Gachibowli,Builder Floor,3,3,1237,0.0,In 2 Years,1,1,1,0,0,3,2.96,9619,11900000.0,17.44333,78.34931
+Madhapur,Builder Floor,3,3,1690,0.0,In 1 Year,1,1,1,1,0,4,1.61,10427,17620000.0,17.44995,78.39084
+Secunderabad,Apartment,2,3,1267,0.0,In 3 Years,1,1,0,0,0,2,12.94,8728,11060000.0,17.44885,78.49904
+Kukatpally,Independent House,4,5,3148,16.5,Ready to Move,1,0,0,0,0,1,6.99,6084,19150000.0,17.50414,78.39471
+Kondapur,Apartment,2,2,1256,16.3,Ready to Move,1,1,1,0,0,3,2.16,6531,8200000.0,17.45457,78.36047
+Kukatpally,Independent House,3,4,1497,0.0,In 2 Years,1,0,0,0,0,1,6.65,7019,10510000.0,17.4934,78.41178
+Kondapur,Independent House,3,4,1668,0.0,After 3 Years,1,0,0,0,1,2,3.49,8280,13810000.0,17.47087,78.36104
+Begumpet,Independent House,4,5,2474,0.0,In 2 Years,1,0,0,0,1,2,11.82,8999,22260000.0,17.44662,78.48853
+Miyapur,Apartment,2,2,1270,10.6,Ready to Move,0,1,1,0,0,2,5.55,5662,7190000.0,17.48763,78.3527
+Tellapur,Villa,3,4,1807,0.0,In 3 Years,1,0,1,1,1,4,10.27,7252,13100000.0,17.46437,78.28284
+Kokapet,Independent House,4,5,1968,0.0,In 3 Years,1,0,0,0,1,2,8.58,9238,18180000.0,17.39627,78.31319
+Jubilee Hills,Villa,4,4,2519,0.0,In 3 Years,1,0,1,0,0,2,2.49,20580,51840000.0,17.43614,78.39934
+Manikonda,Apartment,1,2,708,13.8,Ready to Move,1,0,1,0,0,2,4.06,5577,3950000.0,17.40736,78.38233
+Madhapur,Independent House,3,4,1682,3.0,Ready to Move,1,0,1,0,0,2,0.67,10368,17440000.0,17.44496,78.38336
+Kondapur,Villa,2,3,1087,0.0,After 3 Years,1,0,1,0,0,2,1.86,10373,11280000.0,17.45788,78.38612
+Hayathnagar,Independent House,3,3,1298,14.9,Ready to Move,1,0,1,0,0,2,26.39,2973,3860000.0,17.33152,78.59646
+Mehdipatnam,Apartment,3,4,1413,0.0,After 3 Years,1,1,1,0,0,3,9.16,6568,9280000.0,17.3902,78.443
+Ameerpet,Villa,3,4,2086,16.7,Ready to Move,1,0,1,1,1,4,7.1,8175,17050000.0,17.4425,78.44413
+Kokapet,Apartment,2,3,1013,0.0,In 1 Year,1,1,0,0,1,3,8.15,10575,10710000.0,17.38981,78.32495
+Hayathnagar,Builder Floor,3,4,1868,0.0,In 2 Years,1,1,1,0,1,4,27.84,3903,7290000.0,17.32566,78.60873
+Uppal,Independent House,5,6,3647,0.0,In 1 Year,1,1,1,0,1,4,19.44,5097,18590000.0,17.40252,78.55532
+Ameerpet,Apartment,1,1,678,11.4,Ready to Move,1,1,0,1,1,4,9.33,8599,5830000.0,17.43645,78.46488
+Miyapur,Independent House,5,6,3205,0.0,After 3 Years,1,0,0,0,0,1,6.2,6172,19780000.0,17.49878,78.36977
+Kokapet,Builder Floor,1,2,674,0.0,In 1 Year,1,1,1,0,0,3,6.7,9964,6720000.0,17.3936,78.34188
+Madhapur,Apartment,3,4,1962,4.1,Ready to Move,1,1,1,0,0,3,3.63,9638,18910000.0,17.47584,78.38173
+Mehdipatnam,Independent House,5,5,3847,7.1,Ready to Move,1,0,1,0,1,3,7.98,6787,26110000.0,17.39017,78.42752
+Kukatpally,Apartment,2,3,1199,0.0,After 3 Years,1,1,0,1,0,3,5.6,6712,8050000.0,17.49181,78.39224
+HITEC City,Apartment,4,4,2301,0.0,After 3 Years,1,1,1,0,1,4,1.46,10713,24650000.0,17.43846,78.36454
+Narsingi,Apartment,3,4,1658,0.0,After 3 Years,1,0,0,0,0,1,7.15,7593,12590000.0,17.39199,78.33688
+Bachupally,Independent House,2,2,965,11.4,Ready to Move,1,0,0,0,1,2,12.0,4734,4570000.0,17.55121,78.37049
+Kondapur,Independent House,3,4,1822,16.8,Ready to Move,1,0,0,1,0,2,1.1,7963,14510000.0,17.45324,78.37878
+Kothapet,Apartment,3,4,1695,0.0,In 1 Year,1,1,0,1,1,4,17.78,4732,8020000.0,17.36535,78.52336
+Uppal,Independent House,3,4,1673,17.3,Ready to Move,1,0,0,1,1,3,21.44,4281,7160000.0,17.3914,78.57179
+Secunderabad,Apartment,2,3,1093,18.6,Ready to Move,1,1,0,0,0,2,12.28,7887,8620000.0,17.43877,78.49281
+Miyapur,Builder Floor,1,1,605,0.0,In 2 Years,1,1,0,1,1,4,6.17,6375,3860000.0,17.4987,78.37145
+Jubilee Hills,Builder Floor,2,2,1036,4.5,Ready to Move,1,1,1,0,0,3,1.85,16295,16880000.0,17.4503,78.39317
+Kompally,Apartment,3,4,1860,5.2,Ready to Move,1,1,0,0,1,3,14.55,5651,10510000.0,17.5309,78.47932
+Banjara Hills,Builder Floor,3,4,1245,0.0,After 3 Years,1,1,1,0,1,4,7.72,14504,18060000.0,17.4107,78.44132
+Madhapur,Builder Floor,3,3,1630,0.0,In 1 Year,1,1,1,0,1,4,0.84,10097,16460000.0,17.44744,78.38399
+Miyapur,Independent House,3,3,1553,6.2,Ready to Move,1,0,1,0,1,3,5.71,6145,9540000.0,17.48829,78.35087
+Gachibowli,Independent House,5,5,3409,0.0,In 3 Years,1,1,0,0,0,2,3.29,9099,31020000.0,17.44163,78.34629
+Kukatpally,Apartment,4,4,2246,0.0,In 3 Years,1,1,0,0,1,3,5.74,5970,13410000.0,17.49472,78.38407
+Narsingi,Apartment,2,2,954,2.1,Ready to Move,0,1,0,0,1,2,4.85,7319,6980000.0,17.40072,78.36814
+Kondapur,Apartment,1,1,536,0.0,After 3 Years,1,1,0,0,1,3,2.65,8494,4550000.0,17.46703,78.37347
+Madhapur,Independent House,5,5,3657,4.3,Ready to Move,1,1,0,0,1,3,1.56,10388,37990000.0,17.45504,78.3855
+Kompally,Independent House,4,5,2556,0.0,In 1 Year,1,0,0,0,0,1,15.17,5412,13830000.0,17.52946,78.48833
+Kondapur,Apartment,1,1,574,2.8,Ready to Move,1,1,0,0,1,3,5.13,8787,5040000.0,17.48729,78.36195
+Tolichowki,Apartment,3,3,1627,0.0,In 1 Year,1,0,0,1,0,2,6.46,7748,12610000.0,17.39453,78.41001
+Kompally,Independent House,2,3,1008,19.1,Ready to Move,1,0,1,0,0,2,14.31,4058,4090000.0,17.53042,78.47674
+Manikonda,Apartment,3,4,1658,19.5,Ready to Move,1,1,1,1,0,4,6.23,6038,10010000.0,17.38752,78.37659
+Kompally,Apartment,1,1,547,10.1,Ready to Move,1,1,1,0,0,3,16.07,4552,2490000.0,17.53496,78.49453
+Gachibowli,Independent House,4,5,2328,11.1,Ready to Move,1,0,0,1,1,3,3.58,8570,19950000.0,17.44929,78.34396
+Shamshabad,Independent House,3,3,1447,7.7,Ready to Move,1,0,0,0,0,1,20.22,3538,5120000.0,17.26177,78.38305
+Kukatpally,Builder Floor,2,2,1092,0.0,After 3 Years,1,1,1,1,0,4,5.63,6073,6630000.0,17.48512,78.40743
+Uppal,Independent House,4,4,2722,15.0,Ready to Move,1,1,1,1,0,4,18.89,4261,11600000.0,17.40883,78.55151
+Madhapur,Apartment,3,4,1641,18.9,Ready to Move,1,1,1,0,1,4,1.63,8360,13720000.0,17.44526,78.39247
+Kukatpally,Independent House,3,4,1553,3.0,Ready to Move,1,0,0,0,0,1,5.88,5596,8690000.0,17.4932,78.39621
+Kukatpally,Apartment,2,2,999,0.0,In 1 Year,1,1,0,0,1,3,6.8,7028,7020000.0,17.50388,78.38737
+Shamshabad,Apartment,3,4,1607,9.4,Ready to Move,1,1,0,1,0,3,20.87,4231,6800000.0,17.25703,78.39936
+Bachupally,Builder Floor,2,2,1508,0.0,After 3 Years,1,1,0,0,0,2,11.88,5406,8150000.0,17.54983,78.36643
+Kukatpally,Independent House,5,5,3530,0.0,In 2 Years,1,1,1,0,0,3,7.25,6651,23480000.0,17.50181,78.40779
+Kokapet,Builder Floor,3,4,1598,10.6,Ready to Move,1,1,1,0,1,4,7.86,7627,12190000.0,17.39939,78.31929
+Narsingi,Villa,2,2,1521,0.0,In 3 Years,1,0,1,1,0,3,6.96,8796,13380000.0,17.38375,78.35758
+Nizampet,Independent House,4,5,1689,2.4,Ready to Move,1,0,1,1,0,3,8.28,6330,10690000.0,17.51794,78.37465
+Miyapur,Apartment,3,4,1594,0.0,In 1 Year,1,1,0,0,0,2,6.42,6506,10370000.0,17.49663,78.35353
+Gachibowli,Builder Floor,3,4,1695,0.0,In 2 Years,1,0,1,1,0,3,4.57,8462,14340000.0,17.43559,78.33496
+Dilsukhnagar,Apartment,4,4,2261,11.5,Ready to Move,1,1,1,0,0,3,18.24,5280,11940000.0,17.37239,78.53212
+Mehdipatnam,Villa,4,5,3120,0.0,In 2 Years,1,0,1,0,0,2,6.77,6536,20390000.0,17.39464,78.41524
+Kondapur,Apartment,3,4,1431,0.0,In 2 Years,1,0,1,0,1,3,1.76,7966,11400000.0,17.45896,78.37358
+Bachupally,Villa,4,4,3056,0.0,After 3 Years,1,0,0,0,0,1,9.91,5942,18160000.0,17.53249,78.37274
+Madhapur,Villa,4,4,3539,8.2,Ready to Move,1,0,1,1,0,3,1.82,11246,39800000.0,17.45711,78.38666
+Banjara Hills,Apartment,3,3,1793,12.3,Ready to Move,1,1,0,0,0,2,6.62,13537,24270000.0,17.40289,78.42286
+Kokapet,Apartment,4,5,2909,0.0,In 3 Years,1,1,1,0,1,4,8.0,10090,29350000.0,17.39995,78.31722
+Banjara Hills,Independent House,4,5,2506,0.0,In 3 Years,1,0,0,0,0,1,6.78,16180,40540000.0,17.4222,78.43709
+Secunderabad,Apartment,2,2,974,8.4,Ready to Move,1,1,0,1,0,3,12.62,8409,8190000.0,17.44525,78.49611
+Uppal,Villa,3,4,2273,0.0,In 2 Years,1,0,1,0,1,3,20.89,5988,13610000.0,17.40017,78.56878
+Madhapur,Apartment,2,3,1092,5.2,Ready to Move,0,1,1,1,1,4,2.82,9624,10510000.0,17.46241,78.39496
+Tolichowki,Builder Floor,3,4,1613,4.0,Ready to Move,1,0,0,1,0,2,7.16,6255,10090000.0,17.39267,78.41859
+Financial District,Builder Floor,3,4,1597,3.0,Ready to Move,0,1,1,0,1,3,5.59,9247,14770000.0,17.4263,78.32766
+Gachibowli,Apartment,1,2,663,2.0,Ready to Move,1,1,1,1,0,4,4.15,9891,6560000.0,17.44656,78.33819
+Bachupally,Apartment,2,2,1204,8.9,Ready to Move,1,1,1,0,0,3,11.95,5675,6830000.0,17.54902,78.35596
+Manikonda,Apartment,2,2,1141,12.6,Ready to Move,1,1,0,0,1,3,3.1,6048,6900000.0,17.41721,78.38703
+Dilsukhnagar,Villa,3,4,1767,4.5,Ready to Move,1,0,0,0,1,2,15.95,7327,12950000.0,17.37605,78.50987
+LB Nagar,Villa,3,4,1723,1.5,Ready to Move,1,0,1,0,0,2,22.17,5577,9610000.0,17.33939,78.55533
+Narsingi,Independent House,3,4,1475,0.0,In 3 Years,1,0,0,0,0,1,5.3,8047,11870000.0,17.39768,78.36354
+Shamshabad,Independent House,4,4,2113,16.6,Ready to Move,1,0,1,0,0,2,21.03,3332,7040000.0,17.25517,78.39553
+Kokapet,Independent House,3,3,1921,14.8,Ready to Move,1,0,1,0,0,2,6.51,7825,15030000.0,17.3929,78.34624
+Nizampet,Builder Floor,2,2,1043,10.7,Ready to Move,1,0,1,0,1,3,8.62,5530,5770000.0,17.52039,78.38774
+Financial District,Builder Floor,2,3,1361,2.1,Ready to Move,1,1,1,0,0,3,5.74,8908,12120000.0,17.41297,78.33355
+Shamshabad,Villa,3,4,2205,15.4,Ready to Move,0,1,0,0,1,2,20.49,3850,8490000.0,17.25951,78.38844
+Kondapur,Apartment,2,2,1002,7.2,Ready to Move,1,1,1,0,0,3,2.43,8162,8180000.0,17.46423,78.37001
+Gachibowli,Apartment,2,2,1202,4.0,Ready to Move,1,1,0,0,0,2,1.74,9247,11110000.0,17.43919,78.36138
+Miyapur,Apartment,2,2,1133,14.0,Ready to Move,1,0,0,0,1,2,7.89,5395,6110000.0,17.5106,78.35294
+Medchal,Builder Floor,3,3,1775,0.0,In 1 Year,1,1,1,0,0,3,22.85,3296,5850000.0,17.62646,78.47531
+Mehdipatnam,Independent House,4,5,2351,0.0,In 1 Year,0,0,0,0,1,1,9.01,6767,15910000.0,17.391,78.44183
+Uppal,Apartment,3,3,1833,0.0,In 2 Years,1,1,1,0,1,4,20.66,4953,9080000.0,17.41071,78.56891
+Mehdipatnam,Apartment,3,3,1636,0.0,In 1 Year,1,1,1,1,1,5,8.81,7036,11510000.0,17.38406,78.43204
+Mehdipatnam,Apartment,2,3,1304,0.0,In 3 Years,1,1,0,1,0,3,9.47,6800,8870000.0,17.3855,78.44255
+Nizampet,Apartment,3,3,1606,18.6,Ready to Move,1,1,1,1,1,5,8.34,5061,8130000.0,17.51841,78.38026
+Narsingi,Apartment,3,4,1505,0.0,In 3 Years,1,0,1,0,0,2,6.25,7342,11050000.0,17.39143,78.3551
+Uppal,Independent House,4,4,2569,5.1,Ready to Move,1,0,0,0,0,1,20.23,4959,12740000.0,17.40834,78.5643
+Banjara Hills,Independent House,4,5,2474,10.4,Ready to Move,1,0,0,0,1,2,7.73,14448,35740000.0,17.4083,78.44002
+Manikonda,Independent House,3,3,1668,2.7,Ready to Move,1,0,0,0,0,1,6.3,5953,9930000.0,17.39035,78.39778
+Madhapur,Builder Floor,2,3,1142,3.5,Ready to Move,1,1,1,1,0,4,0.46,10442,11920000.0,17.44467,78.38139
+Uppal,Builder Floor,2,2,1035,2.5,Ready to Move,1,1,1,0,0,3,19.13,4626,4790000.0,17.40344,78.55257
+Kokapet,Apartment,1,1,667,19.8,Ready to Move,0,0,1,1,1,3,8.73,7110,4740000.0,17.3813,78.32692
+Shamshabad,Apartment,2,2,962,0.0,In 2 Years,1,0,1,0,1,3,22.62,4222,4060000.0,17.24087,78.3958
+Financial District,Apartment,2,3,1143,11.7,Ready to Move,1,1,1,1,0,4,6.17,7824,8940000.0,17.40409,78.3362
+Kondapur,Builder Floor,3,4,1868,0.0,In 1 Year,1,1,0,0,1,3,2.58,7641,14270000.0,17.46104,78.36126
+Dilsukhnagar,Villa,3,3,2195,15.3,Ready to Move,1,0,1,1,1,4,16.04,5721,12560000.0,17.36903,78.50667
+Kondapur,Independent House,4,4,2251,0.0,In 3 Years,1,0,0,0,0,1,2.54,7933,17860000.0,17.45105,78.3546
+Kondapur,Apartment,3,4,1696,0.0,In 1 Year,0,1,1,0,1,3,2.83,8376,14210000.0,17.46698,78.36695
+Kompally,Independent House,4,5,2258,8.0,Ready to Move,1,0,1,0,0,2,14.69,5239,11830000.0,17.53326,78.47879
+Attapur,Apartment,3,3,1521,5.2,Ready to Move,1,1,0,0,0,2,10.83,4884,7430000.0,17.36214,78.43323
+HITEC City,Apartment,4,4,2577,0.0,In 2 Years,1,0,1,0,0,2,0.32,9826,25320000.0,17.44061,78.37725
+Narsingi,Independent House,5,5,3217,19.1,Ready to Move,1,0,0,0,1,2,5.37,6022,19370000.0,17.39729,78.36235
+Uppal,Builder Floor,3,4,1647,10.7,Ready to Move,1,1,1,0,0,3,19.63,4434,7300000.0,17.40446,78.55761
+Hayathnagar,Apartment,2,2,1087,14.1,Ready to Move,1,1,1,0,1,4,27.07,3432,3730000.0,17.33442,78.6053
+Kukatpally,Builder Floor,1,2,571,11.0,Ready to Move,1,0,1,0,1,3,5.92,5687,3250000.0,17.49282,78.39818
+Kondapur,Builder Floor,3,3,1133,16.0,Ready to Move,1,1,0,0,0,2,3.19,6594,7470000.0,17.46924,78.36382
+Gachibowli,Apartment,4,5,2726,3.5,Ready to Move,1,1,1,0,0,3,2.62,9133,24900000.0,17.44746,78.35283
+Financial District,Builder Floor,2,2,1344,16.3,Ready to Move,1,1,0,0,1,3,4.87,7766,10440000.0,17.42203,78.33721
+Kondapur,Independent House,3,3,1873,11.8,Ready to Move,1,0,1,0,0,2,2.98,8291,15530000.0,17.46672,78.36321
+Begumpet,Apartment,3,3,1851,11.6,Ready to Move,1,0,1,0,0,2,9.86,8837,16360000.0,17.43492,78.46975
+Kondapur,Builder Floor,2,3,1138,0.0,In 2 Years,1,1,1,0,1,4,1.78,9098,10350000.0,17.4444,78.36044
+Nizampet,Apartment,2,3,1026,17.1,Ready to Move,1,1,1,0,1,4,6.73,5389,5530000.0,17.50389,78.38097
+Begumpet,Villa,4,5,2843,16.5,Ready to Move,1,0,0,0,0,1,9.1,9572,27210000.0,17.43436,78.4624
+Kompally,Builder Floor,2,2,1259,7.8,Ready to Move,1,1,0,1,0,3,16.51,5211,6560000.0,17.52945,78.5041
+HITEC City,Apartment,1,1,545,0.0,In 1 Year,1,1,1,0,0,3,2.06,10214,5570000.0,17.43622,78.3593
+LB Nagar,Apartment,1,2,621,0.0,In 1 Year,1,0,0,0,0,1,21.49,5365,3330000.0,17.3445,78.55112
+Ameerpet,Builder Floor,3,3,1990,16.7,Ready to Move,1,1,1,1,0,4,9.41,6406,12750000.0,17.44108,78.46585
+Secunderabad,Apartment,4,5,2212,17.0,Ready to Move,1,1,1,0,0,3,12.04,6452,14270000.0,17.44018,78.49066
+Kondapur,Builder Floor,3,4,1645,16.8,Ready to Move,1,1,0,1,0,3,2.16,7521,12370000.0,17.44347,78.35689
+Kondapur,Villa,3,3,1813,0.0,In 1 Year,0,0,1,0,0,1,2.55,9502,17230000.0,17.4557,78.35681
+Tolichowki,Apartment,2,2,932,0.0,In 1 Year,1,1,1,0,1,4,6.38,6190,5770000.0,17.39784,78.4136
+Tellapur,Villa,5,5,3910,14.7,Ready to Move,1,0,1,0,0,2,10.61,6676,26100000.0,17.44584,78.27721
+Kokapet,Villa,3,4,1838,0.0,In 2 Years,1,1,1,0,0,3,7.87,10675,19620000.0,17.38965,78.32909
+Kukatpally,Apartment,1,1,443,5.9,Ready to Move,1,1,1,1,0,4,6.59,6071,2690000.0,17.50032,78.39472
+Banjara Hills,Apartment,3,4,1670,3.6,Ready to Move,1,1,1,0,0,3,9.24,15289,25530000.0,17.39966,78.45123
+Shamshabad,Apartment,2,3,987,7.0,Ready to Move,1,0,1,0,1,3,20.85,4285,4230000.0,17.25664,78.39296
+Kokapet,Villa,5,5,4342,0.0,In 1 Year,1,0,1,0,1,3,7.5,10407,45190000.0,17.38824,78.3366
+Tolichowki,Builder Floor,2,2,1145,13.5,Ready to Move,0,1,0,1,0,2,4.93,5276,6040000.0,17.40663,78.40301
+Gachibowli,Independent House,3,4,1823,0.0,After 3 Years,1,0,0,0,0,1,2.55,8539,15570000.0,17.44291,78.35317
+Bachupally,Independent House,4,4,2683,0.0,After 3 Years,1,0,0,0,0,1,10.04,5579,14970000.0,17.53354,78.37025
+Jubilee Hills,Apartment,3,4,1399,8.6,Ready to Move,1,1,0,0,0,2,3.27,14637,20480000.0,17.4348,78.4066
+Madhapur,Apartment,2,2,1001,0.0,In 2 Years,1,1,1,0,0,3,2.81,9533,9540000.0,17.45871,78.39839
+Kondapur,Independent House,3,4,1794,0.0,In 2 Years,1,0,0,0,1,2,2.58,9604,17230000.0,17.46476,78.3674
+Miyapur,Apartment,4,4,2081,6.2,Ready to Move,0,1,0,1,1,3,6.62,6810,14170000.0,17.50052,78.35917
+Hayathnagar,Apartment,3,4,1601,0.0,In 2 Years,1,1,0,1,1,4,27.36,3972,6360000.0,17.32282,78.60191
+Kompally,Apartment,3,4,1845,17.7,Ready to Move,1,1,0,1,0,3,17.22,4352,8030000.0,17.55207,78.49298
+Shamshabad,Independent House,4,5,2345,0.0,After 3 Years,1,0,0,0,0,1,20.3,4716,11060000.0,17.26153,78.39223
+LB Nagar,Apartment,2,3,1332,4.5,Ready to Move,1,1,0,0,0,2,20.99,4436,5910000.0,17.34786,78.5477
+Kukatpally,Builder Floor,2,3,1205,0.0,After 3 Years,1,1,0,0,1,3,5.87,6771,8160000.0,17.49244,78.39808
+Uppal,Independent House,3,3,1810,0.0,In 1 Year,1,0,0,0,1,2,19.55,5171,9360000.0,17.40867,78.55786
+Gachibowli,Apartment,2,2,1069,0.0,In 1 Year,1,1,0,1,1,4,3.55,9609,10270000.0,17.42661,78.34883
+Madhapur,Apartment,4,4,2707,6.9,Ready to Move,1,0,0,1,1,3,2.71,10313,27920000.0,17.44557,78.40269
+Dilsukhnagar,Apartment,3,3,1516,0.0,In 1 Year,0,1,1,0,1,3,16.29,6300,9550000.0,17.37592,78.51339
+LB Nagar,Apartment,2,2,1166,3.1,Ready to Move,1,1,0,0,1,3,22.94,5171,6030000.0,17.34478,78.56698
+Financial District,Apartment,3,3,1722,5.6,Ready to Move,1,0,1,0,1,3,4.25,9171,15790000.0,17.42859,78.34034
+Nizampet,Apartment,2,3,1039,2.6,Ready to Move,1,1,1,0,1,4,8.94,6340,6590000.0,17.52382,78.37976
+Kompally,Apartment,2,2,1198,3.8,Ready to Move,1,1,1,0,1,4,14.32,5442,6520000.0,17.52574,78.48111
+Attapur,Apartment,2,3,1027,5.5,Ready to Move,0,1,0,1,1,3,10.71,5957,6120000.0,17.36561,78.43662
+Kompally,Villa,3,3,2077,9.4,Ready to Move,1,0,1,1,0,3,12.4,5225,10850000.0,17.52521,78.45671
+Miyapur,Apartment,4,5,2316,0.0,After 3 Years,1,1,0,0,1,3,6.46,5916,13700000.0,17.49823,78.35687
+Manikonda,Apartment,3,4,1561,1.1,Ready to Move,1,1,1,0,1,4,5.21,6789,10600000.0,17.39777,78.3881
+Miyapur,Builder Floor,3,4,1807,0.0,In 3 Years,1,1,1,0,0,3,6.29,6584,11900000.0,17.49806,78.36148
+Banjara Hills,Apartment,2,3,976,17.0,Ready to Move,1,1,1,1,0,4,6.41,14314,13970000.0,17.40405,78.4212
+Attapur,Apartment,3,4,1703,0.0,In 1 Year,1,0,1,1,1,4,10.73,5210,8870000.0,17.36507,78.43614
+Miyapur,Independent House,3,3,1794,0.0,In 2 Years,1,0,1,0,0,2,5.42,5854,10500000.0,17.49165,78.36898
+Financial District,Villa,3,4,1816,1.2,Ready to Move,1,0,0,0,1,2,4.33,9527,17300000.0,17.42717,78.34011
+Financial District,Apartment,3,4,1619,0.0,In 2 Years,1,1,0,1,1,4,3.51,9129,14780000.0,17.4251,78.35032
+Uppal,Apartment,2,2,1090,15.7,Ready to Move,1,1,1,1,1,5,20.17,4258,4640000.0,17.40805,78.56365
+LB Nagar,Independent House,4,5,2550,0.0,In 1 Year,1,0,0,0,1,2,21.79,5074,12940000.0,17.36016,78.56305
+Madhapur,Villa,3,4,2262,20.0,Ready to Move,1,0,1,1,0,3,0.42,9783,22130000.0,17.44065,78.37975
+Gachibowli,Builder Floor,3,3,1893,4.4,Ready to Move,1,1,1,0,1,4,4.65,7121,13480000.0,17.44531,78.33337
+Kompally,Apartment,4,4,2236,0.0,In 2 Years,1,1,0,0,1,3,16.04,5314,11880000.0,17.53968,78.48988
+Kondapur,Apartment,2,3,925,14.6,Ready to Move,1,0,0,0,1,2,2.18,6338,5860000.0,17.45964,78.36557
+Dilsukhnagar,Independent House,3,4,1377,12.3,Ready to Move,0,0,0,0,0,0,18.92,4611,6350000.0,17.36659,78.53625
+Narsingi,Villa,3,3,1650,5.5,Ready to Move,1,0,1,0,1,3,6.35,7552,12460000.0,17.39369,78.34797
+Kondapur,Apartment,2,2,1219,12.8,Ready to Move,1,1,1,0,0,3,1.62,6989,8520000.0,17.45789,78.37491
+Tolichowki,Villa,5,5,4029,6.9,Ready to Move,1,0,1,0,1,3,8.13,7131,28730000.0,17.39701,78.43638
+Kondapur,Independent House,3,4,1413,4.2,Ready to Move,1,0,0,0,0,1,2.91,8106,11450000.0,17.46245,78.35835
+Kokapet,Apartment,3,4,1695,0.0,In 2 Years,1,1,1,1,0,4,8.6,9606,16280000.0,17.3875,78.32131
+Kondapur,Independent House,3,3,1562,0.0,In 3 Years,1,0,0,0,0,1,3.5,7991,12480000.0,17.46707,78.35534
+Madhapur,Apartment,3,4,1749,12.7,Ready to Move,1,0,1,0,0,2,1.92,10005,17500000.0,17.45706,78.38846
+Gachibowli,Apartment,4,4,2837,0.0,In 3 Years,1,0,1,0,0,2,2.83,8855,25120000.0,17.45568,78.35373
+Gachibowli,Independent House,4,4,1999,4.2,Ready to Move,1,0,1,0,0,2,2.26,9306,18600000.0,17.4571,78.36137
+Kondapur,Apartment,2,3,990,19.7,Ready to Move,1,1,1,0,0,3,2.24,7451,7380000.0,17.45186,78.35803
+Gachibowli,Apartment,4,4,2305,0.0,In 2 Years,1,0,1,0,0,2,2.73,7509,17310000.0,17.42738,78.3578
+Kompally,Independent House,4,5,2668,0.0,In 3 Years,1,0,1,0,0,2,14.77,5385,14370000.0,17.52305,78.48878
+Begumpet,Independent House,4,5,2748,0.0,In 1 Year,1,0,1,0,0,2,10.28,9723,26720000.0,17.44091,78.47403
+Tellapur,Apartment,2,3,1008,0.0,In 1 Year,1,1,1,0,0,3,9.28,5694,5740000.0,17.46272,78.29203
+Narsingi,Apartment,3,3,1650,1.8,Ready to Move,1,0,0,0,1,2,5.28,7146,11790000.0,17.40184,78.35339
+Nizampet,Apartment,3,4,1616,0.0,In 1 Year,1,1,1,1,1,5,9.11,6509,10520000.0,17.52513,78.36976
+Attapur,Apartment,4,5,2163,8.9,Ready to Move,1,1,1,0,1,4,10.73,5118,11070000.0,17.35592,78.41956
+Kothapet,Apartment,2,3,1245,1.1,Ready to Move,1,1,0,0,1,3,20.93,5215,6490000.0,17.35856,78.55322
+Gachibowli,Apartment,3,4,1721,0.0,In 1 Year,1,1,1,0,0,3,3.61,10064,17320000.0,17.45732,78.3464
+HITEC City,Independent House,3,4,1818,9.7,Ready to Move,1,1,1,0,1,4,1.2,8482,15420000.0,17.43472,78.37059
+Financial District,Builder Floor,3,4,1745,8.1,Ready to Move,1,1,1,1,0,4,5.98,9318,16260000.0,17.4078,78.3351
+Financial District,Apartment,1,1,559,16.2,Ready to Move,0,1,1,0,0,2,2.98,8100,4530000.0,17.42416,78.35782
+Bachupally,Independent House,3,3,1510,6.0,Ready to Move,1,0,0,0,1,2,11.66,5623,8490000.0,17.54832,78.38036
+Miyapur,Villa,4,4,2880,0.0,In 1 Year,1,0,1,0,0,2,6.72,5706,16430000.0,17.50092,78.35736
+Gachibowli,Apartment,2,3,878,0.0,In 3 Years,1,0,0,0,0,1,2.99,9852,8650000.0,17.43935,78.34932
+Manikonda,Apartment,3,4,1748,19.7,Ready to Move,1,1,1,0,0,3,5.55,5280,9230000.0,17.39471,78.366
+Nizampet,Apartment,3,4,1794,0.0,In 2 Years,1,0,1,1,1,4,9.51,5826,10450000.0,17.52854,78.36733
+Madhapur,Apartment,3,3,2243,6.4,Ready to Move,1,1,1,0,1,4,2.1,10663,23920000.0,17.44926,78.3961
+Dilsukhnagar,Apartment,2,3,1224,0.0,In 1 Year,1,1,1,1,0,4,17.21,5443,6660000.0,17.36038,78.51401
+Gachibowli,Villa,3,4,1808,15.7,Ready to Move,1,0,0,1,1,3,2.19,9653,17450000.0,17.43306,78.35967
+Tolichowki,Apartment,1,2,473,0.0,In 2 Years,1,1,0,0,0,2,5.95,6830,3230000.0,17.4033,78.41419
+Madhapur,Apartment,2,3,1017,0.0,In 1 Year,1,1,0,0,0,2,2.28,10999,11190000.0,17.44201,78.3986
+Kothapet,Apartment,2,3,1528,0.0,In 1 Year,1,1,1,0,1,4,19.9,5033,7690000.0,17.3813,78.55307
+Mehdipatnam,Apartment,2,3,1132,4.6,Ready to Move,1,0,1,0,0,2,10.08,6336,7170000.0,17.37697,78.44167
+Medchal,Apartment,2,3,1018,14.0,Ready to Move,1,1,1,0,0,3,22.23,2936,2990000.0,17.61527,78.48445
+LB Nagar,Apartment,3,4,1463,14.8,Ready to Move,1,1,0,1,1,4,22.69,4286,6270000.0,17.34662,78.56536
+Uppal,Apartment,4,4,2619,0.0,After 3 Years,1,0,0,0,1,2,19.43,5651,14800000.0,17.40701,78.5563
+Jubilee Hills,Villa,3,3,2010,3.5,Ready to Move,1,0,1,0,1,3,1.79,18890,37960000.0,17.43885,78.39336
+Uppal,Apartment,1,2,741,0.0,In 2 Years,1,0,1,1,0,3,21.27,5640,4180000.0,17.40853,78.57429
+Kondapur,Apartment,3,3,1712,0.0,In 2 Years,1,1,1,1,0,4,2.79,9566,16380000.0,17.45399,78.35332
+Nizampet,Independent House,3,4,1538,11.9,Ready to Move,0,1,1,0,1,3,8.01,5474,8420000.0,17.51548,78.37914
+Nizampet,Apartment,3,3,1586,0.0,In 1 Year,1,1,0,1,0,3,8.86,5990,9500000.0,17.52275,78.38576
+Kothapet,Apartment,2,2,1218,0.0,In 1 Year,1,1,1,0,0,3,18.7,5170,6300000.0,17.37903,78.54
+Kukatpally,Apartment,2,2,935,4.7,Ready to Move,1,1,1,1,1,5,5.55,6954,6500000.0,17.48734,78.40219
+Tellapur,Apartment,2,2,1177,0.0,In 2 Years,1,0,1,0,0,2,9.73,6651,7830000.0,17.46004,78.28713
+Jubilee Hills,Apartment,4,4,2652,0.0,In 1 Year,1,1,1,0,0,3,4.13,17242,45720000.0,17.43811,78.41573
+Kokapet,Apartment,2,2,942,0.0,In 1 Year,1,1,1,0,1,4,5.27,8697,8190000.0,17.40406,78.34959
+Kondapur,Builder Floor,2,2,976,4.7,Ready to Move,1,1,1,0,0,3,2.95,8729,8520000.0,17.46655,78.36352
+Kukatpally,Independent House,5,6,3585,0.0,In 1 Year,1,0,0,0,0,1,5.77,5562,19940000.0,17.48827,78.40473
+Miyapur,Apartment,3,4,1761,11.8,Ready to Move,1,0,1,0,0,2,6.37,5606,9870000.0,17.50005,78.36732
+Financial District,Builder Floor,2,2,1049,12.4,Ready to Move,1,1,1,0,1,4,5.02,8770,9200000.0,17.41221,78.34315
+Manikonda,Villa,4,4,2632,6.9,Ready to Move,1,0,1,0,0,2,4.37,7610,20030000.0,17.40417,78.37759
+Manikonda,Apartment,2,2,1035,3.2,Ready to Move,1,1,0,1,0,3,4.67,7083,7330000.0,17.40254,78.38683
+Narsingi,Independent House,3,3,1345,9.3,Ready to Move,1,0,0,0,1,2,5.27,6714,9030000.0,17.39811,78.36276
+Tellapur,Villa,3,4,1576,1.3,Ready to Move,1,0,1,0,1,3,9.65,6603,10410000.0,17.4615,78.28821
+Begumpet,Builder Floor,2,3,940,18.2,Ready to Move,1,1,0,0,0,2,9.9,7309,6870000.0,17.45289,78.47004
+Kokapet,Apartment,1,2,662,15.6,Ready to Move,1,1,1,0,0,3,4.66,8644,5720000.0,17.40962,78.3514
+Shamshabad,Apartment,3,4,1916,15.4,Ready to Move,1,1,0,0,1,3,19.29,3910,7490000.0,17.27112,78.39726
+Tolichowki,Builder Floor,3,4,1853,16.7,Ready to Move,0,1,1,0,1,3,5.73,5013,9290000.0,17.40705,78.41531
+Kukatpally,Independent House,3,4,1728,6.2,Ready to Move,1,0,0,0,0,1,7.65,6355,10980000.0,17.50688,78.4053
+Narsingi,Apartment,3,4,1607,0.0,In 2 Years,1,1,1,1,0,4,4.5,7522,12090000.0,17.40506,78.36394
+Nizampet,Villa,4,4,3038,0.0,In 1 Year,1,0,1,1,1,4,9.19,7169,21780000.0,17.51962,78.3435
+Kothapet,Apartment,3,3,1951,0.0,In 2 Years,1,0,1,0,1,3,20.14,5264,10270000.0,17.37127,78.55126
+Banjara Hills,Apartment,4,5,2839,17.5,Ready to Move,1,1,0,0,0,2,7.07,13502,38330000.0,17.42259,78.44011
+LB Nagar,Apartment,2,3,1056,0.0,In 1 Year,1,0,0,0,1,2,20.95,5056,5340000.0,17.35472,78.55134
+Nizampet,Villa,4,5,2683,15.3,Ready to Move,1,1,1,0,0,3,8.42,5728,15370000.0,17.51808,78.39065
+Jubilee Hills,Apartment,2,2,984,0.0,In 3 Years,1,1,1,1,0,4,2.9,17471,17200000.0,17.4489,78.40393
+Kokapet,Apartment,2,3,1133,2.8,Ready to Move,1,1,1,1,1,5,8.05,10655,12070000.0,17.38605,78.33104
+Secunderabad,Apartment,3,4,1492,2.9,Ready to Move,1,0,0,1,1,3,13.86,8390,12520000.0,17.43574,78.50763
+HITEC City,Independent House,3,4,2280,13.3,Ready to Move,1,0,1,0,0,2,1.31,8782,20020000.0,17.44379,78.38954
+Begumpet,Apartment,2,2,1160,10.1,Ready to Move,1,1,0,1,1,4,10.37,8226,9540000.0,17.44869,78.47482
+Kothapet,Apartment,2,2,1151,0.0,In 3 Years,1,0,1,0,0,2,20.14,4204,4840000.0,17.36631,78.5489
+Kondapur,Villa,4,5,2669,0.0,In 3 Years,1,0,1,0,0,2,2.0,9807,26180000.0,17.46135,78.37483
+Kompally,Builder Floor,2,2,1142,6.0,Ready to Move,1,0,0,0,1,2,15.0,5517,6300000.0,17.53134,78.4845
+Madhapur,Apartment,3,3,1506,0.0,In 2 Years,1,0,1,0,1,3,3.8,10685,16090000.0,17.45183,78.41195
+Secunderabad,Apartment,3,3,1374,0.0,In 1 Year,1,1,0,1,1,4,11.92,9294,12770000.0,17.43484,78.4892
+Madhapur,Independent House,3,4,1825,1.9,Ready to Move,1,0,0,1,0,2,1.84,10461,19090000.0,17.43634,78.39282
+Shamshabad,Apartment,3,3,2151,0.0,In 2 Years,1,1,0,0,1,3,20.47,4603,9900000.0,17.25943,78.38019
+Kondapur,Apartment,3,4,1368,13.7,Ready to Move,1,1,0,0,0,2,3.39,7539,10310000.0,17.47301,78.36913
+Hayathnagar,Apartment,2,3,908,0.0,After 3 Years,0,1,1,0,0,2,27.39,3491,3170000.0,17.33879,78.61085
+LB Nagar,Apartment,3,4,1746,10.5,Ready to Move,1,0,0,0,0,1,20.54,4549,7940000.0,17.36773,78.5538
+Kompally,Apartment,2,2,1015,0.0,In 2 Years,0,0,0,1,0,1,17.01,5303,5380000.0,17.54304,78.49898
+Uppal,Apartment,4,4,2430,9.7,Ready to Move,1,1,0,0,0,2,21.21,4989,12120000.0,17.41098,78.57417
+LB Nagar,Apartment,3,3,1618,2.8,Ready to Move,1,1,1,0,0,3,20.92,5285,8550000.0,17.36032,78.55403
+Shamshabad,Apartment,3,3,1712,0.0,In 3 Years,1,1,1,0,1,4,17.61,4007,6860000.0,17.28539,78.38716
+Financial District,Apartment,4,4,2677,4.5,Ready to Move,1,1,0,0,1,3,5.0,9140,24470000.0,17.40691,78.34988
+Kompally,Independent House,2,2,904,0.0,In 2 Years,1,0,1,0,1,3,18.4,4535,4100000.0,17.54544,78.51387
+Madhapur,Apartment,1,2,652,0.0,In 1 Year,1,1,1,0,0,3,0.22,11784,7680000.0,17.44462,78.37888
+Kompally,Apartment,2,2,1261,8.3,Ready to Move,1,0,1,0,1,3,16.29,5082,6410000.0,17.53554,78.49674
+Kondapur,Apartment,3,3,1372,7.0,Ready to Move,1,1,1,1,1,5,2.5,8605,11810000.0,17.45855,78.35967
+Bachupally,Apartment,2,3,1222,4.5,Ready to Move,1,1,1,1,0,4,9.82,5746,7020000.0,17.53156,78.37003
+Bachupally,Builder Floor,3,3,1758,0.0,In 2 Years,1,1,1,1,0,4,11.98,5188,9120000.0,17.55087,78.36842
+Kukatpally,Independent House,4,5,2047,0.0,In 1 Year,1,0,0,0,1,2,6.41,6655,13620000.0,17.50032,78.38757
+Nizampet,Apartment,2,2,809,0.0,In 2 Years,1,1,1,1,0,4,7.84,5770,4670000.0,17.51327,78.38789
+Uppal,Villa,4,5,2854,0.0,In 1 Year,1,0,1,1,0,3,19.44,5551,15840000.0,17.41328,78.55768
+LB Nagar,Apartment,4,4,2471,11.6,Ready to Move,1,1,0,0,1,3,21.08,4670,11540000.0,17.34101,78.54437
+Kukatpally,Villa,3,4,2011,4.0,Ready to Move,1,0,1,0,0,2,5.38,7349,14780000.0,17.48281,78.40676
+Kompally,Apartment,2,3,982,9.2,Ready to Move,0,1,0,1,1,3,15.09,5285,5190000.0,17.52365,78.492
+Shamshabad,Villa,4,4,2950,1.7,Ready to Move,1,0,1,0,0,2,19.41,4765,14060000.0,17.26999,78.3976
+Kondapur,Apartment,2,2,1141,0.0,In 3 Years,1,1,1,1,0,4,2.05,8233,9390000.0,17.45807,78.36531
+Madhapur,Apartment,3,4,1390,0.0,In 2 Years,1,1,1,1,0,4,1.27,9655,13420000.0,17.44592,78.38892
+Madhapur,Independent House,4,4,2623,0.0,In 2 Years,1,0,1,0,0,2,0.72,8974,23540000.0,17.44812,78.38197
+Banjara Hills,Builder Floor,3,4,1982,0.0,In 3 Years,0,1,0,0,0,1,5.6,16714,33120000.0,17.4095,78.41616
+Miyapur,Independent House,3,3,1491,14.2,Ready to Move,1,0,0,0,0,1,7.1,5250,7830000.0,17.5056,78.36158
+Uppal,Independent House,4,4,2984,12.4,Ready to Move,1,0,0,0,0,1,18.7,5211,15550000.0,17.40298,78.54829
+Banjara Hills,Apartment,2,2,999,9.9,Ready to Move,1,1,1,0,1,4,5.16,16012,15990000.0,17.42469,78.42164
+Narsingi,Builder Floor,2,3,1070,0.0,In 1 Year,0,1,1,0,0,2,6.59,7573,8100000.0,17.3879,78.35575
+Mehdipatnam,Apartment,2,2,1001,10.0,Ready to Move,1,1,1,1,0,4,6.7,6972,6980000.0,17.4077,78.42803
+Uppal,Independent House,4,4,2463,19.5,Ready to Move,1,0,1,0,0,2,20.74,4108,10120000.0,17.39985,78.56724
+Kokapet,Independent House,4,5,2728,0.0,In 3 Years,1,0,0,0,1,2,6.88,9327,25440000.0,17.39509,78.33678
+Manikonda,Independent House,4,4,2429,11.6,Ready to Move,1,0,1,1,0,3,4.08,6860,16660000.0,17.41204,78.39696
+Narsingi,Independent House,3,3,1698,0.0,In 2 Years,1,0,0,0,0,1,7.21,6850,11630000.0,17.38156,78.35711
+Kondapur,Apartment,3,3,1744,0.0,In 2 Years,1,1,1,0,0,3,2.37,8753,15270000.0,17.45929,78.36218
+Kondapur,Builder Floor,3,3,1626,7.0,Ready to Move,1,1,1,0,0,3,3.51,8009,13020000.0,17.4656,78.35361
+Shamshabad,Independent House,3,4,1461,0.0,In 2 Years,1,0,0,0,0,1,21.44,3841,5610000.0,17.25069,78.38115
+Miyapur,Independent House,3,4,1961,0.0,In 2 Years,1,0,0,0,0,1,8.79,5992,11750000.0,17.51558,78.34314
+Tellapur,Independent House,5,5,3845,1.9,Ready to Move,1,0,1,0,0,2,10.74,6710,25800000.0,17.45521,78.27672
+Secunderabad,Builder Floor,2,3,1034,19.8,Ready to Move,1,1,0,1,0,3,12.61,5621,5810000.0,17.44138,78.49606
+Bachupally,Apartment,3,3,1725,12.0,Ready to Move,1,0,1,0,1,3,10.19,5374,9270000.0,17.53513,78.3787
+Shamshabad,Apartment,3,3,1726,14.9,Ready to Move,1,1,1,0,1,4,19.2,4183,7220000.0,17.27132,78.39043
+Uppal,Builder Floor,2,2,1066,2.6,Ready to Move,1,0,0,1,1,3,21.62,4869,5190000.0,17.41142,78.57818
+Kukatpally,Villa,5,6,3259,0.0,After 3 Years,1,0,0,1,0,2,5.36,8323,27120000.0,17.48426,78.40421
+Manikonda,Apartment,3,4,1544,8.2,Ready to Move,1,1,0,1,0,3,3.61,6070,9370000.0,17.41151,78.3716
+Medchal,Independent House,4,4,2507,0.0,In 1 Year,1,0,0,0,0,1,23.66,3426,8590000.0,17.62316,78.49682
+Secunderabad,Builder Floor,4,5,2021,0.0,In 1 Year,1,1,1,1,1,5,10.3,7957,16080000.0,17.44567,78.47425
+Shamshabad,Independent House,3,3,1426,0.0,After 3 Years,1,0,1,1,1,4,20.82,4483,6390000.0,17.25918,78.41185
+Kondapur,Apartment,3,4,1866,0.0,In 3 Years,1,1,1,0,1,4,1.88,9687,18080000.0,17.4603,78.37949
+Kothapet,Apartment,3,3,1808,16.4,Ready to Move,1,1,1,1,0,4,20.72,5242,9480000.0,17.36462,78.55413
+Jubilee Hills,Independent House,4,5,2727,0.0,In 3 Years,1,0,1,0,0,2,3.45,17504,47730000.0,17.439,78.40934
+Kondapur,Apartment,2,3,1094,2.4,Ready to Move,1,0,1,0,0,2,3.16,8503,9300000.0,17.46596,78.35896
+Kompally,Apartment,3,4,1498,0.0,In 2 Years,1,1,0,1,0,3,15.98,5488,8220000.0,17.53563,78.49281
+Begumpet,Apartment,3,3,2204,10.7,Ready to Move,1,1,1,0,0,3,8.89,9413,20750000.0,17.43813,78.46082
+Gachibowli,Builder Floor,3,3,1362,7.7,Ready to Move,0,0,1,0,0,1,2.81,8841,12040000.0,17.44558,78.35079
+Miyapur,Apartment,2,2,790,0.0,In 2 Years,1,1,0,0,1,3,5.62,6212,4910000.0,17.48616,78.34873
+Dilsukhnagar,Independent House,4,5,2695,17.3,Ready to Move,1,0,0,0,0,1,18.19,4668,12580000.0,17.36019,78.52475
+Kokapet,Apartment,2,2,1109,8.4,Ready to Move,1,1,0,0,0,2,7.03,9346,10360000.0,17.39094,78.34035
+Kukatpally,Apartment,4,4,2389,0.0,In 1 Year,1,1,1,0,1,4,6.35,5849,13970000.0,17.49411,78.40487
+Miyapur,Independent House,3,4,1562,6.1,Ready to Move,1,0,0,1,0,2,6.16,6871,10730000.0,17.49704,78.36245
+Kokapet,Apartment,3,4,1529,0.0,In 1 Year,1,1,0,0,0,2,7.26,9542,14590000.0,17.39225,78.33478
+Tolichowki,Builder Floor,2,2,1092,11.4,Ready to Move,1,1,1,0,0,3,6.05,5703,6230000.0,17.40524,78.41773
+Uppal,Apartment,3,3,1622,0.0,In 3 Years,1,1,0,0,0,2,19.41,4950,8030000.0,17.41039,78.55684
+Madhapur,Apartment,2,3,1040,8.2,Ready to Move,1,0,1,0,1,3,1.68,9682,10070000.0,17.45327,78.38933
+Medchal,Apartment,2,2,1103,13.0,Ready to Move,1,1,0,0,0,2,22.62,3455,3810000.0,17.61916,78.48481
+Attapur,Apartment,3,4,1292,0.0,In 2 Years,1,1,1,0,1,4,11.09,5350,6910000.0,17.36123,78.43631
+Kokapet,Builder Floor,3,3,1752,0.0,After 3 Years,1,1,0,1,1,4,7.39,10400,18220000.0,17.39142,78.33393
+Dilsukhnagar,Apartment,3,4,1571,7.4,Ready to Move,1,1,1,1,1,5,16.47,6238,9800000.0,17.37275,78.51361
+Madhapur,Independent House,3,4,1593,13.3,Ready to Move,1,0,0,0,1,2,1.59,9060,14430000.0,17.43915,78.39149
+Medchal,Independent House,3,3,1886,0.0,In 1 Year,1,0,0,0,0,1,22.81,3399,6410000.0,17.63125,78.46379
+Banjara Hills,Independent House,3,4,1534,3.9,Ready to Move,1,0,1,0,0,2,6.39,15950,24470000.0,17.42386,78.4338
+Banjara Hills,Apartment,3,3,2003,0.0,In 2 Years,0,1,0,0,0,1,6.8,16452,32960000.0,17.42892,78.43943
+Madhapur,Apartment,3,4,1647,0.0,In 2 Years,1,1,1,1,1,5,1.49,9958,16400000.0,17.4527,78.38742
+Mehdipatnam,Villa,4,4,2741,0.0,In 1 Year,1,0,1,1,1,4,6.01,8037,22030000.0,17.41092,78.42241
+Gachibowli,Independent House,3,3,1598,0.0,In 2 Years,1,0,0,0,0,1,3.13,8268,13210000.0,17.45049,78.34862
+Financial District,Apartment,3,3,1301,0.0,In 3 Years,1,1,1,0,1,4,5.12,10476,13630000.0,17.41049,78.34359
+Kondapur,Independent House,4,5,2030,19.1,Ready to Move,1,1,0,0,0,2,3.62,7481,15190000.0,17.46983,78.35717
+Uppal,Villa,3,3,1909,0.0,In 1 Year,1,1,1,1,1,5,19.77,5600,10690000.0,17.40025,78.55794
+HITEC City,Villa,4,4,2969,0.0,In 3 Years,1,0,0,0,0,1,0.9,9875,29320000.0,17.44535,78.38548
+Tolichowki,Apartment,3,3,1547,0.0,After 3 Years,1,1,1,0,1,4,7.07,6477,10020000.0,17.39705,78.42269
+Banjara Hills,Builder Floor,4,4,2882,2.9,Ready to Move,1,1,1,0,0,3,6.0,17850,51440000.0,17.4157,78.42564
+Gachibowli,Apartment,3,3,1394,0.0,In 2 Years,1,0,0,1,1,3,4.39,9960,13880000.0,17.44596,78.33592
+Gachibowli,Apartment,2,2,1073,19.6,Ready to Move,1,1,1,1,1,5,3.84,8403,9020000.0,17.42475,78.34682
+Gachibowli,Apartment,1,1,611,8.2,Ready to Move,1,1,0,0,0,2,3.84,8761,5350000.0,17.43927,78.34125
+Kompally,Villa,3,3,1565,0.0,After 3 Years,1,0,0,0,0,1,14.74,5808,9090000.0,17.52677,78.48535
+LB Nagar,Apartment,2,3,1190,11.9,Ready to Move,1,0,0,1,0,2,19.64,4477,5330000.0,17.35834,78.5394
+Financial District,Apartment,2,2,971,6.1,Ready to Move,1,1,1,0,1,4,3.56,8684,8430000.0,17.41871,78.35597
+Kothapet,Villa,5,6,4095,0.0,In 1 Year,1,0,1,1,0,3,19.72,6684,27370000.0,17.3856,78.55283
+Gachibowli,Apartment,2,3,1344,9.6,Ready to Move,1,1,1,0,0,3,5.28,9812,13190000.0,17.43838,78.3277
+LB Nagar,Apartment,3,3,1709,17.2,Ready to Move,1,1,0,0,0,2,22.86,3744,6400000.0,17.3431,78.5652
+Tolichowki,Independent House,4,4,3091,0.0,In 3 Years,0,0,1,0,0,1,5.44,6671,20620000.0,17.40363,78.40699
+Uppal,Independent House,3,3,1717,10.6,Ready to Move,1,0,0,0,1,2,18.29,4503,7730000.0,17.41004,78.54595
+Ameerpet,Apartment,2,2,1000,0.0,In 1 Year,1,1,1,1,1,5,7.27,8034,8030000.0,17.43204,78.44469
+Dilsukhnagar,Independent House,3,3,1747,0.0,After 3 Years,1,0,0,0,1,2,18.5,6584,11500000.0,17.35529,78.52508
+Gachibowli,Independent House,3,4,1598,4.3,Ready to Move,1,0,0,0,0,1,3.79,9649,15420000.0,17.44511,78.34152
+HITEC City,Apartment,2,3,816,11.0,Ready to Move,1,1,1,1,1,5,1.76,9732,7940000.0,17.44817,78.39305
+Kondapur,Apartment,2,3,862,0.0,In 1 Year,1,1,0,0,0,2,2.96,9389,8090000.0,17.46563,78.36172
+Nizampet,Apartment,4,5,2474,15.9,Ready to Move,1,1,1,0,0,3,8.66,4943,12230000.0,17.5213,78.38
+Uppal,Builder Floor,3,4,1856,0.0,In 3 Years,1,1,1,0,1,4,19.55,4672,8670000.0,17.41334,78.55872
+Jubilee Hills,Builder Floor,3,3,1715,14.5,Ready to Move,1,1,0,0,0,2,4.21,14451,24790000.0,17.43773,78.41638
+Kothapet,Apartment,4,5,2603,0.0,In 2 Years,1,1,1,0,1,4,20.36,5570,14500000.0,17.35455,78.54497
+Kondapur,Independent House,2,3,1180,0.0,In 1 Year,1,0,0,0,0,1,2.37,7973,9410000.0,17.45279,78.35706
+Secunderabad,Apartment,2,3,1075,8.6,Ready to Move,1,1,1,0,0,3,13.77,7164,7700000.0,17.42748,78.50588
+HITEC City,Apartment,4,4,2983,19.4,Ready to Move,1,1,1,1,0,4,1.98,8499,25350000.0,17.45971,78.38485
+Kokapet,Builder Floor,3,4,1402,18.1,Ready to Move,1,1,0,1,1,4,8.28,8879,12450000.0,17.3965,78.3167
+Ameerpet,Apartment,1,1,584,0.0,After 3 Years,1,1,1,0,1,4,7.91,7898,4610000.0,17.43579,78.45134
+Medchal,Villa,5,5,4440,2.7,Ready to Move,1,0,0,0,1,2,22.21,4289,19040000.0,17.62028,78.47471
+Kompally,Apartment,1,2,682,7.7,Ready to Move,1,1,0,1,1,4,15.43,5205,3550000.0,17.54288,78.47876
+Gachibowli,Apartment,2,3,1123,5.1,Ready to Move,1,0,0,0,1,2,3.08,9364,10520000.0,17.44596,78.34831
+Kompally,Independent House,2,3,933,0.0,In 1 Year,1,0,0,0,1,2,15.21,5689,5310000.0,17.5299,78.48843
+Gachibowli,Apartment,3,4,2014,3.0,Ready to Move,1,1,1,0,1,4,3.1,10080,20300000.0,17.42829,78.35274
+Attapur,Villa,4,5,2542,1.2,Ready to Move,1,1,1,1,0,4,10.9,6731,17110000.0,17.36565,78.43965
+Ameerpet,Apartment,1,1,651,0.0,In 1 Year,1,1,1,1,1,5,8.18,7446,4850000.0,17.4426,78.45435
+Kondapur,Villa,4,5,3621,0.0,In 1 Year,1,0,1,0,0,2,3.45,9779,35410000.0,17.46038,78.34995
+Madhapur,Villa,4,5,2666,0.0,In 2 Years,1,0,1,0,0,2,1.53,11430,30470000.0,17.45073,78.38948
+HITEC City,Builder Floor,3,4,1682,16.0,Ready to Move,1,1,1,1,0,4,0.78,7804,13130000.0,17.43693,78.37468
+Medchal,Apartment,2,2,1123,10.5,Ready to Move,1,1,1,0,0,3,23.11,3472,3900000.0,17.61885,78.49418
+Kukatpally,Independent House,4,5,2364,0.0,In 1 Year,1,0,0,0,1,2,6.64,7237,17110000.0,17.49339,78.41162
+Uppal,Apartment,2,3,964,15.8,Ready to Move,1,1,1,1,1,5,20.32,4919,4740000.0,17.40266,78.56389
+Jubilee Hills,Independent House,4,5,2517,19.0,Ready to Move,1,0,0,0,1,2,3.17,15923,40080000.0,17.42894,78.40294
+Bachupally,Apartment,3,3,1563,5.2,Ready to Move,1,0,1,0,0,2,11.1,5164,8070000.0,17.54216,78.36147
+Kondapur,Apartment,2,2,1091,13.0,Ready to Move,0,0,0,0,1,1,1.55,6885,7510000.0,17.44738,78.36318
+Shamshabad,Builder Floor,1,1,648,5.9,Ready to Move,1,1,0,0,1,3,20.44,3624,2350000.0,17.26266,78.41192
+Kokapet,Apartment,4,4,1933,0.0,In 2 Years,1,0,1,0,1,3,8.12,8687,16790000.0,17.40331,78.31325
+Bachupally,Independent House,4,4,2412,0.0,After 3 Years,1,1,1,0,0,3,9.74,5589,13480000.0,17.53098,78.37243
+Ameerpet,Villa,3,3,2205,0.0,In 2 Years,1,0,1,1,1,4,8.78,8584,18930000.0,17.43079,78.45886
+Banjara Hills,Builder Floor,1,1,537,14.3,Ready to Move,1,1,1,1,0,4,8.02,12771,6860000.0,17.40565,78.44157
+Shamshabad,Builder Floor,2,2,1024,0.0,In 1 Year,1,1,1,0,0,3,20.34,3984,4080000.0,17.26208,78.40201
+Kondapur,Apartment,3,4,1806,0.0,In 2 Years,1,1,1,0,0,3,1.47,7220,13040000.0,17.45079,78.36563
+Nizampet,Apartment,3,4,1673,0.0,After 3 Years,1,0,1,0,0,2,7.92,5851,9790000.0,17.51451,78.37101
+Tellapur,Builder Floor,4,5,2174,17.2,Ready to Move,1,0,1,0,1,3,9.92,5183,11270000.0,17.45501,78.28451
+Kukatpally,Apartment,3,3,1502,0.0,In 3 Years,1,1,1,0,0,3,6.39,6446,9680000.0,17.4936,78.40672
+Kondapur,Apartment,2,3,752,0.0,In 1 Year,1,0,1,1,1,4,2.4,9751,7330000.0,17.46379,78.36935
+Kondapur,Apartment,2,3,1305,8.6,Ready to Move,1,1,1,1,0,4,2.29,7909,10320000.0,17.45644,78.36038
+Kokapet,Apartment,2,3,1139,15.0,Ready to Move,1,1,1,0,0,3,6.79,8302,9460000.0,17.40178,78.33046
+Narsingi,Independent House,4,5,2624,0.0,In 2 Years,1,0,0,0,0,1,5.54,7698,20200000.0,17.3944,78.36839
+Miyapur,Apartment,3,3,1539,0.0,After 3 Years,1,1,0,1,0,3,5.96,6749,10390000.0,17.49652,78.36877
+Kompally,Apartment,1,1,586,0.0,In 1 Year,1,1,0,1,0,3,15.16,5308,3110000.0,17.53707,78.48122
+Jubilee Hills,Apartment,2,2,957,0.0,In 1 Year,1,1,1,0,0,3,4.26,17355,16610000.0,17.42772,78.41382
+Miyapur,Apartment,3,4,1634,4.7,Ready to Move,1,1,1,1,0,4,5.69,6708,10960000.0,17.4944,78.37136
+Miyapur,Apartment,2,3,1143,0.0,In 2 Years,1,1,1,0,0,3,7.86,6157,7040000.0,17.50595,78.3424
+HITEC City,Apartment,2,3,1337,16.0,Ready to Move,1,0,1,0,0,2,1.26,7270,9720000.0,17.4476,78.38823
+Kompally,Apartment,2,3,851,0.0,In 2 Years,1,0,1,1,0,3,14.35,5333,4540000.0,17.52603,78.48128
+Narsingi,Apartment,3,3,1527,0.0,In 3 Years,1,1,1,0,1,4,4.08,8428,12870000.0,17.41128,78.35889
+Gachibowli,Independent House,2,3,1104,15.2,Ready to Move,1,1,1,0,0,3,2.58,8083,8920000.0,17.43752,78.35369
+Miyapur,Independent House,3,3,1698,0.0,In 2 Years,0,0,1,1,1,3,6.76,6754,11470000.0,17.50338,78.36636
+Kukatpally,Apartment,2,3,1035,0.0,In 1 Year,1,0,1,1,1,4,6.67,6098,6310000.0,17.49111,78.41541
+Financial District,Apartment,2,3,1236,0.0,After 3 Years,1,0,1,0,0,2,5.83,8122,10040000.0,17.41605,78.33044
+Bachupally,Apartment,2,3,827,0.0,In 3 Years,0,0,1,0,1,2,10.94,5270,4360000.0,17.54137,78.36684
+Bachupally,Villa,3,4,2143,1.1,Ready to Move,1,0,1,1,1,4,8.79,7107,15230000.0,17.52178,78.36596
+Ameerpet,Apartment,2,3,946,7.9,Ready to Move,1,1,1,1,0,4,8.1,7931,7500000.0,17.43495,78.45303
+Jubilee Hills,Independent House,5,6,3188,0.0,In 3 Years,1,0,1,0,0,2,3.26,18860,60130000.0,17.43481,78.40656
+Banjara Hills,Independent House,3,4,1860,17.1,Ready to Move,1,1,0,0,0,2,6.78,13857,25770000.0,17.41389,78.43304
+Narsingi,Builder Floor,3,4,1768,18.0,Ready to Move,0,0,0,1,0,1,7.43,5639,9970000.0,17.38123,78.35181
+LB Nagar,Apartment,3,3,1761,3.6,Ready to Move,1,1,0,0,0,2,21.77,5132,9040000.0,17.34673,78.55559
+Bachupally,Independent House,4,5,2311,0.0,In 1 Year,0,0,0,0,1,1,12.2,6209,14350000.0,17.55296,78.36938
+Miyapur,Apartment,3,4,1783,19.0,Ready to Move,1,1,1,0,0,3,7.74,4867,8680000.0,17.50743,78.34832
+Jubilee Hills,Independent House,3,3,1652,0.0,In 3 Years,1,0,1,0,1,3,1.92,18297,30230000.0,17.43616,78.39362
+Manikonda,Builder Floor,2,2,1380,0.0,After 3 Years,1,1,1,0,0,3,3.72,6023,8310000.0,17.41025,78.37309
+Nizampet,Apartment,3,4,1640,0.0,In 1 Year,1,1,0,0,1,3,8.04,6017,9870000.0,17.51578,78.37793
+Secunderabad,Builder Floor,2,2,1168,9.5,Ready to Move,0,1,1,1,0,3,12.4,6522,7620000.0,17.42661,78.49275
+Attapur,Independent House,3,3,1555,0.0,After 3 Years,1,0,1,0,1,3,11.64,5125,7970000.0,17.36306,78.44735
+Tolichowki,Builder Floor,1,1,581,18.7,Ready to Move,1,1,0,0,0,2,6.52,4594,2670000.0,17.39764,78.41554
+Nizampet,Independent House,3,4,1673,0.0,After 3 Years,1,0,0,0,1,2,7.76,5940,9940000.0,17.51283,78.36862
+Nizampet,Independent House,4,4,3021,0.0,After 3 Years,1,0,0,0,0,1,7.58,6094,18410000.0,17.51113,78.3861
+LB Nagar,Apartment,2,3,1198,15.6,Ready to Move,1,1,1,1,1,5,23.6,4531,5430000.0,17.33285,78.567
+Narsingi,Apartment,3,4,1320,10.9,Ready to Move,1,0,0,0,0,1,6.86,6440,8500000.0,17.38217,78.36984
+Dilsukhnagar,Independent House,3,3,1965,13.8,Ready to Move,1,0,1,0,0,2,18.65,5516,10840000.0,17.3633,78.53158
+Kukatpally,Apartment,3,4,1651,0.0,In 1 Year,1,1,1,0,0,3,5.9,6231,10290000.0,17.49149,78.40086
+Madhapur,Apartment,3,3,1534,0.0,In 1 Year,1,1,0,0,0,2,3.21,10057,15430000.0,17.45943,78.40244
+Madhapur,Apartment,4,5,2530,0.0,In 1 Year,1,1,1,0,0,3,0.99,11420,28890000.0,17.43726,78.38385
+Kothapet,Independent House,3,4,1497,0.0,In 3 Years,1,0,0,0,0,1,20.21,5344,8000000.0,17.3765,78.55424
+Gachibowli,Apartment,3,3,1710,0.0,After 3 Years,1,1,1,0,0,3,1.44,8929,15270000.0,17.44259,78.36368
+Kokapet,Independent House,3,4,1547,0.0,After 3 Years,0,0,0,0,1,1,6.67,9621,14880000.0,17.40294,78.33094
+Narsingi,Apartment,2,3,1017,0.0,In 3 Years,1,1,0,1,0,3,6.74,7919,8050000.0,17.38342,78.36849
+Kondapur,Builder Floor,3,4,1435,0.0,After 3 Years,1,1,1,0,1,4,4.56,8181,11740000.0,17.47926,78.35618
+Narsingi,Apartment,2,2,1427,0.0,After 3 Years,1,1,1,0,0,3,4.94,7875,11240000.0,17.40132,78.36253
+Secunderabad,Apartment,2,3,1236,0.0,After 3 Years,1,1,0,0,0,2,12.87,8961,11080000.0,17.43509,78.49816
+Gachibowli,Independent House,3,3,1411,15.3,Ready to Move,1,0,0,0,0,1,2.35,7627,10760000.0,17.43911,78.35551
+Dilsukhnagar,Apartment,3,3,1757,0.0,In 3 Years,1,1,1,0,1,4,19.24,5486,9640000.0,17.36164,78.53695
+Kothapet,Independent House,4,4,2758,4.6,Ready to Move,1,1,0,0,0,2,20.82,5475,15100000.0,17.35855,78.55209
+Manikonda,Apartment,3,4,1744,16.8,Ready to Move,1,1,1,1,1,5,4.36,5778,10080000.0,17.40453,78.38141
+Kondapur,Apartment,3,4,1448,0.0,In 1 Year,1,0,1,1,0,3,4.24,8962,12980000.0,17.47426,78.35359
+Kompally,Apartment,3,4,1425,9.0,Ready to Move,1,1,1,0,0,3,14.07,4981,7100000.0,17.52486,78.47886
+Kondapur,Apartment,2,2,1131,6.9,Ready to Move,1,1,0,0,1,3,2.77,8623,9750000.0,17.46595,78.3658
+Manikonda,Independent House,2,2,1246,15.4,Ready to Move,0,0,0,0,0,0,4.23,6292,7840000.0,17.40548,78.37563
+Shamshabad,Apartment,3,3,1665,0.0,In 1 Year,1,1,0,1,1,4,21.74,4054,6750000.0,17.2494,78.40168
+Medchal,Apartment,2,2,934,0.0,In 1 Year,0,1,1,0,1,3,21.88,3542,3310000.0,17.61679,78.47495
+Uppal,Apartment,3,3,1699,0.0,In 2 Years,1,1,0,0,1,3,18.61,4867,8270000.0,17.40759,78.54849
+Narsingi,Builder Floor,1,1,589,0.0,In 1 Year,1,0,0,1,1,3,6.8,6974,4110000.0,17.38597,78.3555
+Begumpet,Builder Floor,3,4,1681,0.0,In 1 Year,0,1,0,0,0,1,9.65,9097,15290000.0,17.44359,78.46817
+Ameerpet,Apartment,2,3,1055,1.5,Ready to Move,1,1,0,0,1,3,7.43,8655,9130000.0,17.42856,78.44547
+Tellapur,Villa,4,5,2801,0.0,In 3 Years,1,1,1,0,1,4,9.41,6972,19530000.0,17.45414,78.28922
+Jubilee Hills,Independent House,3,4,1770,0.0,In 1 Year,1,1,0,0,0,2,4.13,17688,31310000.0,17.42721,78.4122
+Gachibowli,Apartment,4,4,2076,11.0,Ready to Move,1,0,1,0,0,2,2.75,8719,18100000.0,17.43464,78.35299
+HITEC City,Apartment,4,5,2709,16.8,Ready to Move,1,1,0,1,0,3,0.78,9047,24510000.0,17.44564,78.37023
+Nizampet,Villa,3,4,2407,0.0,After 3 Years,1,0,1,1,1,4,9.71,6822,16420000.0,17.52953,78.39316
+Kondapur,Independent House,4,5,2784,0.0,In 1 Year,1,0,0,0,1,2,3.74,7972,22190000.0,17.46754,78.35259
+Kondapur,Builder Floor,2,3,812,0.0,In 3 Years,1,1,1,0,0,3,1.77,8094,6570000.0,17.45537,78.36614
+Dilsukhnagar,Villa,3,4,1675,1.4,Ready to Move,1,0,1,0,1,3,17.97,7922,13270000.0,17.36457,78.52495
+Medchal,Apartment,2,3,1292,13.1,Ready to Move,1,1,0,0,1,3,22.73,3126,4040000.0,17.62576,78.47434
+Bachupally,Apartment,3,3,1517,19.8,Ready to Move,1,1,1,0,1,4,11.83,5109,7750000.0,17.54969,78.36962
+Dilsukhnagar,Independent House,2,3,1233,0.0,In 1 Year,1,0,1,0,0,2,18.65,5863,7230000.0,17.36607,78.53313
+Medchal,Apartment,2,2,1051,17.4,Ready to Move,1,1,1,0,1,4,24.48,3112,3270000.0,17.63982,78.48171
+Kondapur,Independent House,2,2,1141,0.0,After 3 Years,1,0,1,0,0,2,3.17,8564,9770000.0,17.47203,78.37717
+Miyapur,Builder Floor,4,4,2718,5.0,Ready to Move,1,1,1,0,1,4,6.36,5794,15750000.0,17.49967,78.36569
+Tellapur,Apartment,3,3,1544,0.0,In 1 Year,1,0,1,0,0,2,9.79,6378,9850000.0,17.44949,78.28514
+Madhapur,Independent House,4,5,2951,12.6,Ready to Move,1,0,1,0,0,2,1.82,10242,30220000.0,17.44916,78.39325
+Uppal,Independent House,3,4,1627,16.1,Ready to Move,1,0,0,0,1,2,19.61,4820,7840000.0,17.40208,78.5569
+Miyapur,Apartment,2,2,1105,1.7,Ready to Move,1,1,1,0,0,3,6.29,5966,6590000.0,17.49636,78.35613
+Kukatpally,Apartment,3,4,1528,0.0,In 2 Years,1,1,0,0,0,2,5.38,6427,9820000.0,17.48995,78.39134
+Kondapur,Apartment,3,3,1639,15.5,Ready to Move,1,1,1,0,0,3,2.75,7679,12590000.0,17.4609,78.35882
+HITEC City,Villa,4,5,2980,0.0,In 1 Year,1,0,1,0,0,2,2.14,10927,32560000.0,17.43915,78.39683
+Mehdipatnam,Apartment,2,2,1060,12.3,Ready to Move,1,1,0,0,1,3,8.42,6040,6400000.0,17.40409,78.44493
+Gachibowli,Apartment,2,2,982,0.0,In 1 Year,1,1,1,0,0,3,4.61,8097,7950000.0,17.42239,78.3398
+Financial District,Builder Floor,2,2,1316,12.7,Ready to Move,1,1,0,0,0,2,4.91,8075,10630000.0,17.4224,78.33656
+Kokapet,Independent House,3,3,1487,8.8,Ready to Move,1,0,1,0,0,2,7.39,9456,14060000.0,17.39244,78.33262
+Kukatpally,Builder Floor,3,4,1432,0.0,In 1 Year,0,0,1,0,0,1,5.58,6056,8670000.0,17.49029,78.39626
+Kompally,Apartment,3,4,951,0.0,In 3 Years,1,1,0,1,0,3,15.24,5109,4860000.0,17.52609,78.49191
+Kukatpally,Apartment,1,2,633,0.0,In 2 Years,1,1,1,1,1,5,6.88,6378,4040000.0,17.50075,78.40186
+Madhapur,Villa,4,5,2674,0.0,After 3 Years,1,0,1,0,0,2,1.45,12889,34460000.0,17.44588,78.3906
+Financial District,Apartment,2,2,1118,0.0,In 3 Years,1,1,1,1,1,5,4.11,9693,10840000.0,17.41869,78.34842
+Kothapet,Builder Floor,1,1,602,6.8,Ready to Move,1,1,1,0,0,3,19.22,4933,2970000.0,17.37814,78.54493
+Jubilee Hills,Apartment,1,1,519,0.0,In 2 Years,1,0,0,0,1,2,2.16,16637,8640000.0,17.43469,78.39531
+Banjara Hills,Apartment,2,3,975,18.1,Ready to Move,1,1,0,1,1,4,5.16,12995,12670000.0,17.42642,78.42242
+Banjara Hills,Independent House,4,4,2319,6.0,Ready to Move,1,0,0,0,0,1,6.48,14944,34660000.0,17.4262,78.43552
+Uppal,Apartment,2,3,1287,0.0,After 3 Years,1,1,0,1,1,4,20.23,5802,7470000.0,17.41441,78.56542
+Gachibowli,Apartment,2,2,1188,3.2,Ready to Move,1,0,0,0,1,2,3.7,9529,11320000.0,17.45351,78.34389
+Manikonda,Apartment,2,2,898,0.0,After 3 Years,1,1,0,0,1,3,7.01,6823,6130000.0,17.38129,78.36659
+Bachupally,Independent House,3,4,1555,7.1,Ready to Move,1,0,0,0,0,1,10.5,5479,8520000.0,17.53783,78.38066
+Manikonda,Apartment,4,4,2348,0.0,In 1 Year,1,1,0,0,0,2,6.57,6204,14570000.0,17.38546,78.38856
+Kothapet,Apartment,3,3,1737,7.9,Ready to Move,1,0,0,0,0,1,18.6,5614,9750000.0,17.36485,78.5319
+Kukatpally,Apartment,1,1,632,0.0,In 2 Years,1,1,0,1,1,4,6.88,6452,4080000.0,17.50214,78.39788
+Uppal,Villa,4,5,2784,0.0,In 2 Years,1,0,0,0,0,1,19.02,5639,15700000.0,17.42163,78.55506
+Kothapet,Villa,2,3,1039,18.4,Ready to Move,1,0,1,1,0,3,17.94,5409,5620000.0,17.3743,78.52996
+Nizampet,Apartment,2,2,1289,2.2,Ready to Move,1,1,0,0,1,3,7.02,6486,8360000.0,17.50667,78.37782
+Mehdipatnam,Villa,5,5,4064,0.0,After 3 Years,1,0,0,0,0,1,9.93,6720,27310000.0,17.39027,78.4524
+Kompally,Independent House,4,4,2145,7.1,Ready to Move,1,0,0,0,0,1,15.64,4819,10340000.0,17.54404,78.48031
+Kothapet,Apartment,2,2,852,1.5,Ready to Move,1,1,0,0,1,3,19.94,5175,4410000.0,17.3635,78.54536
+Manikonda,Independent House,3,3,1618,0.0,In 1 Year,0,0,0,0,0,0,4.18,7137,11550000.0,17.4074,78.38825
+Kukatpally,Apartment,3,4,1628,0.0,After 3 Years,1,1,1,0,0,3,6.77,5669,9230000.0,17.49651,78.40859
+Nizampet,Independent House,5,6,2932,17.3,Ready to Move,0,0,0,0,0,0,7.06,5178,15180000.0,17.50615,78.38808
+Madhapur,Independent House,2,2,946,12.9,Ready to Move,1,0,0,0,1,2,1.29,10552,9980000.0,17.43936,78.38854
+Tellapur,Apartment,2,2,1278,7.7,Ready to Move,1,0,1,0,0,2,10.14,5727,7320000.0,17.43995,78.28169
+Tolichowki,Apartment,3,3,1839,0.0,In 1 Year,1,1,0,1,1,4,5.55,6047,11120000.0,17.40934,78.41538
+Jubilee Hills,Apartment,4,4,2034,10.4,Ready to Move,1,1,1,1,1,5,4.01,15528,31590000.0,17.42062,78.40647
+Kondapur,Villa,4,4,2895,0.0,In 1 Year,1,0,1,1,0,3,2.3,10447,30250000.0,17.46186,78.3673
+Manikonda,Apartment,2,2,955,7.7,Ready to Move,1,0,0,0,1,2,6.63,6512,6220000.0,17.38658,78.39594
+HITEC City,Apartment,2,2,1113,0.0,In 2 Years,0,0,0,1,0,1,2.25,8883,9890000.0,17.42834,78.39119
+Gachibowli,Villa,5,5,4041,0.0,In 2 Years,1,1,1,0,0,3,3.12,11206,45280000.0,17.45928,78.35285
+Tolichowki,Independent House,4,4,2283,10.4,Ready to Move,1,0,0,0,0,1,7.17,5348,12210000.0,17.40688,78.43287
+Miyapur,Apartment,3,3,1761,0.0,In 3 Years,1,1,0,0,1,3,9.48,6002,10570000.0,17.52762,78.36277
+Narsingi,Builder Floor,2,3,976,17.2,Ready to Move,0,0,1,0,0,1,4.92,6251,6100000.0,17.40003,78.3685
+Kompally,Apartment,2,3,1219,0.0,After 3 Years,0,1,1,0,1,3,15.72,5158,6290000.0,17.54554,78.47981
+Gachibowli,Apartment,2,3,1035,0.0,In 2 Years,1,1,1,1,0,4,3.55,8986,9300000.0,17.4432,78.34371
+Kokapet,Apartment,3,3,1686,17.0,Ready to Move,0,1,0,1,0,2,6.59,8385,14140000.0,17.39457,78.3421
+Ameerpet,Builder Floor,3,4,1486,0.0,In 2 Years,1,1,1,1,0,4,8.0,7570,11250000.0,17.44498,78.4526
+Jubilee Hills,Apartment,3,3,1017,12.6,Ready to Move,1,0,1,0,0,2,2.76,15708,15980000.0,17.43628,78.40209
+Medchal,Villa,3,3,1919,0.0,In 1 Year,1,0,1,1,0,3,22.85,3456,6630000.0,17.62807,78.47192
+Kompally,Apartment,4,5,2611,0.0,In 1 Year,1,1,1,0,0,3,15.32,4930,12870000.0,17.53686,78.48338
+Kukatpally,Villa,4,4,2944,0.0,In 3 Years,1,0,0,0,1,2,7.25,8087,23810000.0,17.5059,78.39696
+Uppal,Apartment,2,2,1250,0.0,After 3 Years,1,1,0,0,1,3,19.64,5666,7080000.0,17.4079,78.55854
+Mehdipatnam,Independent House,3,4,1320,0.0,In 1 Year,1,0,0,0,0,1,8.41,7047,9300000.0,17.38939,78.43258
+Secunderabad,Independent House,3,4,1652,0.0,In 2 Years,1,0,0,0,0,1,11.93,7936,13110000.0,17.43018,78.48878
+Hayathnagar,Villa,4,4,3497,1.7,Ready to Move,1,0,1,0,1,3,27.95,4758,16640000.0,17.32205,78.60777
+Uppal,Apartment,3,3,1905,0.0,In 2 Years,1,1,0,0,1,3,19.08,4792,9130000.0,17.40369,78.55216
+Attapur,Apartment,3,4,1567,11.0,Ready to Move,1,1,0,1,0,3,9.63,4991,7820000.0,17.37145,78.42752
+Madhapur,Apartment,3,3,1804,0.0,In 3 Years,1,1,1,0,1,4,2.01,11165,20140000.0,17.45928,78.38641
+Secunderabad,Apartment,3,4,1400,2.6,Ready to Move,1,0,1,0,1,3,15.2,7312,10240000.0,17.4272,78.51947
+Miyapur,Independent House,4,5,2488,0.0,In 1 Year,1,0,0,0,0,1,6.4,5453,13570000.0,17.49508,78.35032
+Bachupally,Apartment,1,2,520,0.0,After 3 Years,1,1,0,0,1,3,11.98,5447,2830000.0,17.55088,78.36797
+Banjara Hills,Villa,2,2,1095,5.8,Ready to Move,1,0,0,0,1,2,6.62,17170,18800000.0,17.41907,78.43411
+Hayathnagar,Independent House,2,2,1080,11.9,Ready to Move,1,1,0,0,0,2,26.37,3316,3580000.0,17.32967,78.59522
+Medchal,Apartment,3,4,1279,0.0,In 2 Years,1,0,0,0,0,1,21.83,3284,4200000.0,17.61224,78.48241
+Kokapet,Independent House,4,4,2359,0.0,In 3 Years,1,0,1,0,1,3,8.18,9391,22150000.0,17.38494,78.33048
+Secunderabad,Independent House,3,4,1498,0.0,In 1 Year,1,0,1,0,1,3,11.87,7784,11660000.0,17.44121,78.48906
+Uppal,Apartment,3,4,1727,0.0,In 1 Year,1,1,1,1,0,4,20.85,5809,10030000.0,17.3914,78.56593
+Manikonda,Builder Floor,2,3,1075,0.0,In 2 Years,1,1,1,0,0,3,2.87,6884,7400000.0,17.41883,78.38526
+Kondapur,Villa,4,4,2913,14.1,Ready to Move,1,0,0,0,0,1,5.35,8876,25850000.0,17.48411,78.35015
+Gachibowli,Independent House,3,4,1459,1.2,Ready to Move,1,0,0,0,0,1,5.03,9079,13250000.0,17.42814,78.33264
+Uppal,Independent House,3,4,1347,0.0,After 3 Years,1,0,0,0,1,2,19.6,5404,7280000.0,17.40403,78.55722
+Kukatpally,Villa,3,3,1846,17.4,Ready to Move,1,0,1,1,0,3,5.04,6106,11270000.0,17.48693,78.39087
+Medchal,Independent House,5,5,3177,1.9,Ready to Move,1,0,0,0,1,2,21.6,3233,10270000.0,17.6161,78.47072
+Kukatpally,Builder Floor,3,4,1479,19.4,Ready to Move,0,1,1,1,0,3,7.64,5049,7470000.0,17.50659,78.40564
+Hayathnagar,Independent House,2,3,1315,3.7,Ready to Move,1,0,0,1,1,3,26.99,3406,4480000.0,17.31534,78.59323
+Miyapur,Independent House,3,3,1875,3.9,Ready to Move,1,1,1,0,1,4,5.66,6476,12140000.0,17.49119,78.35862
+LB Nagar,Builder Floor,3,3,1461,0.0,In 2 Years,1,0,0,1,0,2,20.09,4927,7200000.0,17.34669,78.53703
+Madhapur,Villa,5,5,3613,12.5,Ready to Move,1,0,1,0,0,2,1.53,11450,41370000.0,17.44668,78.39121
+Bachupally,Apartment,1,1,741,4.4,Ready to Move,1,1,1,0,0,3,10.68,5886,4360000.0,17.53882,78.36467
+LB Nagar,Builder Floor,3,4,1634,0.0,After 3 Years,1,1,1,0,1,4,22.47,5409,8840000.0,17.32753,78.55062
+Tolichowki,Builder Floor,1,1,795,9.6,Ready to Move,1,1,0,0,1,3,4.64,5509,4380000.0,17.40924,78.40218
+Dilsukhnagar,Villa,3,4,2513,0.0,In 1 Year,1,0,1,0,0,2,19.19,6559,16480000.0,17.34521,78.52581
+Gachibowli,Apartment,2,3,934,0.0,In 3 Years,1,1,1,1,1,5,4.0,9183,8580000.0,17.4224,78.34672
+Manikonda,Apartment,1,1,735,0.0,In 1 Year,1,1,0,0,1,3,4.21,7350,5400000.0,17.40615,78.38391
+Gachibowli,Apartment,3,4,1751,0.0,After 3 Years,1,1,1,0,0,3,3.63,8927,15630000.0,17.45445,78.34491
+Madhapur,Apartment,1,1,682,9.6,Ready to Move,1,0,1,0,0,2,2.5,8912,6080000.0,17.46243,78.38997
+Banjara Hills,Apartment,3,3,1961,0.0,In 1 Year,1,1,0,1,0,3,7.29,16615,32580000.0,17.41063,78.4366
+Ameerpet,Apartment,3,3,1111,3.0,Ready to Move,1,1,0,0,0,2,7.54,7562,8400000.0,17.44226,78.44827
+Uppal,Builder Floor,1,2,659,15.9,Ready to Move,1,0,1,0,0,2,18.84,4565,3010000.0,17.39563,78.54751
+Attapur,Apartment,2,3,1314,13.3,Ready to Move,1,1,0,0,0,2,9.43,5161,6780000.0,17.37264,78.42596
+Secunderabad,Independent House,2,3,1064,16.7,Ready to Move,1,0,0,0,1,2,11.33,6863,7300000.0,17.42974,78.483
+LB Nagar,Independent House,4,5,2627,17.3,Ready to Move,1,0,0,0,1,2,20.55,4354,11440000.0,17.3389,78.53684
+Gachibowli,Apartment,3,4,1885,12.3,Ready to Move,1,1,0,0,1,3,3.12,9512,17930000.0,17.44871,78.34835
+Financial District,Apartment,2,3,1096,6.4,Ready to Move,1,0,0,0,1,2,5.25,8542,9360000.0,17.42458,78.33188
+Jubilee Hills,Apartment,3,3,1299,0.0,In 1 Year,1,1,0,0,0,2,2.69,15301,19870000.0,17.43989,78.40227
+Kothapet,Apartment,2,2,1408,3.7,Ready to Move,0,1,1,0,0,2,19.57,5730,8070000.0,17.36354,78.54155
+Gachibowli,Apartment,4,4,2140,0.0,In 1 Year,1,1,0,1,1,4,3.25,10413,22280000.0,17.44411,78.34655
+Nizampet,Independent House,5,6,4334,0.0,In 2 Years,1,0,1,0,1,3,8.04,6421,27830000.0,17.51424,78.39292
+Begumpet,Apartment,2,3,765,14.7,Ready to Move,1,1,1,0,1,4,8.44,9252,7080000.0,17.44618,78.45667
+Gachibowli,Villa,4,4,2802,18.8,Ready to Move,1,0,1,1,0,3,2.59,9207,25800000.0,17.44528,78.35288
+Tellapur,Builder Floor,2,2,1090,0.0,After 3 Years,1,0,0,0,0,1,9.42,5028,5480000.0,17.44793,78.28848
+Mehdipatnam,Independent House,4,5,2768,10.5,Ready to Move,1,0,1,0,0,2,8.14,6538,18100000.0,17.40004,78.43897
+Banjara Hills,Apartment,1,1,540,16.9,Ready to Move,1,1,1,0,0,3,5.74,13940,7530000.0,17.41447,78.42189
+Financial District,Independent House,5,5,3517,0.0,After 3 Years,1,0,0,0,1,2,5.01,7889,27750000.0,17.41489,78.34073
+Kothapet,Independent House,3,4,1798,0.0,In 2 Years,1,0,1,0,0,2,20.51,5529,9940000.0,17.36292,78.55107
+Manikonda,Apartment,3,3,1498,13.0,Ready to Move,1,1,1,0,1,4,6.95,6448,9660000.0,17.38321,78.39449
+Kothapet,Builder Floor,3,3,1696,7.2,Ready to Move,0,0,1,0,1,2,21.03,4983,8450000.0,17.38157,78.56452
+Kokapet,Builder Floor,2,2,894,2.4,Ready to Move,1,1,1,1,1,5,6.99,10865,9710000.0,17.39569,78.33447
+Kompally,Apartment,3,4,1952,17.1,Ready to Move,1,1,0,0,1,3,14.41,5009,9780000.0,17.52296,78.48447
+Tellapur,Apartment,2,2,1008,2.1,Ready to Move,1,1,1,0,1,4,8.79,7402,7460000.0,17.47654,78.30196
+Kokapet,Apartment,3,4,1822,0.0,In 2 Years,1,1,1,0,1,4,7.16,9987,18200000.0,17.4008,78.32666
+Attapur,Apartment,2,3,1204,0.0,In 3 Years,1,1,0,1,0,3,10.03,4577,5510000.0,17.36755,78.42813
+HITEC City,Independent House,3,4,1561,2.7,Ready to Move,1,0,1,0,0,2,2.57,8682,13550000.0,17.46565,78.37016
+Madhapur,Builder Floor,1,1,700,0.0,In 1 Year,1,1,0,0,0,2,3.12,9743,6820000.0,17.45964,78.40126
+Manikonda,Apartment,2,2,1000,8.9,Ready to Move,1,1,0,0,0,2,4.97,6800,6800000.0,17.401,78.39159
+Secunderabad,Independent House,4,5,2912,0.0,In 2 Years,1,0,1,1,1,4,12.94,8809,25650000.0,17.43933,78.49907
+LB Nagar,Apartment,3,4,1828,8.6,Ready to Move,1,1,1,0,1,4,21.87,4776,8730000.0,17.35263,78.55999
+Medchal,Builder Floor,3,3,1510,0.0,In 3 Years,1,1,1,0,1,4,23.13,3695,5580000.0,17.62892,78.47609
+Kokapet,Builder Floor,1,1,502,9.1,Ready to Move,1,1,0,1,0,3,9.31,8174,4100000.0,17.38043,78.31955
+Miyapur,Apartment,3,3,1955,19.7,Ready to Move,1,0,1,0,1,3,6.75,5218,10200000.0,17.50138,78.35808
+Kondapur,Apartment,2,3,1232,0.0,In 2 Years,1,1,1,0,0,3,3.19,7302,9000000.0,17.46461,78.3568
+Bachupally,Independent House,4,4,2707,0.0,In 3 Years,1,0,1,0,1,3,11.83,5287,14310000.0,17.54723,78.35224
+Medchal,Builder Floor,3,4,1952,10.7,Ready to Move,0,1,0,0,1,2,22.54,3042,5940000.0,17.61318,78.49342
+Ameerpet,Apartment,2,2,1083,17.1,Ready to Move,1,1,1,0,0,3,6.79,6457,6990000.0,17.43242,78.44017
+Kompally,Villa,5,5,4286,0.0,After 3 Years,1,0,1,0,1,3,14.57,5660,24260000.0,17.5263,78.48365
+Tellapur,Villa,3,4,1786,13.5,Ready to Move,1,0,0,0,1,2,11.65,5632,10060000.0,17.4672,78.27025
+Tolichowki,Villa,3,4,2178,0.0,After 3 Years,1,1,1,1,0,4,5.48,7373,16060000.0,17.40393,78.40795
+Kukatpally,Apartment,3,4,1815,16.5,Ready to Move,1,1,0,0,1,3,6.39,6089,11050000.0,17.49885,78.39325
+Kondapur,Independent House,4,4,2564,2.0,Ready to Move,1,0,0,0,1,2,3.54,9090,23310000.0,17.45952,78.34833
+Manikonda,Villa,4,4,2712,10.6,Ready to Move,1,0,1,1,0,3,3.9,7012,19020000.0,17.41073,78.36406
+Gachibowli,Villa,3,4,1566,6.0,Ready to Move,1,0,1,0,0,2,3.46,9966,15610000.0,17.42929,78.34819
+HITEC City,Apartment,2,2,1159,0.0,In 3 Years,0,1,1,0,0,2,1.51,9324,10810000.0,17.4332,78.38653
+Gachibowli,Villa,2,3,1143,10.0,Ready to Move,1,0,1,0,0,2,2.71,9228,10550000.0,17.44337,78.35165
+Miyapur,Builder Floor,3,4,1682,0.0,In 2 Years,1,0,1,1,0,3,6.72,5357,9010000.0,17.49694,78.34766
+Jubilee Hills,Villa,4,5,2902,10.2,Ready to Move,1,0,0,0,1,2,2.77,17875,51880000.0,17.43933,78.40294
+Manikonda,Apartment,1,2,445,0.0,In 1 Year,1,1,0,0,0,2,3.28,7005,3120000.0,17.41764,78.39209
+Miyapur,Independent House,4,4,3100,4.2,Ready to Move,1,0,0,0,1,2,5.82,6407,19860000.0,17.49428,78.36378
+Hayathnagar,Apartment,2,3,1043,2.2,Ready to Move,1,1,0,0,0,2,27.9,3740,3900000.0,17.32585,78.6094
+Uppal,Apartment,4,4,2376,10.7,Ready to Move,1,1,1,0,1,4,20.53,4833,11480000.0,17.41318,78.56807
+Bachupally,Builder Floor,3,4,1425,15.7,Ready to Move,1,0,1,0,0,2,12.06,4561,6500000.0,17.55115,78.36325
+Kokapet,Builder Floor,1,2,608,0.0,In 3 Years,1,1,0,0,1,3,6.95,9309,5660000.0,17.39568,78.33503
+Mehdipatnam,Apartment,2,3,1253,18.8,Ready to Move,1,1,1,0,0,3,7.63,6119,7670000.0,17.39986,78.4327
+Financial District,Apartment,1,1,567,10.7,Ready to Move,1,1,0,0,0,2,5.31,7738,4390000.0,17.41537,78.3367
+Narsingi,Independent House,3,4,1493,5.3,Ready to Move,1,1,0,0,0,2,4.74,6489,9690000.0,17.40125,78.37161
+Mehdipatnam,Builder Floor,4,5,2544,4.7,Ready to Move,1,1,1,0,1,4,7.81,6255,15910000.0,17.38824,78.42267
+Nizampet,Apartment,4,4,2207,14.0,Ready to Move,1,1,0,0,1,3,7.45,5423,11970000.0,17.50993,78.36824
+Secunderabad,Independent House,2,3,1220,0.0,In 3 Years,1,0,0,0,0,1,12.91,8244,10060000.0,17.44331,78.49892
+Kompally,Villa,3,3,1569,0.0,In 2 Years,1,0,1,1,1,4,15.12,6355,9970000.0,17.53118,78.4862
+Banjara Hills,Apartment,2,3,883,0.0,After 3 Years,1,1,0,1,1,4,8.24,15535,13710000.0,17.40561,78.44395
+Kokapet,Apartment,3,4,1773,0.0,In 1 Year,1,0,1,0,0,2,8.45,8985,15930000.0,17.38896,78.32174
+Financial District,Independent House,4,4,2686,0.0,In 3 Years,1,0,0,0,1,2,4.4,8459,22720000.0,17.42389,78.34116
+Narsingi,Independent House,5,5,3247,0.0,In 2 Years,1,0,0,0,0,1,4.77,7646,24830000.0,17.40132,78.36903
+Kondapur,Independent House,4,5,2640,4.3,Ready to Move,1,0,0,0,1,2,2.38,8558,22590000.0,17.46469,78.37439
+Attapur,Apartment,4,4,2998,0.0,In 2 Years,1,0,0,0,1,2,12.05,5283,15840000.0,17.35628,78.44456
+Kokapet,Apartment,2,2,1046,0.0,In 2 Years,1,0,0,1,0,2,7.78,10892,11390000.0,17.39208,78.32744
+Bachupally,Apartment,2,3,1015,13.9,Ready to Move,1,1,1,0,0,3,10.64,5308,5390000.0,17.53908,78.37245
+LB Nagar,Independent House,3,4,1249,0.0,In 1 Year,1,0,0,0,0,1,20.45,5034,6290000.0,17.34903,78.5426
+Uppal,Apartment,2,3,1113,15.1,Ready to Move,1,1,0,1,1,4,20.88,4393,4890000.0,17.41617,78.57196
+Miyapur,Apartment,1,1,569,0.0,After 3 Years,1,1,0,1,0,3,7.06,5869,3340000.0,17.50597,78.36557
+Kukatpally,Apartment,2,3,925,11.5,Ready to Move,1,1,1,1,0,4,5.96,5860,5420000.0,17.49648,78.38565
+Medchal,Independent House,3,3,1811,0.0,In 2 Years,1,0,0,0,1,2,24.01,3373,6110000.0,17.63851,78.47451
+Banjara Hills,Independent House,4,5,2883,15.4,Ready to Move,1,0,0,0,1,2,6.98,13546,39050000.0,17.42745,78.4408
+LB Nagar,Villa,4,4,2896,16.3,Ready to Move,1,0,1,1,0,3,21.96,5107,14790000.0,17.34432,78.55619
+Mehdipatnam,Villa,5,6,3959,0.0,In 1 Year,1,0,1,0,0,2,7.2,8271,32750000.0,17.39272,78.41939
+LB Nagar,Apartment,1,2,671,0.0,In 1 Year,0,1,1,0,1,3,21.78,4534,3040000.0,17.35548,78.56061
+HITEC City,Apartment,3,3,1414,0.0,In 3 Years,1,0,0,1,0,2,3.13,9201,13010000.0,17.47164,78.37735
+Bachupally,Apartment,2,2,1212,14.0,Ready to Move,0,1,0,1,1,3,11.6,5149,6240000.0,17.54687,78.36237
+Madhapur,Apartment,1,1,592,16.4,Ready to Move,0,1,1,0,0,2,0.83,9677,5730000.0,17.45046,78.37993
+Banjara Hills,Independent House,4,4,2507,13.4,Ready to Move,1,0,1,0,0,2,6.33,12825,32150000.0,17.42194,78.43245
+Shamshabad,Villa,4,4,2850,3.4,Ready to Move,1,0,1,0,0,2,19.62,4643,13230000.0,17.26721,78.3849
+Nizampet,Builder Floor,4,4,2875,0.0,In 2 Years,1,1,1,0,1,4,8.29,6598,18970000.0,17.51705,78.38975
+Miyapur,Independent House,3,4,1847,4.6,Ready to Move,0,0,0,0,0,0,5.48,6156,11370000.0,17.49199,78.36813
+Gachibowli,Independent House,5,6,3827,12.6,Ready to Move,1,0,1,0,0,2,3.62,8397,32130000.0,17.4328,78.34498
+Hayathnagar,Independent House,3,3,1234,0.0,After 3 Years,1,0,0,0,0,1,25.61,3378,4170000.0,17.32935,78.58682
+Madhapur,Apartment,3,4,1614,0.0,In 3 Years,1,1,0,0,0,2,2.35,10137,16360000.0,17.43481,78.39734
+Gachibowli,Builder Floor,3,3,1979,0.0,In 1 Year,1,0,1,0,1,3,2.67,7990,15810000.0,17.44114,78.35215
+Financial District,Builder Floor,4,4,2605,14.6,Ready to Move,1,0,1,0,1,3,3.9,7371,19200000.0,17.41848,78.35139
+Gachibowli,Builder Floor,2,3,941,0.0,In 1 Year,1,0,1,0,1,3,3.62,8824,8300000.0,17.45666,78.34595
+Miyapur,Apartment,2,2,1110,7.9,Ready to Move,1,1,1,0,1,4,6.43,5931,6580000.0,17.49694,78.354
+Nizampet,Independent House,3,3,1599,7.6,Ready to Move,1,0,0,0,0,1,10.19,5279,8440000.0,17.53508,78.37351
+Narsingi,Builder Floor,2,3,1047,5.3,Ready to Move,1,1,0,1,0,3,6.63,6855,7180000.0,17.38435,78.36906
+Gachibowli,Builder Floor,3,4,1566,13.9,Ready to Move,1,1,0,1,0,3,3.33,8726,13660000.0,17.43597,78.34679
+Madhapur,Apartment,3,4,1427,0.0,In 3 Years,1,0,1,0,1,3,1.35,9618,13720000.0,17.44764,78.38916
+Tellapur,Independent House,3,3,1698,9.4,Ready to Move,1,0,0,0,1,2,9.12,4728,8030000.0,17.45001,78.29148
+Gachibowli,Apartment,1,2,581,6.4,Ready to Move,1,0,0,0,0,1,4.13,8452,4910000.0,17.44399,78.33831
+Ameerpet,Apartment,3,3,1597,14.0,Ready to Move,1,1,1,0,1,4,9.67,7301,11660000.0,17.43876,78.46826
+HITEC City,Apartment,1,2,601,0.0,In 3 Years,1,1,1,0,1,4,1.06,10771,6470000.0,17.44988,78.36978
+Kokapet,Builder Floor,3,3,1576,14.5,Ready to Move,1,0,1,0,1,3,7.55,8490,13380000.0,17.38701,78.33769
+Tellapur,Apartment,1,2,547,0.0,In 3 Years,1,1,0,0,1,3,9.93,6549,3580000.0,17.47244,78.2886
+Miyapur,Independent House,4,5,1976,4.3,Ready to Move,1,1,0,0,0,2,7.07,6655,13150000.0,17.49983,78.34627
+Gachibowli,Independent House,4,5,1919,12.7,Ready to Move,1,0,1,0,1,3,2.97,8448,16210000.0,17.44051,78.34935
+Madhapur,Apartment,3,4,1380,2.8,Ready to Move,1,1,0,0,0,2,0.75,11298,15590000.0,17.44207,78.3703
+Attapur,Villa,4,5,3233,15.4,Ready to Move,1,0,1,1,0,3,10.02,4893,15820000.0,17.36337,78.42032
+Gachibowli,Apartment,2,2,1137,15.8,Ready to Move,1,1,1,1,1,5,1.65,8187,9310000.0,17.45489,78.36722
+Nizampet,Independent House,5,5,3327,2.2,Ready to Move,1,0,0,1,1,3,8.44,6568,21850000.0,17.51882,78.38676
+Kukatpally,Apartment,2,2,1078,8.7,Ready to Move,1,1,0,0,1,3,8.27,6000,6470000.0,17.51213,78.40731
+Narsingi,Builder Floor,2,2,1286,0.0,In 3 Years,1,1,1,0,0,3,4.79,6640,8540000.0,17.40489,78.35716
+Miyapur,Independent House,5,6,3735,0.0,In 3 Years,1,0,1,0,1,3,7.22,5730,21400000.0,17.50669,78.36145
+Uppal,Independent House,3,3,1873,7.6,Ready to Move,1,0,1,0,1,3,22.6,5127,9600000.0,17.40524,78.58637
+Dilsukhnagar,Independent House,2,2,973,0.0,After 3 Years,1,0,0,0,1,2,15.01,7028,6840000.0,17.37156,78.49695
+Financial District,Independent House,3,4,1865,7.2,Ready to Move,1,0,0,0,1,2,4.42,8332,15540000.0,17.41045,78.35399
+Narsingi,Apartment,2,2,892,10.9,Ready to Move,0,1,1,0,0,2,6.48,6982,6230000.0,17.39066,78.35139
+Financial District,Builder Floor,2,2,1182,0.0,In 1 Year,1,1,1,1,0,4,5.73,8856,10470000.0,17.40928,78.33687
+Kukatpally,Independent House,3,3,1698,9.7,Ready to Move,1,0,1,0,0,2,6.15,5730,9730000.0,17.49262,78.40381
+Begumpet,Apartment,3,3,1567,0.0,In 3 Years,1,0,0,1,0,2,9.19,9584,15020000.0,17.44767,78.46369
+Financial District,Independent House,3,3,1500,10.7,Ready to Move,1,0,1,0,0,2,5.76,8353,12530000.0,17.42057,78.32856
+Narsingi,Villa,5,5,5239,13.4,Ready to Move,1,1,1,0,1,4,7.33,7848,41110000.0,17.37987,78.35932
+Tolichowki,Villa,4,4,2988,7.4,Ready to Move,1,0,0,1,1,3,6.17,7209,21540000.0,17.39715,78.40915
+Gachibowli,Apartment,3,3,1631,0.0,In 1 Year,1,0,0,0,1,2,2.4,8821,14390000.0,17.42974,78.35973
+Kukatpally,Apartment,2,3,1047,0.0,In 1 Year,1,0,0,0,1,2,5.16,6563,6870000.0,17.48442,78.40015
+Ameerpet,Apartment,1,2,677,1.5,Ready to Move,1,0,0,0,0,1,9.29,7505,5080000.0,17.4533,78.46422
+Kondapur,Independent House,5,5,3044,15.0,Ready to Move,1,1,1,0,0,3,1.64,6439,19600000.0,17.45243,78.36495
+Gachibowli,Independent House,3,4,1590,9.9,Ready to Move,1,0,1,0,1,3,3.51,7446,11840000.0,17.43745,78.34475
+Kondapur,Apartment,2,3,993,0.0,After 3 Years,1,1,1,0,1,4,1.7,8517,8460000.0,17.44397,78.36114
+Tolichowki,Villa,2,3,1305,0.0,In 2 Years,1,0,1,1,0,3,6.77,7715,10070000.0,17.38547,78.39645
+Gachibowli,Villa,4,5,2681,17.1,Ready to Move,1,0,1,1,1,4,3.22,8457,22670000.0,17.43658,78.34774
+HITEC City,Independent House,3,4,1853,4.9,Ready to Move,0,0,0,0,0,0,1.33,9164,16980000.0,17.45527,78.37923
+Gachibowli,Apartment,3,3,1808,0.0,In 1 Year,1,0,1,0,0,2,4.16,9723,17580000.0,17.43507,78.33897
+Madhapur,Independent House,4,5,2310,0.0,In 2 Years,1,0,0,0,0,1,2.92,9377,21660000.0,17.46968,78.37529
+Kompally,Apartment,4,4,2711,6.2,Ready to Move,1,1,0,1,0,3,15.25,4630,12550000.0,17.53635,78.48307
+Financial District,Apartment,2,2,1072,2.7,Ready to Move,1,1,1,1,0,4,5.52,9632,10330000.0,17.40887,78.33992
+Bachupally,Apartment,2,2,974,10.4,Ready to Move,1,0,1,1,0,3,10.57,4946,4820000.0,17.53846,78.37274
+Kompally,Independent House,3,3,1604,10.7,Ready to Move,1,0,0,0,0,1,15.88,4116,6600000.0,17.54574,78.48176
+Kothapet,Apartment,3,4,1947,16.8,Ready to Move,1,1,1,0,1,4,20.97,4618,8990000.0,17.36076,78.55478
+Gachibowli,Apartment,4,4,2318,6.7,Ready to Move,1,1,0,0,0,2,2.42,8768,20320000.0,17.43083,78.35861
+Kothapet,Villa,2,2,1013,19.0,Ready to Move,1,0,1,0,0,2,21.14,4401,4460000.0,17.3577,78.555
+Kompally,Apartment,2,2,1308,0.0,In 1 Year,1,1,1,1,1,5,15.32,5274,6900000.0,17.52807,78.49128
+Kondapur,Villa,3,4,1804,10.6,Ready to Move,1,0,1,1,0,3,4.27,8305,14980000.0,17.46425,78.34337
+Uppal,Apartment,2,2,1216,0.0,In 3 Years,1,1,1,0,1,4,19.01,5763,7010000.0,17.39865,78.55012
+Kothapet,Apartment,2,2,1176,0.0,In 2 Years,1,0,1,0,1,3,19.24,4692,5520000.0,17.35796,78.53484
+Financial District,Independent House,4,4,2361,0.0,After 3 Years,1,0,0,0,1,2,4.41,10800,25500000.0,17.41953,78.3441
+Tolichowki,Independent House,4,4,2262,0.0,In 1 Year,0,0,1,0,0,1,6.07,6409,14500000.0,17.40769,78.42036
+Miyapur,Builder Floor,1,2,696,0.0,In 2 Years,1,1,1,0,1,4,6.42,6248,4350000.0,17.49582,78.35162
+Kompally,Apartment,2,2,1021,11.1,Ready to Move,1,1,0,1,0,3,15.23,5071,5180000.0,17.52803,78.49018
+Medchal,Independent House,4,5,2376,13.7,Ready to Move,1,0,1,0,1,3,23.65,3034,7210000.0,17.62998,78.48442
+Manikonda,Independent House,4,5,3065,4.8,Ready to Move,1,0,0,0,0,1,3.69,6728,20620000.0,17.41195,78.38801
+LB Nagar,Apartment,1,1,565,0.0,In 2 Years,1,0,0,0,1,2,23.14,4798,2710000.0,17.33385,78.56253
+Narsingi,Apartment,3,3,1819,17.4,Ready to Move,1,0,0,1,0,2,5.43,6674,12140000.0,17.39883,78.35662
+LB Nagar,Apartment,2,2,1063,4.3,Ready to Move,1,1,1,0,0,3,23.81,5280,5610000.0,17.33086,78.56797
+Kompally,Independent House,4,5,2917,0.0,After 3 Years,1,0,0,0,1,2,15.57,4851,14150000.0,17.52837,78.49396
+HITEC City,Apartment,3,4,1843,10.7,Ready to Move,1,0,1,1,0,3,1.15,9522,17550000.0,17.43896,78.36747
+Miyapur,Apartment,2,3,1345,16.1,Ready to Move,1,1,1,0,0,3,5.79,5554,7470000.0,17.49282,78.3596
+Narsingi,Apartment,4,4,2873,9.7,Ready to Move,1,1,0,0,0,2,7.03,7156,20560000.0,17.38879,78.34403
+Madhapur,Builder Floor,2,3,857,0.0,In 2 Years,1,1,0,0,0,2,2.05,9883,8470000.0,17.43882,78.39587
+Gachibowli,Apartment,2,2,1053,0.0,In 2 Years,1,0,0,0,1,2,2.83,9210,9700000.0,17.44048,78.35072
+Manikonda,Builder Floor,2,3,964,9.6,Ready to Move,1,1,1,0,1,4,3.67,6092,5870000.0,17.41067,78.38022
+Gachibowli,Builder Floor,2,2,1286,0.0,After 3 Years,1,1,0,1,0,3,2.44,8897,11440000.0,17.43247,78.35733
+Kondapur,Apartment,2,3,850,0.0,In 2 Years,1,1,1,0,1,4,2.5,9846,8370000.0,17.46581,78.37413
+Secunderabad,Apartment,1,2,670,17.8,Ready to Move,1,1,1,1,1,5,11.34,6674,4470000.0,17.44462,78.48409
+Ameerpet,Independent House,5,6,3563,0.0,In 3 Years,1,0,0,1,0,2,5.85,8066,28740000.0,17.45471,78.43105
+Secunderabad,Apartment,1,2,573,5.9,Ready to Move,1,0,0,0,0,1,12.66,7336,4200000.0,17.43455,78.49616
+Narsingi,Apartment,4,4,2724,0.0,In 1 Year,1,1,1,0,1,4,6.63,7894,21500000.0,17.39515,78.34061
+Mehdipatnam,Apartment,2,2,1125,12.9,Ready to Move,1,1,1,0,0,3,7.03,6113,6880000.0,17.39897,78.42423
+Kompally,Villa,5,5,3869,14.3,Ready to Move,1,0,1,0,0,2,16.0,5017,19410000.0,17.53402,78.4945
+Kondapur,Builder Floor,3,4,1425,0.0,In 3 Years,1,1,1,0,0,3,2.75,7840,11170000.0,17.46583,78.36603
+Kondapur,Builder Floor,1,1,658,0.0,In 2 Years,1,1,1,0,0,3,2.62,8081,5320000.0,17.46699,78.37549
+Begumpet,Apartment,4,5,2494,13.9,Ready to Move,1,0,0,1,1,3,9.56,10545,26300000.0,17.44999,78.46703
+Kondapur,Apartment,2,2,1126,3.2,Ready to Move,1,1,1,0,1,4,0.43,8555,9630000.0,17.44718,78.37609
+Nizampet,Independent House,3,4,1550,9.6,Ready to Move,1,0,1,0,1,3,8.01,5741,8900000.0,17.51502,78.36851
+Medchal,Apartment,3,3,1808,0.0,After 3 Years,0,0,1,0,1,2,22.25,3286,5940000.0,17.61601,78.48345
+Gachibowli,Apartment,3,4,1472,10.1,Ready to Move,1,0,0,0,0,1,3.35,8487,12490000.0,17.42486,78.35243
+Gachibowli,Apartment,3,3,1854,1.7,Ready to Move,1,0,1,0,1,3,1.61,8488,15740000.0,17.44797,78.36277
+Medchal,Builder Floor,1,1,623,14.7,Ready to Move,1,1,1,0,1,4,22.67,3483,2170000.0,17.62141,78.48165
+Kompally,Independent House,5,5,4107,17.9,Ready to Move,1,0,1,0,0,2,17.16,4585,18830000.0,17.53691,78.50594
+Kondapur,Apartment,2,3,1055,13.4,Ready to Move,1,1,1,1,1,5,2.46,7684,8110000.0,17.46219,78.36487
+Mehdipatnam,Builder Floor,3,4,1662,0.0,In 3 Years,1,1,1,0,1,4,8.16,6380,10600000.0,17.39252,78.43249
+Attapur,Independent House,5,6,3304,9.1,Ready to Move,1,0,0,0,0,1,9.49,5070,16750000.0,17.37905,78.43576
+Nizampet,Apartment,2,2,1098,0.0,In 1 Year,1,0,1,1,0,3,8.49,6263,6880000.0,17.51972,78.3813
+Jubilee Hills,Builder Floor,3,4,1558,10.7,Ready to Move,1,0,1,0,0,2,3.89,15978,24900000.0,17.43563,78.41295
+Kokapet,Villa,2,2,1316,0.0,In 3 Years,1,1,1,0,0,3,9.9,11382,14980000.0,17.37892,78.31297
+Gachibowli,Villa,3,4,1920,1.9,Ready to Move,1,0,1,1,1,4,2.71,10409,19990000.0,17.42997,78.35601
+Kompally,Independent House,4,5,2751,0.0,After 3 Years,0,0,0,0,0,0,14.98,4594,12640000.0,17.53764,78.47818
+Kokapet,Independent House,4,5,2845,0.0,In 1 Year,1,0,0,1,1,3,7.29,8408,23920000.0,17.39387,78.33228
+Banjara Hills,Apartment,3,4,1646,16.9,Ready to Move,1,1,0,0,1,3,7.07,15272,25140000.0,17.40463,78.42995
+Dilsukhnagar,Villa,4,5,3108,0.0,In 3 Years,1,0,1,0,1,3,18.47,6892,21420000.0,17.36373,78.52985
+Gachibowli,Independent House,3,3,1614,0.0,In 1 Year,1,1,0,1,0,3,2.65,7495,12100000.0,17.4636,78.36371
+Kompally,Builder Floor,3,3,1614,4.0,Ready to Move,0,1,0,0,0,1,15.14,4721,7620000.0,17.54612,78.47109
+Financial District,Apartment,4,5,1854,11.1,Ready to Move,1,1,0,0,0,2,4.19,7872,14590000.0,17.43162,78.33968
+Attapur,Builder Floor,2,3,1039,4.5,Ready to Move,1,1,0,0,1,3,10.57,5170,5370000.0,17.36001,78.42479
+Financial District,Independent House,3,3,1840,0.0,In 1 Year,1,0,0,0,0,1,5.33,8778,16150000.0,17.422,78.33232
+Kompally,Apartment,2,3,1148,0.0,In 1 Year,1,0,0,0,0,1,14.03,5434,6240000.0,17.52058,78.4819
+Bachupally,Independent House,4,5,2621,0.0,In 3 Years,1,0,0,0,1,2,11.34,5467,14330000.0,17.54493,78.36604
+Tellapur,Apartment,2,3,1081,1.6,Ready to Move,1,0,0,0,1,2,9.08,5700,6160000.0,17.45106,78.29196
+Begumpet,Independent House,2,3,1124,8.9,Ready to Move,1,0,0,0,0,1,8.83,8375,9410000.0,17.4418,78.46041
+Secunderabad,Villa,3,3,1928,0.0,In 3 Years,1,0,1,0,1,3,12.1,8931,17220000.0,17.44469,78.49123
+Bachupally,Apartment,2,3,974,0.0,In 3 Years,1,1,1,1,1,5,9.54,6137,5980000.0,17.52661,78.35473
+Uppal,Apartment,3,4,1772,0.0,In 1 Year,1,0,1,0,0,2,20.68,6016,10660000.0,17.39838,78.56634
+Medchal,Apartment,2,3,1111,1.0,Ready to Move,1,1,0,0,0,2,23.09,3366,3740000.0,17.62682,78.47946
+Miyapur,Apartment,3,3,1525,17.8,Ready to Move,1,1,0,0,0,2,5.19,5743,8760000.0,17.48714,78.35977
+Nizampet,Independent House,4,4,1885,7.2,Ready to Move,1,0,0,0,0,1,7.13,5459,10290000.0,17.50765,78.37834
+Gachibowli,Independent House,2,2,1112,4.4,Ready to Move,1,0,0,0,0,1,2.24,8541,9500000.0,17.43627,78.35745
+LB Nagar,Apartment,3,4,1813,9.2,Ready to Move,1,0,1,1,1,4,21.27,4821,8740000.0,17.3505,78.55242
+Nizampet,Independent House,5,5,3745,6.7,Ready to Move,1,0,1,0,0,2,9.34,5851,21910000.0,17.52746,78.37508
+Miyapur,Apartment,4,4,3057,0.0,In 1 Year,0,1,1,0,1,3,6.66,6163,18840000.0,17.49016,78.3378
+Madhapur,Apartment,2,3,1204,0.0,In 1 Year,1,1,1,1,0,4,1.96,10786,12990000.0,17.44885,78.39481
+Mehdipatnam,Villa,3,4,1928,0.0,In 2 Years,0,0,1,0,0,1,8.85,7080,13650000.0,17.39841,78.44598
+Tellapur,Apartment,3,3,1642,0.0,In 3 Years,1,0,0,1,1,3,9.58,5870,9640000.0,17.46584,78.29002
+Begumpet,Apartment,2,3,1219,0.0,In 2 Years,1,0,1,0,0,2,9.36,9426,11490000.0,17.44623,78.46534
+Kondapur,Villa,3,4,1580,0.0,After 3 Years,1,1,1,1,0,4,3.06,8918,14090000.0,17.45602,78.35154
+Hayathnagar,Apartment,2,3,1039,0.0,In 3 Years,1,1,1,0,1,4,24.77,4043,4200000.0,17.33012,78.57814
+Kondapur,Apartment,2,2,930,0.0,In 2 Years,0,1,0,0,0,1,2.58,8827,8210000.0,17.45434,78.35564
+HITEC City,Independent House,3,3,1604,18.5,Ready to Move,1,0,1,0,1,3,1.76,7942,12740000.0,17.44708,78.39335
+Kothapet,Builder Floor,2,2,998,3.3,Ready to Move,1,1,1,1,0,4,19.89,4699,4690000.0,17.37916,78.55209
+Tolichowki,Independent House,4,4,2740,0.0,In 2 Years,1,0,0,0,0,1,7.19,5853,16040000.0,17.39073,78.41644
+HITEC City,Apartment,2,3,1291,13.6,Ready to Move,1,1,1,1,1,5,1.03,9317,12030000.0,17.44503,78.36766
+Kukatpally,Apartment,1,1,607,0.0,After 3 Years,1,1,0,0,1,3,6.22,6262,3800000.0,17.49698,78.39452
+Secunderabad,Apartment,3,4,1746,0.0,After 3 Years,1,0,1,0,0,2,11.63,7439,12990000.0,17.44193,78.48685
+Attapur,Apartment,3,4,1465,7.5,Ready to Move,0,1,1,1,0,3,11.66,5330,7810000.0,17.36766,78.45316
+Manikonda,Apartment,2,2,923,0.0,In 1 Year,1,1,1,1,1,5,4.45,6568,6060000.0,17.40367,78.38141
+Nizampet,Independent House,2,2,1158,7.3,Ready to Move,1,0,0,0,0,1,7.01,6554,7590000.0,17.50636,78.38237
+Secunderabad,Apartment,3,3,1702,0.0,In 2 Years,1,1,1,0,1,4,12.91,8786,14950000.0,17.44799,78.49882
+Secunderabad,Independent House,5,6,3390,3.8,Ready to Move,1,0,0,0,0,1,13.64,7693,26080000.0,17.43804,78.50561
+Uppal,Apartment,2,3,1195,19.1,Ready to Move,1,1,1,1,1,5,20.04,4671,5580000.0,17.40363,78.5614
+Bachupally,Builder Floor,2,3,1326,8.1,Ready to Move,1,1,1,1,1,5,11.59,5339,7080000.0,17.54772,78.37579
+Madhapur,Builder Floor,3,3,1591,0.0,After 3 Years,1,1,1,0,0,3,3.62,10597,16860000.0,17.45307,78.40977
+Mehdipatnam,Apartment,2,3,1083,0.0,In 1 Year,1,1,0,0,0,2,7.3,6586,7130000.0,17.39561,78.42424
+Attapur,Independent House,5,6,3710,0.0,In 1 Year,1,0,0,0,1,2,10.87,5142,19080000.0,17.36869,78.44321
+LB Nagar,Apartment,3,4,1877,14.1,Ready to Move,1,0,0,0,1,2,20.6,4693,8810000.0,17.35776,78.54932
+Madhapur,Independent House,4,5,2451,12.9,Ready to Move,1,0,0,0,1,2,2.26,9796,24010000.0,17.46376,78.37854
+HITEC City,Apartment,3,4,1705,0.0,In 2 Years,1,1,1,1,1,5,0.85,10061,17150000.0,17.44269,78.38518
+Secunderabad,Villa,3,4,1941,0.0,In 1 Year,1,0,1,0,1,3,13.38,9869,19160000.0,17.44071,78.50327
+Gachibowli,Independent House,4,5,3060,0.0,In 2 Years,0,0,1,0,0,1,4.12,8800,26930000.0,17.4225,78.34516
+Hayathnagar,Independent House,4,5,2434,6.1,Ready to Move,1,0,0,0,1,2,27.23,3829,9320000.0,17.31774,78.5974
+Manikonda,Apartment,2,2,971,0.0,In 3 Years,1,1,0,0,0,2,5.72,6491,6300000.0,17.39842,78.40311
+Secunderabad,Apartment,1,1,601,0.0,In 3 Years,1,1,1,0,0,3,12.31,8629,5190000.0,17.43811,78.4931
+Attapur,Villa,4,4,2790,0.0,In 1 Year,1,1,1,1,0,4,9.59,6445,17980000.0,17.37162,78.42721
+Tellapur,Villa,3,3,1874,17.0,Ready to Move,1,0,1,0,0,2,8.92,6243,11700000.0,17.45666,78.29421
+Narsingi,Villa,3,3,1709,0.0,In 1 Year,0,0,1,1,0,2,6.85,9895,16910000.0,17.38561,78.35502
+Kompally,Builder Floor,2,3,981,3.1,Ready to Move,1,1,1,1,1,5,16.79,6022,5910000.0,17.53659,78.50182
+Kompally,Apartment,3,3,1594,0.0,In 1 Year,1,0,0,0,1,2,16.21,5108,8140000.0,17.52943,78.50064
+Miyapur,Independent House,4,4,2921,3.8,Ready to Move,1,0,0,0,1,2,5.48,6150,17960000.0,17.49147,78.36533
+Kompally,Apartment,4,5,2923,0.0,After 3 Years,1,1,0,0,1,3,15.01,5440,15900000.0,17.53595,78.48031
+Shamshabad,Independent House,3,3,1705,0.0,In 3 Years,1,0,0,0,0,1,19.64,4193,7150000.0,17.2675,78.39265
+Kukatpally,Villa,3,3,1915,0.0,In 3 Years,1,0,1,0,0,2,6.15,6973,13350000.0,17.49623,78.39472
+HITEC City,Apartment,3,4,1631,4.2,Ready to Move,1,1,1,0,0,3,1.49,9818,16010000.0,17.45556,78.37113
+Manikonda,Apartment,1,1,719,16.9,Ready to Move,1,0,1,0,1,3,4.42,5649,4060000.0,17.40452,78.38529
+Tellapur,Builder Floor,2,2,894,0.0,In 1 Year,1,1,0,0,1,3,8.36,6142,5490000.0,17.45756,78.29982
+Kondapur,Apartment,2,2,1191,0.0,In 2 Years,1,1,0,0,1,3,1.14,8630,10280000.0,17.44942,78.36842
+Kondapur,Apartment,3,3,1615,13.5,Ready to Move,0,0,1,0,0,1,2.55,8142,13150000.0,17.46457,78.36763
+Begumpet,Apartment,2,3,1093,6.8,Ready to Move,1,1,0,1,0,3,9.49,8597,9400000.0,17.44763,78.46655
+Manikonda,Independent House,3,4,1958,0.0,After 3 Years,1,0,1,0,0,2,4.54,7496,14680000.0,17.40276,78.38027
+Shamshabad,Villa,3,3,1701,7.7,Ready to Move,1,0,0,0,1,2,20.63,4580,7790000.0,17.25859,78.3926
+Financial District,Independent House,3,3,1732,8.4,Ready to Move,1,0,0,0,1,2,3.76,8858,15340000.0,17.43117,78.34422
+Madhapur,Builder Floor,3,3,1446,11.5,Ready to Move,1,1,1,0,1,4,0.81,8930,12910000.0,17.44676,78.38404
+Uppal,Villa,3,3,2138,0.0,In 1 Year,1,0,1,1,0,3,19.49,5832,12470000.0,17.39412,78.55342
+Attapur,Builder Floor,2,2,1176,0.0,After 3 Years,0,1,0,1,0,2,10.18,4032,4740000.0,17.36309,78.42306
+Kokapet,Independent House,2,3,904,0.0,In 1 Year,1,0,0,0,1,2,7.64,9280,8390000.0,17.38513,78.33919
+HITEC City,Apartment,2,3,1038,12.8,Ready to Move,1,1,0,0,0,2,1.61,8101,8410000.0,17.42904,78.37627
+HITEC City,Apartment,4,4,2038,0.0,After 3 Years,1,0,0,0,0,1,0.25,9324,19000000.0,17.44205,78.379
+Nizampet,Apartment,2,2,917,10.8,Ready to Move,1,1,0,0,0,2,9.29,5945,5450000.0,17.5263,78.38859
+Kukatpally,Apartment,2,3,1073,0.0,In 1 Year,1,1,0,1,1,4,7.37,6681,7170000.0,17.50394,78.4057
+Financial District,Apartment,1,1,642,0.0,After 3 Years,1,1,0,1,1,4,4.57,8640,5550000.0,17.41774,78.3436
+Gachibowli,Apartment,2,3,1402,3.1,Ready to Move,1,1,1,1,1,5,2.8,9301,13040000.0,17.42783,78.35658
+Kukatpally,Villa,4,5,3702,0.0,In 2 Years,1,0,1,0,0,2,5.21,6792,25140000.0,17.48765,78.3935
+Hayathnagar,Apartment,1,2,602,6.7,Ready to Move,0,1,1,0,1,3,27.4,3755,2260000.0,17.32226,78.60203
+Banjara Hills,Apartment,3,4,1785,0.0,In 3 Years,1,1,0,0,1,3,8.17,16017,28590000.0,17.4053,78.44297
+Kukatpally,Independent House,3,3,1904,0.0,In 3 Years,1,0,0,0,0,1,8.25,6451,12280000.0,17.51524,78.39718
+Madhapur,Apartment,2,3,1281,13.9,Ready to Move,1,1,1,0,1,4,2.44,10547,13510000.0,17.45771,78.39478
+Financial District,Villa,3,3,1637,17.7,Ready to Move,1,0,1,0,0,2,3.69,8015,13120000.0,17.43164,78.34467
+Kokapet,Builder Floor,2,2,1214,0.0,After 3 Years,0,1,1,0,0,2,8.9,9255,11240000.0,17.38732,78.31748
+Uppal,Apartment,2,3,1060,8.6,Ready to Move,1,1,1,0,1,4,20.31,5291,5610000.0,17.40627,78.56464
+Attapur,Apartment,3,4,1364,0.0,In 1 Year,1,0,1,0,1,3,10.12,5733,7820000.0,17.36241,78.42058
+Mehdipatnam,Apartment,3,3,1529,13.4,Ready to Move,1,1,1,0,0,3,7.11,6195,9470000.0,17.40491,78.43061
+Medchal,Apartment,2,3,1071,8.5,Ready to Move,1,1,1,0,0,3,24.4,3174,3400000.0,17.63809,78.48361
+Medchal,Apartment,3,3,1450,9.1,Ready to Move,1,1,0,0,0,2,24.56,3159,4580000.0,17.64095,78.48092
+Shamshabad,Villa,3,3,2103,8.0,Ready to Move,1,0,1,0,1,3,21.24,4327,9100000.0,17.25414,78.40329
+Madhapur,Independent House,4,5,2385,6.0,Ready to Move,1,0,1,0,0,2,1.64,10799,25750000.0,17.45459,78.38741
+Kondapur,Independent House,3,4,1860,0.0,In 3 Years,1,0,1,0,1,3,1.5,8161,15180000.0,17.45689,78.37574
+Narsingi,Builder Floor,2,2,931,3.9,Ready to Move,1,1,0,0,1,3,6.51,8086,7530000.0,17.39465,78.34345
+Bachupally,Apartment,1,2,566,13.7,Ready to Move,1,1,1,0,0,3,12.26,4897,2770000.0,17.55218,78.35775
+Madhapur,Independent House,4,4,2185,19.7,Ready to Move,1,0,0,0,0,1,1.49,7895,17250000.0,17.44974,78.38966
+Kothapet,Villa,4,4,2911,13.5,Ready to Move,1,0,1,0,1,3,19.46,4475,13030000.0,17.3654,78.54129
+Kompally,Independent House,2,2,1028,4.8,Ready to Move,1,1,0,0,1,3,16.22,4552,4680000.0,17.53933,78.49246
+Bachupally,Builder Floor,2,3,1243,0.0,After 3 Years,1,1,0,0,0,2,14.24,6205,7710000.0,17.57063,78.36135
+Kondapur,Independent House,3,4,1696,4.1,Ready to Move,1,0,1,0,1,3,2.15,7471,12670000.0,17.45931,78.36558
+Financial District,Apartment,3,3,1584,5.4,Ready to Move,1,1,0,1,0,3,5.35,8270,13100000.0,17.41108,78.33998
+Kondapur,Apartment,2,3,1223,0.0,After 3 Years,1,1,1,0,0,3,2.19,8397,10270000.0,17.45376,78.3596
+Kothapet,Independent House,5,5,3601,0.0,In 2 Years,1,0,1,0,0,2,18.86,4827,17380000.0,17.35767,78.53056
+Kompally,Independent House,2,3,940,1.5,Ready to Move,1,0,1,0,1,3,15.99,5487,5160000.0,17.53686,78.49193
+Secunderabad,Apartment,2,3,1295,4.0,Ready to Move,1,1,1,0,1,4,13.22,6982,9040000.0,17.46356,78.50007
+Kokapet,Villa,2,3,1442,0.0,After 3 Years,1,0,1,0,1,3,7.32,10424,15030000.0,17.39965,78.32572
+Manikonda,Independent House,2,2,1132,14.0,Ready to Move,1,0,0,0,0,1,4.96,5417,6130000.0,17.399,78.38067
+Tellapur,Apartment,2,3,1093,0.0,In 3 Years,1,1,1,0,0,3,10.84,6248,6830000.0,17.45301,78.27551
+Uppal,Independent House,5,6,3033,4.2,Ready to Move,1,0,0,0,1,2,17.54,5298,16070000.0,17.41149,78.53913
+Uppal,Apartment,2,3,1154,10.9,Ready to Move,1,1,0,0,0,2,20.82,5581,6440000.0,17.40601,78.56943
+HITEC City,Apartment,3,4,1701,0.0,In 3 Years,1,1,0,1,0,3,0.56,10237,17410000.0,17.44181,78.37228
+Shamshabad,Apartment,3,4,1941,0.0,In 1 Year,1,1,0,0,0,2,20.27,3838,7450000.0,17.26217,78.39642
+Kondapur,Apartment,2,3,1148,0.0,In 1 Year,1,0,1,0,0,2,1.84,8597,9870000.0,17.45823,78.36927
+Mehdipatnam,Independent House,5,5,4008,0.0,In 2 Years,1,0,0,0,0,1,7.96,6472,25940000.0,17.39991,78.43669
+Madhapur,Builder Floor,2,3,1203,13.9,Ready to Move,1,1,1,1,1,5,1.22,8473,10190000.0,17.44188,78.3886
+Kokapet,Villa,4,5,2713,10.6,Ready to Move,1,0,1,0,0,2,5.81,9684,26270000.0,17.40269,78.34303
+Kothapet,Builder Floor,2,2,1040,6.1,Ready to Move,1,1,1,0,1,4,22.11,4924,5120000.0,17.36723,78.56964
+HITEC City,Villa,3,3,1738,3.4,Ready to Move,1,0,1,0,1,3,0.71,11035,19180000.0,17.4494,78.37979
+Miyapur,Apartment,2,3,1068,0.0,In 2 Years,1,1,1,0,1,4,6.04,5590,5970000.0,17.49697,78.36708
+Miyapur,Builder Floor,3,3,1691,0.0,In 3 Years,1,0,1,1,0,3,6.07,6075,10270000.0,17.49803,78.37552
+Financial District,Apartment,3,4,1558,2.0,Ready to Move,0,1,1,0,1,3,5.29,8064,12560000.0,17.40704,78.34519
+Ameerpet,Apartment,4,5,2515,11.7,Ready to Move,1,0,0,0,1,2,7.41,7337,18450000.0,17.45538,78.44591
+Kothapet,Apartment,3,3,1979,0.0,In 3 Years,1,1,1,0,1,4,20.25,6133,12140000.0,17.37642,78.55459
+Attapur,Builder Floor,3,3,1163,0.0,In 2 Years,1,1,0,0,1,3,11.34,4841,5630000.0,17.36084,78.43984
+Manikonda,Builder Floor,3,4,1818,0.0,In 1 Year,1,1,0,1,0,3,3.64,6077,11050000.0,17.41127,78.38312
+Nizampet,Villa,5,5,4470,0.0,In 1 Year,1,0,0,1,1,3,7.58,6378,28510000.0,17.51159,78.37972
+Financial District,Builder Floor,4,4,2604,0.0,In 1 Year,1,0,0,0,1,2,6.72,8364,21780000.0,17.40764,78.32617
+Financial District,Villa,2,3,1434,8.2,Ready to Move,1,0,1,1,0,3,4.62,10033,14390000.0,17.40756,78.35544
+Kondapur,Apartment,3,3,1954,0.0,After 3 Years,0,1,0,0,0,1,0.97,8178,15980000.0,17.44477,78.36813
+Shamshabad,Apartment,2,3,1258,0.0,In 3 Years,1,1,0,0,0,2,22.08,4840,6090000.0,17.24586,78.39702
+Attapur,Villa,3,4,1963,10.1,Ready to Move,1,0,0,1,0,2,11.11,5925,11630000.0,17.35839,78.43208
+Uppal,Villa,5,5,3786,19.9,Ready to Move,1,0,1,1,0,3,19.45,4950,18740000.0,17.39818,78.55431
+Nizampet,Independent House,3,3,1447,3.9,Ready to Move,1,0,0,0,0,1,9.34,5937,8590000.0,17.52727,78.3837
+Kukatpally,Villa,4,5,3241,11.8,Ready to Move,1,0,1,0,0,2,7.47,6608,21420000.0,17.50597,78.40303
+Nizampet,Apartment,1,2,723,4.6,Ready to Move,1,1,0,0,1,3,8.12,6089,4400000.0,17.51569,78.38849
+Nizampet,Builder Floor,2,2,1298,18.2,Ready to Move,0,0,1,0,1,2,8.59,5186,6730000.0,17.51757,78.40025
+Miyapur,Apartment,2,2,1184,17.3,Ready to Move,1,1,1,0,1,4,6.18,5624,6660000.0,17.49374,78.35224
+Kondapur,Builder Floor,2,2,881,0.0,In 3 Years,1,0,0,0,0,1,4.78,6957,6130000.0,17.48412,78.39191
+Kondapur,Apartment,3,4,1635,13.2,Ready to Move,1,1,0,0,0,2,1.77,7492,12250000.0,17.4574,78.36913
+Shamshabad,Apartment,4,5,2159,15.8,Ready to Move,1,0,0,0,0,1,22.91,3460,7470000.0,17.23956,78.40769
+Kukatpally,Independent House,4,4,2257,0.0,In 2 Years,1,0,0,0,1,2,4.59,6190,13970000.0,17.48017,78.39702
+Shamshabad,Apartment,1,1,465,0.0,In 3 Years,1,1,0,1,1,4,19.61,4520,2100000.0,17.26745,78.38783
+Kondapur,Builder Floor,3,4,1670,7.0,Ready to Move,0,1,1,0,0,2,1.67,8238,13760000.0,17.45011,78.36301
+Bachupally,Villa,5,6,4547,16.1,Ready to Move,1,1,1,1,1,5,11.34,6324,28760000.0,17.54451,78.36244
+HITEC City,Apartment,2,2,1285,0.0,After 3 Years,1,0,1,0,0,2,3.55,10344,13290000.0,17.4125,78.38503
+Financial District,Villa,3,3,2040,19.0,Ready to Move,1,0,1,1,1,4,2.93,9111,18590000.0,17.42879,78.35423
+Gachibowli,Independent House,3,4,1643,15.0,Ready to Move,1,0,1,0,0,2,0.62,7540,12390000.0,17.44059,78.37222
+Kondapur,Villa,4,5,3414,2.5,Ready to Move,1,0,0,0,0,1,2.6,9021,30800000.0,17.4646,78.3667
+Tolichowki,Builder Floor,2,3,1200,0.0,In 1 Year,1,1,1,0,1,4,5.32,6456,7750000.0,17.41306,78.41587
+Narsingi,Independent House,3,3,1427,17.8,Ready to Move,1,0,0,0,0,1,5.91,7303,10420000.0,17.39114,78.36764
+Kompally,Builder Floor,3,4,1652,18.7,Ready to Move,1,1,0,0,1,3,16.13,4189,6920000.0,17.54207,78.48882
+Kukatpally,Apartment,4,5,2290,0.0,In 1 Year,1,1,1,0,0,3,4.59,7131,16330000.0,17.47722,78.40214
+Tellapur,Apartment,2,3,1269,5.4,Ready to Move,1,1,1,1,1,5,9.28,6896,8750000.0,17.45593,78.29073
+Nizampet,Apartment,3,4,1745,8.3,Ready to Move,1,1,1,0,0,3,10.32,5743,10020000.0,17.53606,78.38462
+HITEC City,Apartment,4,5,2632,19.3,Ready to Move,1,1,1,1,0,4,0.84,8111,21350000.0,17.45098,78.37622
+Medchal,Builder Floor,3,3,1746,0.0,In 3 Years,1,1,0,1,1,4,22.48,3574,6240000.0,17.61885,78.48267
+LB Nagar,Apartment,3,4,1757,0.0,In 2 Years,1,1,0,0,1,3,22.69,4740,8330000.0,17.33246,78.55656
+Secunderabad,Apartment,2,2,1066,0.0,In 2 Years,1,1,1,1,0,4,13.31,8198,8740000.0,17.44001,78.50262
+Kukatpally,Builder Floor,3,4,1796,0.0,In 1 Year,1,1,1,1,1,5,6.34,5656,10160000.0,17.49758,78.39628
+Kondapur,Builder Floor,3,4,1711,18.5,Ready to Move,1,1,0,1,1,4,0.49,6510,11140000.0,17.44562,78.37319
+Tolichowki,Villa,5,6,3992,0.0,In 2 Years,1,0,1,0,1,3,6.76,7543,30110000.0,17.39607,78.41704
+Manikonda,Independent House,3,4,1909,0.0,In 1 Year,1,0,0,0,1,2,5.8,7429,14180000.0,17.39219,78.3673
+Gachibowli,Apartment,3,3,1940,0.0,In 1 Year,1,1,1,0,0,3,3.59,9489,18410000.0,17.43924,78.34365
+Manikonda,Builder Floor,2,2,1141,1.6,Ready to Move,1,0,1,0,1,3,5.34,6389,7290000.0,17.39566,78.38135
+LB Nagar,Apartment,2,3,977,16.5,Ready to Move,1,1,0,0,0,2,21.18,4351,4250000.0,17.34683,78.54914
+Jubilee Hills,Builder Floor,2,3,971,0.0,In 3 Years,1,0,1,0,0,2,3.39,17431,16930000.0,17.43065,78.40613
+Uppal,Builder Floor,4,5,2642,0.0,In 1 Year,1,1,0,0,1,3,18.54,5478,14470000.0,17.41688,78.54968
+LB Nagar,Apartment,2,2,1167,0.0,After 3 Years,1,0,0,1,1,3,21.26,5115,5970000.0,17.33557,78.54259
+HITEC City,Builder Floor,3,3,1811,0.0,After 3 Years,0,0,0,0,0,0,0.65,9470,17150000.0,17.44382,78.3833
+Tolichowki,Independent House,2,3,1178,6.6,Ready to Move,1,0,0,0,0,1,5.37,6059,7140000.0,17.40312,78.40495
+Miyapur,Independent House,5,5,3015,0.0,In 2 Years,1,0,0,0,1,2,8.27,6623,19970000.0,17.51109,78.3446
+Jubilee Hills,Apartment,2,2,830,13.3,Ready to Move,1,1,1,0,1,4,2.8,15187,12610000.0,17.43969,78.40329
+Gachibowli,Villa,3,3,1922,18.6,Ready to Move,0,0,0,1,0,1,2.95,8669,16660000.0,17.4308,78.35274
+Medchal,Villa,4,4,3379,0.0,In 1 Year,1,0,0,1,0,2,24.48,3844,12990000.0,17.6436,78.47358
+Kokapet,Apartment,2,2,1244,7.8,Ready to Move,1,1,1,0,0,3,10.04,11188,13920000.0,17.38212,78.30783
+Gachibowli,Apartment,3,4,1705,0.0,In 2 Years,1,1,1,0,0,3,3.42,10656,18170000.0,17.43546,78.34606
+Kukatpally,Apartment,3,4,1702,0.0,In 2 Years,1,1,1,0,1,4,4.63,6761,11510000.0,17.47987,78.3984
+Kondapur,Independent House,3,4,1807,0.0,In 1 Year,1,0,0,0,1,2,2.44,7704,13920000.0,17.46009,78.36211
+Kondapur,Independent House,2,3,1314,16.7,Ready to Move,1,0,0,0,0,1,1.47,7636,10030000.0,17.45552,78.37137
+Jubilee Hills,Independent House,4,4,2514,0.0,In 1 Year,1,0,0,0,1,2,1.36,16574,41660000.0,17.43805,78.38868
+Tellapur,Builder Floor,3,4,1939,0.0,In 2 Years,1,0,0,1,0,2,9.51,6133,11890000.0,17.45002,78.28784
+Tolichowki,Independent House,4,4,2477,1.5,Ready to Move,1,0,0,0,1,2,5.92,6269,15530000.0,17.41962,78.42703
+Narsingi,Apartment,3,4,1370,7.3,Ready to Move,1,1,0,0,1,3,6.77,8575,11750000.0,17.38458,78.36116
+Secunderabad,Builder Floor,2,2,1450,3.6,Ready to Move,1,1,1,0,0,3,12.06,6944,10070000.0,17.45023,78.49071
+Kukatpally,Villa,4,5,2465,0.0,In 2 Years,1,0,0,0,1,2,6.99,7168,17670000.0,17.49641,78.41281
+Banjara Hills,Builder Floor,3,4,1615,0.0,In 3 Years,1,1,1,0,0,3,7.32,16671,26920000.0,17.43417,78.4455
+Kompally,Apartment,2,2,1249,14.5,Ready to Move,1,1,0,1,0,3,14.87,4084,5100000.0,17.53561,78.47887
+Kukatpally,Independent House,4,5,2232,17.4,Ready to Move,1,0,0,0,0,1,6.5,5488,12250000.0,17.4932,78.40943
+Shamshabad,Apartment,2,3,1245,0.0,In 1 Year,1,1,1,1,0,4,19.0,4419,5500000.0,17.2737,78.39693
+Manikonda,Independent House,2,2,1011,17.5,Ready to Move,1,1,0,0,0,2,4.57,6063,6130000.0,17.40322,78.36842
+Kondapur,Apartment,4,5,3016,0.0,In 2 Years,1,1,1,0,1,4,3.1,8977,27070000.0,17.47097,78.37214
+Begumpet,Builder Floor,2,3,1250,11.0,Ready to Move,1,1,1,0,0,3,9.03,9663,12080000.0,17.44891,78.46209
+Kothapet,Apartment,2,2,826,0.0,In 2 Years,1,1,0,0,0,2,19.13,5446,4500000.0,17.35969,78.53463
+Gachibowli,Apartment,3,4,1847,3.9,Ready to Move,1,1,1,0,1,4,3.83,10087,18630000.0,17.4346,78.34237
+Miyapur,Apartment,3,4,1619,2.9,Ready to Move,1,1,0,1,1,4,6.47,6758,10940000.0,17.50079,78.36661
+Mehdipatnam,Villa,5,5,4801,0.0,After 3 Years,1,0,0,0,0,1,7.85,7717,37050000.0,17.39073,78.4263
+Uppal,Villa,3,4,2007,7.6,Ready to Move,1,0,1,0,0,2,19.91,6473,12990000.0,17.4067,78.56088
+Medchal,Apartment,1,1,759,0.0,In 2 Years,1,0,1,0,0,2,23.87,3622,2750000.0,17.62837,78.49162
+Nizampet,Apartment,3,4,1925,6.7,Ready to Move,1,0,1,0,1,3,7.9,5708,10990000.0,17.51454,78.37922
+Banjara Hills,Apartment,3,4,1849,0.0,In 1 Year,1,0,1,1,0,3,6.99,16692,30860000.0,17.43319,78.44223
+Kokapet,Apartment,2,3,1315,4.2,Ready to Move,1,0,1,1,1,4,7.38,9808,12900000.0,17.40185,78.32304
+Shamshabad,Villa,4,4,2692,0.0,In 2 Years,0,0,1,0,0,1,22.03,4346,11700000.0,17.24792,78.41016
+Manikonda,Independent House,2,3,983,0.0,After 3 Years,1,0,0,0,1,2,6.71,6946,6830000.0,17.38673,78.39878
+Secunderabad,Apartment,2,3,1175,0.0,In 2 Years,1,1,1,0,0,3,14.57,8210,9650000.0,17.45276,78.51418
+Tellapur,Apartment,2,3,1145,0.0,After 3 Years,1,1,1,0,0,3,10.65,6133,7020000.0,17.45843,78.27807
+Bachupally,Apartment,3,3,1599,17.2,Ready to Move,0,0,0,0,0,0,11.53,4829,7720000.0,17.54447,78.35236
+Secunderabad,Builder Floor,2,3,969,17.1,Ready to Move,1,0,1,0,0,2,11.92,7006,6790000.0,17.43072,78.48872
+Nizampet,Independent House,4,4,2573,7.4,Ready to Move,1,0,0,0,0,1,9.22,6384,16430000.0,17.52355,78.39994
+Mehdipatnam,Villa,5,6,4659,19.5,Ready to Move,1,0,1,0,0,2,7.89,5916,27560000.0,17.40115,78.43688
+Miyapur,Apartment,3,4,1539,0.0,In 1 Year,1,1,1,0,0,3,6.44,6795,10460000.0,17.48681,78.33686
+Jubilee Hills,Villa,3,3,2094,15.6,Ready to Move,1,0,1,0,1,3,3.63,20454,42820000.0,17.43596,78.41053
+Manikonda,Independent House,4,5,2261,13.0,Ready to Move,1,0,1,0,0,2,6.33,6330,14310000.0,17.39055,78.39918
+Miyapur,Apartment,2,3,862,0.0,In 3 Years,1,1,1,0,1,4,5.77,6960,6000000.0,17.49272,78.36004
+Miyapur,Apartment,3,4,1357,0.0,In 1 Year,1,1,1,0,0,3,5.34,6321,8580000.0,17.4897,78.36338
+Kondapur,Independent House,2,3,1048,0.0,In 1 Year,1,1,0,0,1,3,2.23,8093,8480000.0,17.45166,78.35796
+Madhapur,Builder Floor,1,1,785,0.0,In 3 Years,1,1,0,0,1,3,1.47,9572,7510000.0,17.44777,78.39027
+Banjara Hills,Independent House,3,3,1437,0.0,In 1 Year,1,0,0,0,1,2,8.06,16534,23760000.0,17.40489,78.44145
+Banjara Hills,Apartment,1,2,572,9.7,Ready to Move,1,0,0,0,0,1,5.94,13789,7890000.0,17.41052,78.4213
+Banjara Hills,Apartment,2,2,1021,12.3,Ready to Move,1,0,1,1,0,3,8.74,16675,17030000.0,17.40504,78.44901
+Gachibowli,Independent House,4,5,2224,15.3,Ready to Move,1,0,0,0,1,2,3.41,7834,17420000.0,17.43446,78.3465
+Narsingi,Independent House,3,3,1695,0.0,In 1 Year,1,0,1,0,0,2,6.12,7416,12570000.0,17.39247,78.35558
+HITEC City,Builder Floor,2,2,1093,18.3,Ready to Move,1,1,0,1,0,3,1.62,7414,8100000.0,17.45096,78.36409
+Uppal,Builder Floor,3,4,1554,0.0,In 1 Year,1,0,1,0,1,3,20.39,4356,6770000.0,17.41318,78.56673
+Kothapet,Apartment,2,3,1131,18.9,Ready to Move,1,1,1,1,1,5,19.49,4376,4950000.0,17.38104,78.54882
+Financial District,Villa,2,2,1090,0.0,In 1 Year,1,0,1,0,0,2,4.57,10117,11030000.0,17.41041,78.35157
+Banjara Hills,Villa,3,4,2128,0.0,After 3 Years,1,0,1,0,1,3,6.04,19008,40450000.0,17.4309,78.43258
+Kondapur,Apartment,2,2,871,0.0,After 3 Years,1,1,0,1,1,4,1.86,8210,7150000.0,17.45266,78.36254
+Kokapet,Independent House,3,4,1839,0.0,In 3 Years,1,0,0,0,0,1,7.86,8505,15640000.0,17.39937,78.31928
+Kondapur,Independent House,3,4,1532,0.0,After 3 Years,1,0,1,0,1,3,3.82,8500,13020000.0,17.46946,78.35363
+Kokapet,Independent House,3,4,1637,0.0,In 1 Year,1,0,0,0,0,1,8.03,9110,14910000.0,17.39095,78.32535
+Banjara Hills,Apartment,2,3,921,4.1,Ready to Move,1,0,0,1,1,3,7.79,16161,14880000.0,17.4161,78.44482
+Mehdipatnam,Apartment,3,3,2014,0.0,In 1 Year,1,1,0,0,0,2,8.84,6721,13540000.0,17.38994,78.43877
+HITEC City,Builder Floor,2,2,1223,19.1,Ready to Move,1,1,0,1,1,4,0.61,7239,8850000.0,17.44717,78.38148
+Bachupally,Independent House,3,3,1869,0.0,In 1 Year,1,0,1,0,0,2,12.64,5125,9580000.0,17.55696,78.36989
+Ameerpet,Builder Floor,2,2,1187,4.1,Ready to Move,1,1,0,1,1,4,7.45,8401,9970000.0,17.41953,78.44275
+Shamshabad,Independent House,4,4,3355,3.7,Ready to Move,1,0,1,1,0,3,19.27,4388,14720000.0,17.27085,78.39288
+Kompally,Apartment,3,4,1481,16.0,Ready to Move,1,1,0,0,1,3,14.81,4687,6940000.0,17.5369,78.4768
+Financial District,Builder Floor,3,3,1805,0.0,After 3 Years,1,1,0,0,0,2,5.06,8542,15420000.0,17.40481,78.35207
+Jubilee Hills,Independent House,5,5,3208,19.0,Ready to Move,1,0,0,0,0,1,3.56,15009,48150000.0,17.44075,78.4106
+Narsingi,Villa,2,3,1279,3.4,Ready to Move,1,0,1,0,0,2,6.49,8642,11050000.0,17.38985,78.353
+Hayathnagar,Apartment,2,3,1310,12.1,Ready to Move,1,1,0,1,0,3,26.62,3129,4100000.0,17.33928,78.60302
+Tellapur,Apartment,3,4,1725,13.8,Ready to Move,1,1,1,1,0,4,10.44,5326,9190000.0,17.44883,78.27896
+Begumpet,Villa,5,5,4464,7.2,Ready to Move,1,0,0,0,1,2,8.81,9791,43710000.0,17.44258,78.46023
+Gachibowli,Apartment,3,3,1818,0.0,In 1 Year,1,1,0,0,1,3,2.87,9462,17200000.0,17.44337,78.35018
+Tellapur,Builder Floor,1,2,687,0.0,In 2 Years,1,1,1,0,0,3,10.26,5709,3920000.0,17.47192,78.28521
+Attapur,Independent House,4,4,1978,0.0,In 1 Year,1,0,0,0,1,2,9.56,5031,9950000.0,17.37251,78.42808
+Kompally,Builder Floor,2,3,1225,0.0,After 3 Years,1,0,0,0,0,1,17.43,4824,5910000.0,17.55061,78.49726
+Miyapur,Apartment,1,2,621,0.0,After 3 Years,1,0,1,0,0,2,5.97,6859,4260000.0,17.49018,78.34948
+Shamshabad,Apartment,3,3,1534,0.0,In 2 Years,1,1,1,1,0,4,21.03,4204,6450000.0,17.25538,78.39769
+Kothapet,Apartment,3,4,1576,7.6,Ready to Move,1,1,1,1,0,4,18.9,5381,8480000.0,17.37085,78.53822
+Narsingi,Independent House,3,3,1482,8.7,Ready to Move,1,1,0,0,0,2,4.67,7266,10770000.0,17.40238,78.36837
+Bachupally,Builder Floor,2,2,1072,0.0,In 2 Years,1,1,1,0,0,3,10.47,5531,5930000.0,17.53742,78.37004
+Kukatpally,Builder Floor,3,3,1692,0.0,In 2 Years,1,1,1,1,1,5,4.74,6590,11150000.0,17.48026,78.39982
+Jubilee Hills,Apartment,2,2,1155,0.0,In 1 Year,1,1,0,0,1,3,4.31,14880,17190000.0,17.43845,78.41752
+Narsingi,Independent House,4,5,2306,0.0,In 1 Year,1,0,1,0,0,2,7.92,8178,18860000.0,17.38107,78.34126
+Financial District,Villa,2,2,1248,4.2,Ready to Move,1,0,1,0,0,2,4.32,10279,12830000.0,17.41542,78.34903
+Tolichowki,Apartment,2,3,973,5.8,Ready to Move,0,1,1,0,0,2,6.28,6423,6250000.0,17.4012,78.41639
+Tolichowki,Apartment,3,3,1224,0.0,In 3 Years,0,1,0,0,1,2,6.39,5906,7230000.0,17.41037,78.42646
+Kothapet,Builder Floor,2,2,1173,0.0,In 2 Years,1,1,1,0,0,3,22.45,5012,5880000.0,17.35823,78.56903
+Hayathnagar,Builder Floor,3,4,1472,7.1,Ready to Move,1,0,0,0,0,1,26.59,3226,4750000.0,17.32536,78.59502
+Uppal,Apartment,4,5,1861,11.5,Ready to Move,1,0,0,1,1,3,20.43,4680,8710000.0,17.39979,78.56428
+Uppal,Apartment,1,2,681,11.2,Ready to Move,1,1,1,1,0,4,19.23,5257,3580000.0,17.40228,78.55322
+Uppal,Independent House,3,3,1717,17.2,Ready to Move,1,0,0,1,0,2,20.52,4724,8110000.0,17.41484,78.56827
+Kukatpally,Apartment,4,4,2338,1.4,Ready to Move,1,1,1,0,1,4,5.21,6433,15040000.0,17.482,78.40519
+Kukatpally,Builder Floor,4,5,2328,14.0,Ready to Move,1,1,1,0,0,3,5.07,6023,14020000.0,17.48516,78.39674
+Financial District,Villa,4,4,2620,2.0,Ready to Move,1,0,1,1,0,3,4.83,11534,30220000.0,17.41183,78.34611
+Jubilee Hills,Apartment,3,3,1616,10.8,Ready to Move,1,1,0,0,0,2,3.72,14873,24030000.0,17.41883,78.40087
+Kokapet,Apartment,4,5,2114,15.0,Ready to Move,1,0,0,0,0,1,7.59,7455,15760000.0,17.38976,78.3331
+Financial District,Apartment,2,3,1158,0.0,After 3 Years,0,1,1,0,1,3,3.45,9164,10610000.0,17.43291,78.34661
+Kompally,Apartment,3,3,1407,17.7,Ready to Move,1,0,0,1,0,2,15.78,4727,6650000.0,17.54293,78.48343
+Miyapur,Builder Floor,1,1,579,0.0,After 3 Years,1,0,0,0,0,1,6.33,5695,3300000.0,17.49867,78.36243
+HITEC City,Villa,4,4,3219,0.0,After 3 Years,1,0,1,1,0,3,0.95,10759,34630000.0,17.43529,78.37485
+LB Nagar,Apartment,2,3,917,3.6,Ready to Move,1,0,0,0,1,2,21.4,4964,4550000.0,17.34012,78.54735
+Kothapet,Apartment,4,5,2544,13.2,Ready to Move,0,1,0,1,1,3,19.62,4587,11670000.0,17.37105,78.54576
+Kondapur,Independent House,4,4,1974,0.0,In 3 Years,1,0,1,0,0,2,2.9,8041,15870000.0,17.44547,78.34992
+Gachibowli,Apartment,4,5,2693,0.0,In 2 Years,1,1,0,1,0,3,4.52,9135,24600000.0,17.43085,78.33674
+Narsingi,Apartment,3,3,1477,11.8,Ready to Move,1,1,0,0,0,2,6.14,6162,9100000.0,17.38835,78.37386
+LB Nagar,Builder Floor,2,2,1201,0.0,In 1 Year,1,1,0,1,0,3,22.91,4513,5420000.0,17.33718,78.56219
+Dilsukhnagar,Apartment,3,4,1421,0.0,After 3 Years,1,1,0,1,1,4,18.54,5869,8340000.0,17.36578,78.53182
+Kondapur,Apartment,2,3,989,0.0,After 3 Years,1,1,1,0,0,3,3.64,9889,9780000.0,17.47193,78.3601
+Uppal,Apartment,2,2,980,0.0,In 2 Years,1,1,0,0,1,3,18.75,5307,5200000.0,17.39706,78.54706
+Madhapur,Apartment,1,1,673,0.0,In 2 Years,0,1,0,0,0,1,1.15,9905,6670000.0,17.43328,78.37905
+Tellapur,Independent House,3,4,1550,0.0,In 3 Years,1,0,1,0,1,3,10.36,5761,8930000.0,17.46747,78.28282
+Medchal,Builder Floor,2,3,1220,16.2,Ready to Move,1,1,1,0,0,3,23.88,3041,3710000.0,17.63712,78.47456
+HITEC City,Apartment,4,5,2672,0.0,In 2 Years,1,1,1,1,0,4,1.59,10507,28070000.0,17.4549,78.36812
+Kondapur,Apartment,3,4,1548,1.8,Ready to Move,1,1,1,0,0,3,1.61,7500,11610000.0,17.45782,78.37528
+Miyapur,Apartment,3,3,1516,0.0,In 3 Years,1,1,1,1,0,4,6.64,5824,8830000.0,17.50065,78.35899
+Kompally,Apartment,1,1,570,8.5,Ready to Move,1,1,0,0,0,2,17.5,5858,3340000.0,17.54709,78.50147
+Shamshabad,Apartment,3,3,1902,0.0,In 3 Years,1,1,0,0,1,3,20.84,3842,7310000.0,17.2563,78.3873
+Medchal,Builder Floor,3,3,1671,0.0,After 3 Years,1,1,0,0,0,2,22.91,3124,5220000.0,17.6251,78.47932
+Madhapur,Builder Floor,2,2,1187,14.5,Ready to Move,1,1,1,0,0,3,1.63,8040,9540000.0,17.45573,78.38559
+Kondapur,Independent House,3,3,1737,5.7,Ready to Move,1,0,1,0,0,2,3.43,8296,14410000.0,17.46672,78.3559
+LB Nagar,Builder Floor,4,5,2616,12.9,Ready to Move,1,1,1,0,0,3,21.09,4446,11630000.0,17.34414,78.54649
+Kokapet,Apartment,2,3,1235,0.0,In 3 Years,1,1,0,1,0,3,8.14,8831,10910000.0,17.39977,78.31567
+Attapur,Apartment,2,2,1236,0.0,In 2 Years,0,1,1,1,0,3,10.94,4950,6120000.0,17.36762,78.44287
+Banjara Hills,Independent House,3,3,1300,5.7,Ready to Move,1,0,0,0,0,1,6.32,15902,20680000.0,17.40754,78.42329
+Madhapur,Villa,4,4,2459,14.4,Ready to Move,1,0,1,0,0,2,1.74,10524,25880000.0,17.45248,78.39061
+Dilsukhnagar,Villa,3,4,2059,0.0,After 3 Years,1,0,0,1,0,2,17.77,7534,15510000.0,17.38175,78.53163
+Kondapur,Villa,3,3,1246,0.0,After 3 Years,1,0,0,1,1,3,2.86,10004,12460000.0,17.46704,78.36646
+Miyapur,Apartment,3,3,1775,0.0,In 2 Years,1,1,1,1,0,4,4.35,6203,11010000.0,17.482,78.37017
+Bachupally,Builder Floor,4,4,2351,0.0,After 3 Years,1,1,1,0,0,3,9.19,5512,12960000.0,17.52473,78.39321
+Kukatpally,Independent House,3,4,1649,18.8,Ready to Move,1,1,0,0,1,3,6.37,5160,8510000.0,17.48615,78.41735
+Begumpet,Independent House,2,2,1101,6.4,Ready to Move,1,0,0,0,1,2,10.95,9366,10310000.0,17.43954,78.48032
+Banjara Hills,Apartment,3,4,1905,17.6,Ready to Move,1,1,1,0,0,3,6.41,14882,28350000.0,17.42303,78.43365
+Medchal,Apartment,4,5,2460,7.4,Ready to Move,1,1,1,0,1,4,22.12,3395,8350000.0,17.61925,78.47497
+Medchal,Apartment,1,1,614,0.0,In 1 Year,0,0,0,0,1,1,23.14,2866,1760000.0,17.62655,78.48095
+Nizampet,Independent House,3,4,1633,0.0,In 1 Year,1,0,0,0,1,2,8.44,5763,9410000.0,17.5186,78.38849
+Madhapur,Builder Floor,3,4,1724,0.0,In 2 Years,1,1,0,1,1,4,0.99,9759,16830000.0,17.45128,78.38168
+Secunderabad,Apartment,2,2,1144,8.0,Ready to Move,1,0,0,0,0,1,13.29,7299,8350000.0,17.44275,78.50252
+Hayathnagar,Apartment,4,4,1999,0.0,In 3 Years,1,1,1,1,1,5,28.24,4123,8240000.0,17.32588,78.61309
+Narsingi,Apartment,4,5,2917,8.9,Ready to Move,1,1,1,0,1,4,6.06,6572,19170000.0,17.39464,78.3518
+Kukatpally,Apartment,2,2,1152,0.0,In 2 Years,1,1,0,0,0,2,6.27,5790,6670000.0,17.49742,78.39459
+Miyapur,Apartment,2,3,1411,0.0,In 2 Years,1,1,0,1,1,4,8.24,6423,9060000.0,17.51489,78.35649
+Gachibowli,Apartment,3,4,1539,14.5,Ready to Move,1,0,1,0,1,3,3.89,8720,13420000.0,17.43662,78.34125
+Banjara Hills,Independent House,3,3,1969,6.3,Ready to Move,1,0,1,0,1,3,8.37,16446,32390000.0,17.40119,78.44242
+Manikonda,Builder Floor,2,3,1110,0.0,In 3 Years,1,1,1,0,0,3,3.97,6610,7340000.0,17.41209,78.39495
+LB Nagar,Villa,3,3,1591,15.9,Ready to Move,1,0,1,0,0,2,21.86,5291,8420000.0,17.35184,78.55945
+Dilsukhnagar,Builder Floor,4,4,1938,0.0,After 3 Years,1,1,1,1,0,4,18.52,5815,11270000.0,17.36496,78.53112
+Dilsukhnagar,Villa,5,6,4168,0.0,In 3 Years,1,0,1,0,0,2,18.19,7008,29210000.0,17.37166,78.53127
+Miyapur,Apartment,2,2,1079,15.5,Ready to Move,1,1,1,0,0,3,5.45,5451,5880000.0,17.49151,78.36692
+Narsingi,Apartment,2,3,1081,2.7,Ready to Move,1,1,1,1,0,4,5.4,7696,8320000.0,17.39662,78.36375
+Uppal,Apartment,3,3,1563,19.7,Ready to Move,1,1,0,0,0,2,19.15,4576,7150000.0,17.39631,78.55078
+LB Nagar,Apartment,3,3,1711,0.0,After 3 Years,1,1,1,0,1,4,21.36,4704,8050000.0,17.34777,78.55169
+Kukatpally,Apartment,2,2,942,0.0,In 1 Year,1,1,0,1,0,3,5.52,6680,6290000.0,17.48685,78.4025
+Mehdipatnam,Apartment,1,2,670,1.8,Ready to Move,1,0,1,0,0,2,7.83,8183,5480000.0,17.39183,78.42738
+Kondapur,Villa,4,5,2919,0.0,In 2 Years,1,0,1,0,1,3,2.98,10402,30360000.0,17.46919,78.36929
+Attapur,Apartment,2,2,1310,0.0,In 1 Year,1,0,1,1,0,3,8.69,5938,7780000.0,17.3796,78.42431
+Madhapur,Independent House,3,4,1911,0.0,In 1 Year,1,0,0,0,0,1,1.12,10281,19650000.0,17.44345,78.38772
+Kondapur,Apartment,3,4,2194,1.3,Ready to Move,1,1,1,0,1,4,2.94,9026,19800000.0,17.46969,78.3734
+Nizampet,Apartment,2,2,953,13.7,Ready to Move,1,1,0,1,0,3,7.55,5497,5240000.0,17.51089,78.38613
+Gachibowli,Apartment,1,2,602,5.0,Ready to Move,1,1,1,0,1,4,2.81,10079,6070000.0,17.43823,78.35125
+Gachibowli,Villa,4,5,3571,19.1,Ready to Move,1,0,1,0,0,2,3.55,8501,30360000.0,17.42532,78.34964
+Gachibowli,Apartment,3,3,1362,0.0,In 1 Year,1,0,0,1,0,2,3.65,9582,13050000.0,17.43074,78.34553
+Miyapur,Independent House,3,4,1133,4.4,Ready to Move,1,0,0,0,1,2,4.93,5420,6140000.0,17.48312,78.35625
+Uppal,Apartment,2,2,1154,4.1,Ready to Move,1,1,1,1,1,5,19.66,5346,6170000.0,17.40243,78.5574
+Gachibowli,Apartment,2,2,1134,4.0,Ready to Move,1,1,0,1,0,3,1.54,9574,10860000.0,17.44864,78.36372
+Banjara Hills,Apartment,2,3,956,0.0,In 2 Years,0,0,0,0,0,0,7.82,15062,14400000.0,17.41461,78.44436
+Dilsukhnagar,Independent House,3,4,1765,0.0,In 1 Year,1,0,0,0,0,1,17.06,5699,10060000.0,17.36284,78.51399
+Kondapur,Builder Floor,3,3,1639,1.7,Ready to Move,0,0,1,0,1,2,2.18,7844,12860000.0,17.46311,78.37773
+Kondapur,Builder Floor,2,3,1230,0.0,In 3 Years,1,1,1,1,0,4,2.96,7953,9780000.0,17.46659,78.36333
+Kothapet,Independent House,3,4,1724,0.0,In 2 Years,1,0,0,0,0,1,19.03,4639,8000000.0,17.36505,78.53664
+Dilsukhnagar,Apartment,2,3,1254,9.3,Ready to Move,1,1,1,0,0,3,17.24,5350,6710000.0,17.37418,78.52254
+Bachupally,Builder Floor,3,4,1800,0.0,In 3 Years,1,0,1,0,0,2,10.59,5373,9670000.0,17.53793,78.36397
+LB Nagar,Independent House,4,4,2585,0.0,In 2 Years,1,0,0,0,0,1,23.94,4846,12530000.0,17.33442,78.57176
+Madhapur,Apartment,3,3,1625,6.7,Ready to Move,1,0,1,1,1,4,1.1,10725,17430000.0,17.44138,78.38735
+Tellapur,Independent House,2,3,1100,0.0,In 2 Years,1,0,0,1,0,2,9.73,5665,6230000.0,17.45489,78.28622
+Secunderabad,Builder Floor,2,2,1076,0.0,In 1 Year,1,1,0,0,0,2,13.83,6823,7340000.0,17.44748,78.50752
+Financial District,Independent House,2,3,1215,0.0,In 1 Year,1,1,0,0,0,2,5.29,8938,10860000.0,17.4186,78.33476
+Uppal,Villa,3,3,2114,4.9,Ready to Move,1,0,1,0,0,2,19.71,5748,12150000.0,17.41525,78.56063
+Nizampet,Independent House,5,6,3558,9.3,Ready to Move,1,0,0,0,1,2,8.65,5581,19860000.0,17.5212,78.3804
+Uppal,Apartment,2,2,1103,4.1,Ready to Move,1,0,0,0,0,1,19.37,5033,5550000.0,17.41165,78.55671
+Kukatpally,Apartment,3,4,1911,11.1,Ready to Move,1,1,0,0,0,2,4.54,5573,10650000.0,17.48315,78.38729
+Manikonda,Builder Floor,4,4,2870,0.0,In 3 Years,1,1,1,0,0,3,3.15,6488,18620000.0,17.41652,78.38628
+HITEC City,Apartment,2,3,1345,0.0,In 2 Years,1,0,0,0,0,1,3.75,9709,13060000.0,17.46945,78.35466
+HITEC City,Apartment,3,3,1668,0.0,After 3 Years,1,1,0,1,1,4,1.11,10497,17510000.0,17.43748,78.3856
+Uppal,Apartment,1,2,564,3.1,Ready to Move,1,1,0,0,1,3,19.4,5425,3060000.0,17.39939,78.55412
+Kondapur,Builder Floor,3,3,1424,0.0,In 1 Year,1,1,1,0,0,3,1.23,7481,10650000.0,17.4515,78.36921
+Madhapur,Independent House,3,4,1511,19.5,Ready to Move,1,0,1,0,0,2,1.12,7611,11500000.0,17.45161,78.37099
+Kondapur,Apartment,3,3,1954,0.0,In 3 Years,1,1,0,0,1,3,2.2,7707,15060000.0,17.45302,78.35905
+Kondapur,Villa,5,5,3977,15.0,Ready to Move,1,0,1,1,0,3,3.0,8150,32410000.0,17.45364,78.35096
+Dilsukhnagar,Apartment,2,2,1155,0.0,In 1 Year,1,1,1,0,0,3,18.5,6795,7850000.0,17.3713,78.53431
+Tellapur,Apartment,3,3,1410,0.0,In 3 Years,1,1,1,1,1,5,8.23,6636,9360000.0,17.44863,78.29981
+Medchal,Apartment,3,3,1455,0.0,In 2 Years,1,1,0,0,1,3,22.49,3513,5110000.0,17.62091,78.47911
+Kondapur,Apartment,2,3,1144,0.0,In 1 Year,1,0,0,1,0,2,3.93,8531,9760000.0,17.4788,78.37831
+Banjara Hills,Builder Floor,2,3,1170,0.0,In 3 Years,0,1,1,0,1,3,8.01,15267,17870000.0,17.41177,78.44493
+Miyapur,Villa,2,2,1222,16.7,Ready to Move,1,1,0,0,1,3,6.32,5466,6680000.0,17.5002,78.37347
+Tellapur,Builder Floor,2,2,1196,2.6,Ready to Move,0,1,0,1,1,3,9.57,6498,7770000.0,17.45175,78.28744
+Attapur,Independent House,3,4,1029,2.2,Ready to Move,1,0,0,0,1,2,9.75,5915,6090000.0,17.38075,78.44141
+Hayathnagar,Apartment,4,5,2519,18.4,Ready to Move,0,1,0,0,1,2,25.48,3343,8420000.0,17.33765,78.59015
+Attapur,Apartment,2,2,1193,14.1,Ready to Move,1,1,1,0,1,4,9.98,4207,5020000.0,17.37068,78.43218
+HITEC City,Villa,2,2,1297,7.2,Ready to Move,0,0,1,0,0,1,1.64,9979,12940000.0,17.44587,78.39248
+Financial District,Builder Floor,3,3,1241,18.2,Ready to Move,1,1,0,1,1,4,5.79,7761,9630000.0,17.40482,78.34073
+Banjara Hills,Villa,4,5,2571,19.0,Ready to Move,1,0,1,0,1,3,6.07,15274,39270000.0,17.43017,78.4327
+Kokapet,Apartment,2,3,789,8.7,Ready to Move,1,0,0,1,0,2,7.96,8804,6950000.0,17.38124,78.34014
+Secunderabad,Independent House,4,4,2653,5.4,Ready to Move,1,0,0,0,1,2,12.54,8067,21400000.0,17.44527,78.49541
+Bachupally,Villa,4,5,3531,0.0,After 3 Years,1,0,1,0,1,3,12.76,6004,21200000.0,17.55829,78.37596
+Bachupally,Apartment,3,3,1964,0.0,In 1 Year,1,1,0,0,1,3,12.61,5780,11350000.0,17.55683,78.38052
+Dilsukhnagar,Apartment,3,4,1531,7.4,Ready to Move,1,1,0,0,1,3,18.79,5381,8240000.0,17.36389,78.53337
+Ameerpet,Apartment,3,4,1659,19.9,Ready to Move,1,1,0,0,1,3,7.1,6559,10880000.0,17.44013,78.44405
+Gachibowli,Apartment,3,4,1870,0.0,In 3 Years,0,1,0,0,0,1,2.66,9599,17950000.0,17.45492,78.35518
+Gachibowli,Independent House,5,6,3937,8.3,Ready to Move,0,1,0,0,1,2,3.32,9115,35880000.0,17.43638,78.34681
+Kompally,Independent House,2,2,1106,7.1,Ready to Move,1,0,1,0,0,2,15.37,4973,5500000.0,17.53581,78.48508
+Kukatpally,Apartment,2,3,1136,6.3,Ready to Move,1,1,1,1,1,5,6.65,6594,7490000.0,17.49795,78.40322
+Financial District,Independent House,5,5,4278,12.8,Ready to Move,1,0,1,0,1,3,4.61,8462,36200000.0,17.4211,78.34062
+Miyapur,Independent House,3,3,1955,15.2,Ready to Move,1,0,0,0,0,1,8.23,5657,11060000.0,17.51338,78.35154
+Uppal,Apartment,4,4,2276,1.9,Ready to Move,1,1,0,0,0,2,20.07,5144,11710000.0,17.42302,78.56512
+Dilsukhnagar,Builder Floor,1,2,708,0.0,In 2 Years,1,0,0,0,1,2,16.55,6410,4540000.0,17.37065,78.51321
+Bachupally,Apartment,4,5,2310,0.0,In 2 Years,0,1,1,0,1,3,12.89,5421,12520000.0,17.55887,78.36578
+Tellapur,Independent House,4,5,2801,17.9,Ready to Move,1,0,1,0,1,3,9.4,5709,15990000.0,17.45726,78.28975
+Kokapet,Apartment,2,2,902,9.1,Ready to Move,1,0,1,1,0,3,7.43,8556,7720000.0,17.40366,78.32102
+Nizampet,Apartment,3,3,1886,1.3,Ready to Move,0,1,1,0,0,2,6.77,5324,10040000.0,17.50428,78.38123
+Narsingi,Villa,3,4,1816,12.9,Ready to Move,1,0,1,0,1,3,6.83,7736,14050000.0,17.38782,78.34994
+Bachupally,Apartment,3,4,1486,0.0,In 1 Year,1,1,1,1,1,5,9.05,6050,8990000.0,17.52279,78.35802
+Begumpet,Independent House,3,3,1545,0.0,In 2 Years,1,0,0,1,0,2,8.69,9404,14530000.0,17.44068,78.45907
+Gachibowli,Apartment,2,2,996,11.8,Ready to Move,1,1,0,1,0,3,3.74,8041,8010000.0,17.45078,78.34279
+Gachibowli,Independent House,3,4,2002,11.8,Ready to Move,1,0,0,0,0,1,3.01,8885,17790000.0,17.42462,78.35687
+HITEC City,Builder Floor,3,3,1566,13.9,Ready to Move,1,1,1,1,0,4,1.63,8316,13020000.0,17.45745,78.37261
+Mehdipatnam,Villa,5,6,4297,7.6,Ready to Move,1,0,1,0,0,2,7.89,7270,31240000.0,17.39722,78.4336
+Jubilee Hills,Apartment,2,2,1195,0.0,In 3 Years,1,1,0,1,0,3,1.76,19492,23290000.0,17.43275,78.38935
+Kondapur,Apartment,2,2,1293,13.8,Ready to Move,1,1,1,0,0,3,1.73,7566,9780000.0,17.45831,78.37217
+Mehdipatnam,Apartment,2,3,1183,7.4,Ready to Move,1,0,0,1,0,2,8.85,6866,8120000.0,17.39817,78.4458
+Kukatpally,Apartment,3,4,1582,2.0,Ready to Move,0,1,1,0,1,3,5.21,6024,9530000.0,17.48949,78.38642
+Kukatpally,Villa,3,4,1784,1.7,Ready to Move,1,0,1,1,0,3,6.88,7652,13650000.0,17.49819,78.40758
+Shamshabad,Apartment,1,2,583,0.0,In 2 Years,1,0,0,0,0,1,21.32,4080,2380000.0,17.25237,78.39372
+Gachibowli,Apartment,4,5,3009,3.7,Ready to Move,0,0,0,0,0,0,3.23,9269,27890000.0,17.43917,78.3471
+HITEC City,Independent House,3,3,1496,0.0,In 2 Years,1,0,1,0,1,3,2.36,9691,14500000.0,17.42561,78.38926
+Kompally,Apartment,2,2,1232,15.0,Ready to Move,1,1,1,0,0,3,14.59,5071,6250000.0,17.53098,78.47974
+HITEC City,Apartment,2,2,1451,17.1,Ready to Move,1,1,1,0,1,4,0.45,7982,11580000.0,17.4402,78.37469
+Begumpet,Apartment,2,2,993,1.1,Ready to Move,1,0,1,0,0,2,9.99,10972,10900000.0,17.45673,78.47035
+HITEC City,Apartment,3,3,1887,1.3,Ready to Move,1,1,1,1,0,4,1.26,9705,18310000.0,17.43661,78.3678
+Madhapur,Independent House,4,5,2210,11.7,Ready to Move,1,0,0,1,0,2,1.9,8724,19280000.0,17.45196,78.39273
+HITEC City,Apartment,4,4,3045,8.6,Ready to Move,1,0,1,0,0,2,3.34,9097,27700000.0,17.47192,78.38739
+Miyapur,Villa,3,3,1918,13.1,Ready to Move,1,0,1,0,0,2,5.09,6328,12140000.0,17.48233,78.35182
+Kondapur,Apartment,3,3,1905,0.0,In 3 Years,1,1,0,0,0,2,2.77,7732,14730000.0,17.46427,78.36275
+Kondapur,Independent House,3,3,1787,0.0,In 3 Years,1,0,1,0,1,3,3.18,7359,13150000.0,17.46543,78.35792
+Kothapet,Apartment,2,3,1111,19.5,Ready to Move,1,1,1,1,0,4,20.06,4304,4780000.0,17.37929,78.55393
+Narsingi,Apartment,3,3,1592,0.0,After 3 Years,1,1,0,0,0,2,6.6,7073,11260000.0,17.39694,78.33859
+Manikonda,Builder Floor,2,3,1175,15.9,Ready to Move,1,0,1,0,0,2,4.54,6808,8000000.0,17.40864,78.3994
+Gachibowli,Apartment,3,3,1966,17.1,Ready to Move,1,0,1,0,0,2,4.31,7584,14910000.0,17.43683,78.33719
+Manikonda,Independent House,3,4,1662,0.0,In 3 Years,1,0,0,0,1,2,5.09,6823,11340000.0,17.3978,78.3804
+Kokapet,Apartment,4,5,2828,11.0,Ready to Move,1,1,1,1,0,4,6.41,9164,25920000.0,17.39699,78.34149
+Kompally,Apartment,3,3,1669,0.0,In 2 Years,1,1,0,0,1,3,16.85,5260,8780000.0,17.5469,78.49329
+HITEC City,Builder Floor,2,3,1014,2.8,Ready to Move,1,0,1,0,1,3,0.7,9486,9620000.0,17.44076,78.37122
+Attapur,Apartment,2,3,1044,0.0,In 2 Years,1,1,1,0,0,3,10.45,5058,5280000.0,17.35672,78.41499
+Tolichowki,Apartment,3,4,1578,10.5,Ready to Move,0,1,0,1,0,2,6.28,6339,10000000.0,17.4022,78.41751
+Madhapur,Villa,4,5,2890,0.0,After 3 Years,1,0,1,0,0,2,3.4,11161,32260000.0,17.43078,78.40633
+Madhapur,Apartment,4,5,2704,18.4,Ready to Move,1,0,1,0,1,3,3.58,8322,22500000.0,17.46092,78.40561
+Madhapur,Apartment,3,3,1717,0.0,In 2 Years,1,1,1,1,0,4,3.62,11069,19010000.0,17.46306,78.40452
+Kompally,Builder Floor,4,4,2506,9.3,Ready to Move,0,1,0,0,0,1,16.65,4784,11990000.0,17.5518,78.48562
+Kondapur,Apartment,4,5,2697,0.0,In 2 Years,0,1,1,1,0,3,1.71,8515,22970000.0,17.45177,78.36362
+Kothapet,Builder Floor,3,4,1885,0.0,In 3 Years,1,0,1,0,0,2,19.41,4965,9360000.0,17.36585,78.54103
+Uppal,Apartment,3,4,2114,5.0,Ready to Move,1,1,1,1,0,4,18.07,5601,11840000.0,17.41976,78.54567
+LB Nagar,Villa,5,5,5058,0.0,In 3 Years,1,0,1,1,1,4,23.3,6085,30780000.0,17.34809,78.57269
+Nizampet,Apartment,1,1,713,0.0,In 3 Years,1,1,1,0,0,3,9.23,6933,4940000.0,17.52646,78.37936
+Medchal,Independent House,3,4,1910,0.0,In 1 Year,1,0,1,0,0,2,23.61,3471,6630000.0,17.62895,78.48555
+Gachibowli,Builder Floor,2,2,1232,0.0,After 3 Years,1,1,0,1,1,4,2.03,9018,11110000.0,17.44388,78.35804
+Tellapur,Apartment,2,3,1187,9.3,Ready to Move,1,0,0,1,0,2,8.37,6252,7420000.0,17.45678,78.29955
+Narsingi,Apartment,2,3,969,14.6,Ready to Move,0,1,1,0,0,2,7.22,7081,6860000.0,17.38576,78.34599
+Shamshabad,Builder Floor,3,4,1776,0.0,In 1 Year,0,1,1,0,1,3,21.85,4083,7250000.0,17.24802,78.39855
+Bachupally,Apartment,2,3,1158,5.4,Ready to Move,1,0,1,0,0,2,10.76,5944,6880000.0,17.53994,78.36861
+LB Nagar,Apartment,2,3,1298,0.0,In 3 Years,1,0,0,0,1,2,22.45,4971,6450000.0,17.33876,78.55812
+Kondapur,Apartment,3,3,1498,10.7,Ready to Move,1,1,1,0,1,4,2.43,7585,11360000.0,17.46329,78.36753
+Hayathnagar,Apartment,2,2,1271,6.8,Ready to Move,0,1,1,0,0,2,27.6,3469,4410000.0,17.33166,78.60944
+Kukatpally,Apartment,3,3,1449,0.0,In 3 Years,1,1,1,1,1,5,7.88,6440,9330000.0,17.51281,78.39261
+Kukatpally,Builder Floor,2,3,1022,0.0,In 2 Years,0,0,1,1,0,2,4.88,5841,5970000.0,17.48495,78.3924
+Hayathnagar,Villa,4,5,3206,0.0,In 3 Years,1,1,1,0,0,3,26.94,4373,14020000.0,17.32056,78.59601
+Tellapur,Villa,4,5,2775,11.6,Ready to Move,1,0,0,1,1,3,10.24,6273,17410000.0,17.46102,78.28242
+Tellapur,Apartment,1,1,708,16.7,Ready to Move,1,1,1,1,1,5,9.18,5788,4100000.0,17.45019,78.2909
+Kompally,Apartment,3,3,1586,17.9,Ready to Move,1,1,1,0,1,4,14.24,4655,7380000.0,17.52696,78.47905
+Kondapur,Builder Floor,2,2,1180,7.9,Ready to Move,1,1,1,0,0,3,3.78,6689,7890000.0,17.47586,78.36639
+Narsingi,Independent House,3,4,1720,1.9,Ready to Move,1,0,1,0,0,2,6.61,7936,13650000.0,17.38585,78.36211
+HITEC City,Apartment,2,2,1013,17.5,Ready to Move,1,1,1,0,0,3,0.54,9345,9470000.0,17.44823,78.37838
+Madhapur,Apartment,3,3,1655,4.1,Ready to Move,1,1,0,1,1,4,2.4,10444,17290000.0,17.46195,78.38889
+Attapur,Independent House,3,3,1679,7.3,Ready to Move,1,0,0,0,0,1,11.43,5171,8680000.0,17.35455,78.4312
+Kompally,Apartment,4,4,2907,0.0,After 3 Years,0,1,1,0,1,3,16.23,5012,14570000.0,17.5473,78.48474
+Manikonda,Independent House,4,4,2380,0.0,In 1 Year,1,0,1,0,1,3,2.94,7181,17090000.0,17.41774,78.37101
+Miyapur,Apartment,4,5,2181,17.8,Ready to Move,1,0,1,0,0,2,6.59,5462,11910000.0,17.50102,78.36208
+Miyapur,Apartment,1,2,588,19.5,Ready to Move,1,1,1,0,0,3,4.91,4877,2870000.0,17.48733,78.37136
+Jubilee Hills,Independent House,4,4,2562,0.0,In 1 Year,1,0,1,0,0,2,2.44,18446,47260000.0,17.43869,78.39961
+Tolichowki,Apartment,1,1,488,3.3,Ready to Move,1,1,1,0,1,4,7.57,6933,3380000.0,17.3996,78.43179
+Shamshabad,Apartment,3,3,1862,0.0,After 3 Years,1,1,1,0,0,3,21.36,4244,7900000.0,17.25275,78.4013
+Tellapur,Apartment,2,3,960,0.0,In 1 Year,1,0,1,0,0,2,10.26,6572,6310000.0,17.47821,78.2876
+Narsingi,Villa,3,3,1651,0.0,In 3 Years,1,0,1,1,1,4,3.74,10684,17640000.0,17.40985,78.37577
+Miyapur,Apartment,3,3,1714,0.0,In 1 Year,0,1,1,0,1,3,7.08,5740,9840000.0,17.50347,78.35481
+Bachupally,Apartment,3,4,1622,0.0,In 1 Year,1,0,0,0,0,1,11.55,5685,9220000.0,17.54542,78.35638
+Kukatpally,Independent House,5,5,3016,18.4,Ready to Move,1,0,0,0,1,2,5.93,5866,17690000.0,17.48804,78.40802
+Banjara Hills,Apartment,2,2,944,18.7,Ready to Move,1,0,0,0,0,1,6.73,13418,12670000.0,17.40958,78.42979
+Bachupally,Apartment,2,2,1180,15.8,Ready to Move,1,1,1,0,1,4,9.93,5476,6460000.0,17.53253,78.36938
+Narsingi,Independent House,3,4,1715,0.0,In 1 Year,1,0,0,0,0,1,4.93,8453,14500000.0,17.40527,78.35363
+Manikonda,Builder Floor,2,2,1201,6.5,Ready to Move,1,1,0,0,0,2,3.14,6055,7270000.0,17.41553,78.38118
+Manikonda,Apartment,3,4,1274,13.6,Ready to Move,1,0,1,0,0,2,4.01,6554,8350000.0,17.40795,78.3837
+Madhapur,Apartment,2,2,1118,0.0,In 2 Years,0,1,1,0,1,3,1.95,11045,12350000.0,17.45515,78.39095
+Kondapur,Apartment,2,2,1094,19.4,Ready to Move,0,1,0,0,1,2,2.53,7367,8060000.0,17.46461,78.36822
+Secunderabad,Apartment,3,3,1950,0.0,In 2 Years,1,0,0,1,0,2,13.54,8263,16110000.0,17.4456,78.50479
+Tellapur,Apartment,3,3,1815,0.0,In 3 Years,1,1,1,0,1,4,8.82,6265,11370000.0,17.47241,78.29976
+HITEC City,Independent House,4,5,2490,16.4,Ready to Move,1,0,0,0,0,1,0.55,8445,21030000.0,17.44821,78.37573
+Bachupally,Builder Floor,2,2,1311,0.0,In 2 Years,1,0,1,1,1,4,11.74,5536,7260000.0,17.5475,78.35813
+Uppal,Apartment,2,3,1060,2.2,Ready to Move,1,1,1,1,1,5,19.5,5349,5670000.0,17.4123,78.55806
+Financial District,Apartment,1,2,637,0.0,In 2 Years,0,0,1,0,1,2,4.21,8416,5360000.0,17.41492,78.3512
+Dilsukhnagar,Apartment,3,3,1714,0.0,In 2 Years,1,0,1,0,1,3,16.79,5468,9370000.0,17.38214,78.52181
+Tolichowki,Villa,3,3,2050,0.0,In 2 Years,1,0,1,0,0,2,5.35,7009,14370000.0,17.40757,78.41071
+Kompally,Apartment,3,3,1758,0.0,In 1 Year,1,1,0,1,1,4,16.22,5109,8980000.0,17.54051,78.49148
+Banjara Hills,Builder Floor,3,3,1556,7.8,Ready to Move,1,1,1,0,0,3,7.38,15396,23950000.0,17.40632,78.43478
+Gachibowli,Builder Floor,3,4,1704,0.0,After 3 Years,1,1,0,0,1,3,3.46,8458,14410000.0,17.44018,78.34478
+Shamshabad,Builder Floor,3,4,1675,18.2,Ready to Move,1,1,0,0,1,3,20.82,3397,5690000.0,17.25653,78.38725
+Tellapur,Apartment,2,2,1163,13.8,Ready to Move,1,1,1,0,0,3,8.84,5364,6240000.0,17.46292,78.29637
+Tolichowki,Apartment,3,4,1601,9.6,Ready to Move,1,1,1,0,0,3,6.55,6383,10220000.0,17.40609,78.42492
+Bachupally,Builder Floor,3,3,1760,0.0,In 3 Years,1,1,0,1,0,3,10.72,5222,9190000.0,17.53947,78.36712
+Gachibowli,Builder Floor,3,4,1644,14.1,Ready to Move,1,1,0,1,1,4,3.69,7603,12500000.0,17.43295,78.34423
+Gachibowli,Apartment,2,2,875,7.4,Ready to Move,1,0,1,1,0,3,2.8,8830,7730000.0,17.4479,78.35118
+Begumpet,Independent House,2,2,969,9.1,Ready to Move,1,0,0,0,0,1,10.31,9906,9600000.0,17.43416,78.47393
+Bachupally,Independent House,4,4,2324,6.2,Ready to Move,1,0,0,0,1,2,11.9,5727,13310000.0,17.54897,78.35847
+Gachibowli,Apartment,4,5,2762,18.5,Ready to Move,1,0,1,0,1,3,4.43,6943,19180000.0,17.43129,78.33746
+Secunderabad,Apartment,1,1,645,9.0,Ready to Move,1,0,1,0,0,2,12.74,7723,4980000.0,17.43896,78.49716
+Kothapet,Independent House,5,5,2658,12.7,Ready to Move,1,0,0,0,0,1,19.69,5166,13730000.0,17.38518,78.55244
+Kukatpally,Apartment,3,4,1561,0.0,In 3 Years,1,0,1,1,0,3,5.06,6085,9500000.0,17.4847,78.39749
+Kukatpally,Independent House,3,4,1519,6.7,Ready to Move,1,0,0,0,1,2,6.45,6128,9310000.0,17.49045,78.41298
+Gachibowli,Independent House,4,4,1907,0.0,In 1 Year,0,0,0,0,1,1,1.65,9099,17350000.0,17.44779,78.36226
+LB Nagar,Apartment,3,3,1823,8.6,Ready to Move,1,1,1,1,0,4,20.2,4640,8460000.0,17.3525,78.54194
+Narsingi,Apartment,2,2,1380,12.2,Ready to Move,1,1,1,1,0,4,6.14,7435,10260000.0,17.39489,78.34969
+Attapur,Apartment,4,5,2413,0.0,In 2 Years,1,0,1,0,1,3,11.34,5259,12690000.0,17.36175,78.44104
+Manikonda,Villa,2,3,1411,11.0,Ready to Move,1,0,0,0,0,1,5.05,7389,10430000.0,17.39875,78.36896
+Bachupally,Apartment,4,4,2110,0.0,In 3 Years,1,1,1,0,0,3,11.32,6255,13200000.0,17.54387,78.35939
+Kokapet,Independent House,4,4,2486,0.0,In 2 Years,1,0,0,0,0,1,6.93,10092,25090000.0,17.39643,78.33433
+Kondapur,Apartment,3,4,1417,11.2,Ready to Move,1,0,1,0,1,3,2.87,7381,10460000.0,17.46204,78.35841
+Uppal,Apartment,3,4,1809,4.0,Ready to Move,1,1,1,0,0,3,19.78,5557,10050000.0,17.41049,78.56045
+Kukatpally,Apartment,1,1,476,0.0,In 1 Year,1,1,0,1,0,3,6.07,6256,2980000.0,17.4971,78.38785
+Nizampet,Apartment,3,3,2132,7.5,Ready to Move,1,1,1,0,0,3,8.62,5756,12270000.0,17.52098,78.37871
+Hayathnagar,Apartment,3,3,1807,19.7,Ready to Move,0,1,1,0,0,2,27.63,3016,5450000.0,17.31729,78.60148
+Hayathnagar,Apartment,3,3,1972,0.0,In 1 Year,1,1,0,0,1,3,27.32,3469,6840000.0,17.34324,78.61221
+Kothapet,Independent House,4,5,2471,4.8,Ready to Move,1,0,0,0,0,1,18.41,5310,13120000.0,17.37548,78.53541
+HITEC City,Apartment,2,3,1023,14.7,Ready to Move,1,1,0,0,1,3,1.47,9305,9520000.0,17.43357,78.36807
+Kompally,Independent House,4,4,2500,12.0,Ready to Move,1,0,1,0,0,2,17.13,4809,12020000.0,17.54839,78.49547
+Attapur,Independent House,4,4,2545,0.0,In 3 Years,1,0,0,0,0,1,10.17,5447,13860000.0,17.36629,78.42863
+Manikonda,Apartment,2,3,1000,14.9,Ready to Move,1,0,1,0,0,2,4.55,6590,6590000.0,17.406,78.39427
+Madhapur,Independent House,2,3,964,10.2,Ready to Move,1,0,1,0,1,3,0.6,9490,9150000.0,17.43997,78.37294
+LB Nagar,Apartment,3,3,1740,0.0,In 3 Years,1,1,1,0,0,3,21.19,4788,8330000.0,17.33924,78.54432
+Kukatpally,Apartment,3,4,1488,5.0,Ready to Move,0,1,1,0,1,3,6.32,6638,9880000.0,17.49687,78.39763
+Bachupally,Villa,4,4,2803,16.1,Ready to Move,1,0,1,0,0,2,11.74,5297,14850000.0,17.5488,78.36929
+Medchal,Independent House,5,6,3962,0.0,In 3 Years,1,0,0,0,1,2,24.09,3392,13440000.0,17.62751,78.49705
+Kompally,Villa,3,4,1618,15.9,Ready to Move,1,0,1,0,0,2,15.31,5204,8420000.0,17.52902,78.49035
+Miyapur,Villa,4,4,2902,18.1,Ready to Move,1,0,1,0,1,3,7.69,6367,18480000.0,17.51217,78.36833
+Manikonda,Builder Floor,3,3,1785,0.0,In 2 Years,1,1,0,0,1,3,3.66,6985,12470000.0,17.41305,78.39028
+Miyapur,Apartment,3,4,1305,15.2,Ready to Move,1,1,0,0,0,2,6.03,5669,7400000.0,17.49626,78.364
+Kondapur,Villa,3,4,2272,10.9,Ready to Move,1,0,1,0,1,3,0.88,9626,21870000.0,17.44667,78.3696
+LB Nagar,Independent House,3,4,1834,7.7,Ready to Move,1,0,0,0,0,1,20.38,4852,8900000.0,17.34703,78.54054
+Dilsukhnagar,Apartment,2,3,1331,0.0,In 2 Years,1,1,0,0,1,3,17.27,5259,7000000.0,17.36959,78.52032
+Kokapet,Apartment,2,3,1108,0.0,In 1 Year,1,1,1,0,0,3,6.25,9433,10450000.0,17.40126,78.33829
+Narsingi,Independent House,3,4,1894,0.0,After 3 Years,0,0,0,1,1,2,7.1,7201,13640000.0,17.37966,78.37551
+Attapur,Apartment,1,1,640,11.3,Ready to Move,1,1,1,0,1,4,12.55,4795,3070000.0,17.35159,78.44579
+Gachibowli,Apartment,2,2,1122,0.0,In 3 Years,1,1,1,1,1,5,2.9,9480,10640000.0,17.4377,78.35059
+Nizampet,Independent House,5,5,3909,0.0,After 3 Years,0,0,1,0,0,1,9.44,6188,24190000.0,17.52627,78.39714
+Kukatpally,Independent House,3,4,1816,4.0,Ready to Move,1,0,1,0,0,2,7.83,6394,11610000.0,17.50603,78.41113
+Begumpet,Builder Floor,1,1,531,0.0,After 3 Years,1,1,0,0,0,2,9.82,8997,4780000.0,17.44488,78.46979
+Kondapur,Villa,4,5,3033,17.4,Ready to Move,1,0,1,1,0,3,2.84,8439,25590000.0,17.46889,78.38023
+Banjara Hills,Independent House,3,4,1274,5.4,Ready to Move,1,0,0,0,0,1,4.74,14571,18560000.0,17.43017,78.41962
+Manikonda,Apartment,3,4,1656,0.0,In 1 Year,1,0,0,0,1,2,2.2,6858,11360000.0,17.42403,78.38074
+Kompally,Independent House,4,4,2357,0.0,In 3 Years,1,0,1,0,0,2,16.17,5435,12810000.0,17.54058,78.49071
+Gachibowli,Apartment,2,2,1203,14.4,Ready to Move,1,1,0,0,0,2,3.34,8356,10050000.0,17.44862,78.34614
+Kukatpally,Independent House,4,5,2017,12.9,Ready to Move,1,0,1,0,0,2,6.4,5419,10930000.0,17.49535,78.4035
+Nizampet,Apartment,3,3,1341,0.0,In 2 Years,0,0,1,1,0,2,8.15,6505,8720000.0,17.51659,78.38222
+HITEC City,Apartment,4,5,2750,17.3,Ready to Move,1,1,0,1,1,4,0.32,8127,22350000.0,17.44133,78.37522
+Kondapur,Apartment,3,4,1680,19.0,Ready to Move,0,0,1,0,1,2,1.95,7044,11830000.0,17.45469,78.36309
+HITEC City,Builder Floor,3,3,1803,16.5,Ready to Move,1,1,1,0,1,4,1.83,9206,16600000.0,17.45824,78.36944
+Manikonda,Villa,3,3,2125,17.3,Ready to Move,1,0,1,0,0,2,5.79,5858,12450000.0,17.39203,78.36923
+Madhapur,Apartment,3,3,1746,0.0,In 1 Year,1,0,1,0,1,3,1.09,11772,20560000.0,17.451,78.38386
+Shamshabad,Villa,3,3,1910,0.0,In 3 Years,1,0,0,0,0,1,21.61,5121,9780000.0,17.25393,78.42221
+Tellapur,Independent House,3,3,1455,17.2,Ready to Move,1,0,1,0,0,2,10.96,5527,8040000.0,17.46828,78.27724
+LB Nagar,Apartment,3,3,1560,14.4,Ready to Move,1,1,1,0,0,3,21.54,4090,6380000.0,17.35941,78.56008
+Hayathnagar,Villa,3,4,1755,0.0,In 1 Year,1,0,1,0,1,3,26.07,4183,7340000.0,17.32794,78.59093
+Madhapur,Apartment,3,4,1569,0.0,In 1 Year,1,1,1,1,0,4,1.9,10174,15960000.0,17.44136,78.39497
+Banjara Hills,Villa,2,3,1039,12.2,Ready to Move,0,0,0,0,0,0,9.08,17315,17990000.0,17.41104,78.45575
+Attapur,Apartment,3,4,1656,6.5,Ready to Move,1,1,1,1,1,5,11.67,4927,8160000.0,17.35133,78.42982
+Jubilee Hills,Apartment,2,3,1061,0.0,After 3 Years,1,1,1,0,0,3,3.68,13855,14700000.0,17.44155,78.41182
+Miyapur,Builder Floor,4,4,2816,11.8,Ready to Move,0,0,1,1,1,3,5.49,5757,16210000.0,17.49256,78.37166
+Miyapur,Apartment,2,3,1094,5.6,Ready to Move,1,1,0,0,1,3,6.29,5623,6150000.0,17.49702,78.35796
+Gachibowli,Apartment,3,4,1802,0.0,After 3 Years,1,1,0,0,0,2,5.71,8570,15440000.0,17.45103,78.32397
+Nizampet,Apartment,2,3,612,0.0,In 1 Year,1,1,1,1,1,5,7.83,6213,3800000.0,17.51178,78.39535
+Medchal,Independent House,3,4,1870,9.4,Ready to Move,1,0,0,0,1,2,23.89,3010,5630000.0,17.63593,78.47743
+Hayathnagar,Apartment,2,3,900,0.0,In 3 Years,1,1,1,0,0,3,26.7,3979,3580000.0,17.33652,78.60242
+Gachibowli,Independent House,3,4,1530,10.0,Ready to Move,1,0,0,0,0,1,3.19,8531,13050000.0,17.45275,78.34873
+Ameerpet,Apartment,3,3,1671,12.9,Ready to Move,1,1,0,1,1,4,6.24,7101,11870000.0,17.44362,78.43606
+Kokapet,Apartment,3,3,1914,5.9,Ready to Move,1,0,0,0,0,1,8.36,9029,17280000.0,17.39063,78.32116
+Mehdipatnam,Apartment,3,4,1678,1.5,Ready to Move,1,1,1,0,0,3,7.57,6926,11620000.0,17.39567,78.42794
+Gachibowli,Apartment,2,3,1097,0.0,In 2 Years,1,1,1,0,0,3,2.49,9251,10150000.0,17.44998,78.35472
+Shamshabad,Apartment,3,4,2067,0.0,In 3 Years,1,1,1,1,0,4,19.85,4578,9460000.0,17.26642,78.40069
+Dilsukhnagar,Builder Floor,2,3,1058,7.2,Ready to Move,1,1,1,1,0,4,17.69,5783,6120000.0,17.36849,78.5242
+Kondapur,Apartment,2,3,1005,17.1,Ready to Move,1,1,1,1,1,5,2.38,8131,8170000.0,17.46279,78.36755
+Gachibowli,Apartment,3,3,1723,17.1,Ready to Move,1,1,1,0,1,4,5.05,8680,14960000.0,17.43731,78.33007
+Dilsukhnagar,Independent House,2,3,1252,13.9,Ready to Move,1,0,0,0,0,1,16.66,4666,5840000.0,17.37404,78.51627
+Kondapur,Apartment,3,3,1369,0.0,After 3 Years,1,1,0,1,0,3,3.43,8620,11800000.0,17.47389,78.37186
+Nizampet,Builder Floor,3,3,1527,0.0,In 2 Years,1,0,1,0,1,3,7.85,5219,7970000.0,17.51407,78.37597
+Tolichowki,Builder Floor,2,3,1158,0.0,In 1 Year,1,1,0,0,1,3,5.52,6788,7860000.0,17.42202,78.42407
+Bachupally,Independent House,4,4,2354,2.1,Ready to Move,1,0,0,0,0,1,9.26,5528,13010000.0,17.52456,78.35705
+Tellapur,Apartment,3,4,1601,2.9,Ready to Move,1,0,0,1,0,2,10.13,6344,10160000.0,17.45243,78.2822
+Miyapur,Apartment,2,2,939,13.3,Ready to Move,1,1,1,0,0,3,5.05,4984,4680000.0,17.48893,78.37694
+Gachibowli,Independent House,2,3,1006,8.5,Ready to Move,0,0,0,0,0,0,1.43,9498,9560000.0,17.44954,78.36534
+Hayathnagar,Apartment,2,3,747,0.0,In 2 Years,1,0,1,0,1,3,25.0,3469,2590000.0,17.33957,78.58615
+Narsingi,Independent House,2,3,1325,0.0,In 1 Year,1,0,0,0,0,1,5.45,8089,10720000.0,17.39863,78.35643
+HITEC City,Builder Floor,2,2,1209,8.3,Ready to Move,0,1,1,0,1,3,1.07,8380,10130000.0,17.44986,78.36968
+Kokapet,Builder Floor,3,3,1819,19.9,Ready to Move,1,0,1,1,1,4,7.45,8173,14870000.0,17.40225,78.32192
+Hayathnagar,Builder Floor,4,4,2857,0.0,In 1 Year,1,1,0,1,0,3,27.81,3643,10410000.0,17.31515,78.60212
+Madhapur,Apartment,3,3,1513,0.0,In 2 Years,1,1,1,0,0,3,2.16,10770,16300000.0,17.44959,78.39654
+Attapur,Independent House,4,5,2616,2.0,Ready to Move,1,0,0,0,0,1,11.27,5355,14010000.0,17.35364,78.42638
+Ameerpet,Builder Floor,1,2,490,0.0,In 1 Year,1,1,1,0,1,4,9.07,8430,4130000.0,17.42343,78.46009
+Dilsukhnagar,Independent House,2,2,690,8.6,Ready to Move,1,0,0,0,1,2,19.75,5229,3610000.0,17.36526,78.54434
+Hayathnagar,Apartment,3,3,1578,10.6,Ready to Move,1,1,0,0,1,3,27.13,3917,6180000.0,17.32041,78.59791
+Kothapet,Builder Floor,2,3,995,7.9,Ready to Move,1,0,1,1,0,3,19.72,4722,4700000.0,17.36287,78.54274
+Shamshabad,Villa,2,2,1222,0.0,After 3 Years,1,0,0,1,1,3,21.03,5058,6180000.0,17.25709,78.41044
+Kondapur,Independent House,3,3,1816,19.9,Ready to Move,1,0,1,0,1,3,1.82,7391,13420000.0,17.45757,78.36842
+LB Nagar,Independent House,4,5,2108,0.0,After 3 Years,1,0,1,0,1,3,22.62,4768,10050000.0,17.34638,78.56451
+Bachupally,Apartment,2,2,1205,0.0,In 3 Years,1,1,1,1,0,4,11.99,6093,7340000.0,17.55131,78.37555
+Bachupally,Apartment,3,4,1610,18.2,Ready to Move,1,1,1,0,1,4,14.06,5098,8210000.0,17.56888,78.35972
+Mehdipatnam,Builder Floor,2,3,1186,0.0,In 1 Year,1,0,1,0,1,3,10.28,6583,7810000.0,17.38107,78.4487
+Hayathnagar,Apartment,3,4,2172,2.0,Ready to Move,1,1,1,1,0,4,26.89,4470,9710000.0,17.318,78.59378
+Ameerpet,Independent House,3,3,1560,0.0,After 3 Years,1,0,0,0,0,1,8.81,7728,12060000.0,17.44935,78.46006
+Kukatpally,Builder Floor,2,2,1176,15.4,Ready to Move,1,0,1,1,0,3,5.75,5280,6210000.0,17.4932,78.39204
+Kukatpally,Independent House,3,4,1837,0.0,In 3 Years,1,0,1,0,1,3,6.29,6831,12550000.0,17.49298,78.40589
+Tellapur,Apartment,3,3,1987,14.0,Ready to Move,1,1,1,0,1,4,10.7,5306,10540000.0,17.46994,78.28023
+Manikonda,Apartment,2,3,1047,0.0,In 3 Years,1,0,0,0,1,2,5.15,7147,7480000.0,17.39905,78.39087
+Tellapur,Builder Floor,3,3,1791,0.0,After 3 Years,1,0,0,1,0,2,8.58,5790,10370000.0,17.45858,78.29787
+Madhapur,Villa,4,5,2701,8.7,Ready to Move,1,0,1,0,1,3,3.35,13120,35440000.0,17.46068,78.40316
+Madhapur,Independent House,4,5,2312,13.0,Ready to Move,1,1,1,0,1,4,2.16,10661,24650000.0,17.44197,78.39753
+Uppal,Apartment,2,2,1088,15.3,Ready to Move,1,1,0,0,1,3,20.47,4752,5170000.0,17.40312,78.56549
+Miyapur,Apartment,3,4,1426,15.3,Ready to Move,1,1,1,0,1,4,5.55,5373,7660000.0,17.48855,78.35461
+Tolichowki,Villa,2,2,1192,0.0,In 1 Year,1,0,1,0,0,2,6.6,7435,8860000.0,17.40405,78.42366
+Kompally,Apartment,1,2,682,6.7,Ready to Move,0,0,1,0,0,1,15.36,4572,3120000.0,17.51295,78.50237
+Gachibowli,Independent House,3,4,1872,0.0,In 3 Years,1,1,1,0,1,4,2.79,9202,17230000.0,17.43042,78.35474
+Kondapur,Independent House,3,4,1608,0.0,In 3 Years,1,0,0,0,1,2,2.67,8919,14340000.0,17.4658,78.36778
+HITEC City,Apartment,2,3,1170,3.1,Ready to Move,1,1,1,0,1,4,0.88,9911,11600000.0,17.44262,78.36892
+Hayathnagar,Builder Floor,3,3,1957,0.0,After 3 Years,1,1,0,0,1,3,25.99,3479,6810000.0,17.3412,78.59744
+HITEC City,Apartment,4,4,2651,0.0,In 2 Years,1,1,0,1,1,4,1.62,9677,25650000.0,17.43084,78.36965
+Nizampet,Apartment,3,4,1645,9.7,Ready to Move,1,1,0,0,0,2,9.32,5977,9830000.0,17.52547,78.3954
+Shamshabad,Apartment,3,3,2209,0.0,After 3 Years,0,1,1,0,0,2,20.02,5130,11330000.0,17.26484,78.40085
+Hayathnagar,Builder Floor,1,2,663,11.2,Ready to Move,1,1,1,1,1,5,25.67,3817,2530000.0,17.33563,78.59104
+Financial District,Independent House,3,4,1674,9.7,Ready to Move,1,0,0,0,0,1,4.7,9279,15530000.0,17.42385,78.33801
+Gachibowli,Villa,3,4,1754,0.0,In 1 Year,1,0,1,1,1,4,3.36,10576,18550000.0,17.44015,78.34576
+Kondapur,Independent House,5,5,3714,1.4,Ready to Move,1,0,0,0,1,2,2.82,9010,33460000.0,17.46445,78.36222
+Gachibowli,Apartment,3,4,2083,7.9,Ready to Move,1,1,0,0,0,2,3.31,7981,16620000.0,17.42673,78.35145
+HITEC City,Independent House,3,4,1735,0.0,In 2 Years,1,0,0,1,0,2,1.38,9468,16430000.0,17.43159,78.37348
+Bachupally,Villa,5,6,4428,13.8,Ready to Move,1,0,1,0,0,2,10.61,6412,28390000.0,17.53737,78.35932
+Tolichowki,Independent House,4,5,2659,0.0,In 1 Year,1,0,1,0,0,2,6.22,6370,16940000.0,17.40933,78.42358
+Nizampet,Apartment,2,3,931,0.0,In 2 Years,1,1,1,0,1,4,8.86,6625,6170000.0,17.52316,78.38046
+Jubilee Hills,Apartment,3,3,1556,19.2,Ready to Move,0,1,0,1,0,2,1.92,14186,22080000.0,17.44477,78.39527
+HITEC City,Apartment,2,3,1249,0.0,In 1 Year,1,1,1,0,1,4,1.17,9938,12410000.0,17.44315,78.38827
+LB Nagar,Apartment,1,1,754,0.0,In 3 Years,1,1,1,0,0,3,19.59,4485,3380000.0,17.35757,78.53832
+Kompally,Independent House,4,5,2567,0.0,In 1 Year,1,0,0,0,0,1,14.79,5879,15090000.0,17.52282,78.48914
+Attapur,Villa,3,4,1616,0.0,In 1 Year,1,0,1,1,0,3,10.24,6206,10030000.0,17.36929,78.43438
+Shamshabad,Independent House,2,2,1101,10.0,Ready to Move,1,0,0,0,1,2,21.59,3760,4140000.0,17.25109,78.40457
+Manikonda,Apartment,2,3,1025,0.0,After 3 Years,1,1,0,0,0,2,5.31,6928,7100000.0,17.3959,78.38117
+Madhapur,Builder Floor,2,2,951,6.0,Ready to Move,1,0,0,0,1,2,0.46,8569,8150000.0,17.44706,78.37932
+Financial District,Apartment,4,4,2506,7.6,Ready to Move,1,1,0,0,1,3,5.46,9126,22870000.0,17.42825,78.32832
+Miyapur,Apartment,3,4,1753,0.0,In 3 Years,1,1,1,1,1,5,6.04,5934,10400000.0,17.49228,78.35217
+Shamshabad,Independent House,4,4,2599,16.4,Ready to Move,1,0,1,0,1,3,21.22,3725,9680000.0,17.25358,78.39693
+Manikonda,Villa,3,3,2310,0.0,In 1 Year,1,0,1,1,0,3,4.66,8100,18710000.0,17.4121,78.40633
+Uppal,Apartment,2,2,1281,19.9,Ready to Move,1,1,0,0,0,2,19.75,3935,5040000.0,17.39132,78.55513
+Bachupally,Independent House,4,5,2261,19.2,Ready to Move,1,0,0,0,1,2,11.82,4900,11080000.0,17.54983,78.37693
+HITEC City,Independent House,3,4,1604,0.0,After 3 Years,1,0,0,0,0,1,1.31,9771,15670000.0,17.44746,78.36555
+Narsingi,Builder Floor,3,3,1888,10.0,Ready to Move,1,0,1,0,0,2,4.03,6780,12800000.0,17.41423,78.35485
+Banjara Hills,Apartment,2,3,1161,13.3,Ready to Move,1,1,0,0,0,2,8.12,13725,15930000.0,17.41767,78.4488
+Banjara Hills,Independent House,4,4,2855,0.0,In 2 Years,1,0,0,0,1,2,5.91,16002,45690000.0,17.41133,78.42157
+Miyapur,Apartment,3,4,1628,19.7,Ready to Move,1,1,0,0,0,2,6.62,5380,8760000.0,17.49341,78.34321
+Financial District,Builder Floor,2,2,1041,19.7,Ready to Move,1,1,1,0,1,4,3.98,6984,7270000.0,17.41729,78.35163
+Secunderabad,Villa,5,6,3593,0.0,In 2 Years,1,0,1,0,0,2,11.82,8681,31190000.0,17.4297,78.48766
+Kondapur,Apartment,4,4,2449,0.0,In 1 Year,1,0,0,1,1,3,1.86,8590,21040000.0,17.44845,78.3604
+Shamshabad,Apartment,1,2,485,0.0,After 3 Years,1,1,0,0,0,2,19.6,4101,1990000.0,17.26764,78.38917
+HITEC City,Apartment,2,3,927,0.0,After 3 Years,1,0,0,0,0,1,2.41,9098,8430000.0,17.42341,78.38573
+Madhapur,Apartment,2,3,1026,0.0,In 3 Years,1,0,1,1,1,4,2.16,11250,11540000.0,17.46047,78.38719
+Kukatpally,Independent House,5,6,3052,2.7,Ready to Move,1,0,0,0,0,1,7.71,6175,18850000.0,17.50783,78.40428
+Nizampet,Apartment,3,3,1747,0.0,In 1 Year,1,1,1,1,1,5,6.69,6424,11220000.0,17.50179,78.39295
+Nizampet,Apartment,2,2,1065,1.3,Ready to Move,1,0,1,1,0,3,9.69,6253,6660000.0,17.53036,78.36948
+Miyapur,Builder Floor,3,3,1738,10.0,Ready to Move,1,0,1,0,1,3,8.58,4884,8490000.0,17.5156,78.34825
+Medchal,Independent House,3,4,1796,0.0,In 3 Years,1,0,0,0,0,1,23.6,3402,6110000.0,17.6317,78.4801
+Kukatpally,Apartment,3,3,1808,16.3,Ready to Move,1,1,0,1,0,3,4.74,5619,10160000.0,17.47792,78.40349
+Kukatpally,Villa,2,2,1336,12.3,Ready to Move,1,0,1,0,0,2,5.04,5852,7820000.0,17.48679,78.39129
+Miyapur,Apartment,3,4,1666,0.0,In 2 Years,0,1,0,1,0,2,7.16,6853,11420000.0,17.50588,78.36051
+Gachibowli,Builder Floor,3,4,1647,10.8,Ready to Move,1,1,1,0,0,3,4.56,8325,13710000.0,17.42351,78.33963
+Kompally,Builder Floor,1,2,704,17.7,Ready to Move,1,1,1,1,0,4,15.38,4150,2920000.0,17.54626,78.47421
+Financial District,Apartment,4,4,2392,8.1,Ready to Move,0,0,1,0,0,1,3.96,7721,18470000.0,17.42042,78.34882
+Jubilee Hills,Builder Floor,2,3,1282,0.0,In 1 Year,1,1,1,1,1,5,3.24,17325,22210000.0,17.43188,78.40518
+Gachibowli,Independent House,5,5,3662,0.0,In 3 Years,1,0,0,0,0,1,2.29,9139,33470000.0,17.45232,78.35771
+Medchal,Builder Floor,3,3,1634,0.0,In 1 Year,0,0,1,0,1,2,21.07,3507,5730000.0,17.6166,78.45806
+Kukatpally,Independent House,5,5,3641,0.0,In 2 Years,1,0,0,0,0,1,3.92,6136,22340000.0,17.47626,78.39073
+Mehdipatnam,Apartment,3,3,1699,12.5,Ready to Move,1,1,1,0,1,4,8.65,6346,10780000.0,17.3951,78.44107
+Kukatpally,Apartment,3,4,1670,11.1,Ready to Move,1,0,0,1,1,3,7.95,5683,9490000.0,17.51284,78.39556
+Gachibowli,Apartment,4,4,2291,11.8,Ready to Move,1,1,1,1,1,5,3.06,7903,18110000.0,17.44133,78.34848
+Dilsukhnagar,Villa,2,3,1306,3.2,Ready to Move,1,0,1,0,1,3,16.89,7512,9810000.0,17.38,78.52182
+Jubilee Hills,Independent House,3,4,1895,18.0,Ready to Move,0,0,0,0,1,1,3.27,14784,28020000.0,17.42052,78.39648
+Uppal,Apartment,2,3,1284,14.6,Ready to Move,1,0,1,0,1,3,19.04,4478,5750000.0,17.4003,78.55088
+Miyapur,Independent House,4,4,2763,6.9,Ready to Move,1,0,1,0,0,2,6.01,6628,18310000.0,17.4927,78.35386
+Jubilee Hills,Independent House,3,4,1569,0.0,In 3 Years,1,0,0,0,0,1,4.42,14083,22100000.0,17.42733,78.4153
+Kothapet,Builder Floor,2,2,1017,0.0,In 3 Years,1,0,1,1,1,4,19.53,5290,5380000.0,17.37661,78.54741
+Jubilee Hills,Builder Floor,2,3,1054,6.0,Ready to Move,0,0,1,1,1,3,4.74,16010,16870000.0,17.44009,78.42178
+Manikonda,Apartment,2,2,1172,0.0,In 2 Years,1,1,0,1,0,3,5.29,6726,7880000.0,17.39726,78.38898
+Banjara Hills,Apartment,3,4,1447,15.7,Ready to Move,1,1,1,0,0,3,6.35,13964,20210000.0,17.42525,78.43387
